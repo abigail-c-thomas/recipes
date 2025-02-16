@@ -6,7 +6,7 @@ layout: default
 <ul>
 {% for recipe in site.recipes %}
   <li>
-    <a href="{{ recipe.url }}">{{ recipe.title }}</a>
+    <a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a>
   </li>
 {% endfor %}
 </ul>
