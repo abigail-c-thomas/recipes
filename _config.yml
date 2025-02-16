@@ -1,7 +1,7 @@
 # Site settings
 title: Classical Recipes
 description: A collection of recipes from the classical world
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
 baseurl: "/recipes"
 
 # Build settings
