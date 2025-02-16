@@ -13,24 +13,6 @@ collections:
     output: true
     permalink: /recipes/:title/
 
-# Default layouts
-defaults:
-  - scope:
-      path: ""
-      type: "recipes"
-    values:
-      layout: "recipe"
-  - scope:
-      path: "ingredients"
-      type: "pages"
-    values:
-      layout: "tag-index"
-  - scope:
-      path: "sources"
-      type: "pages"
-    values:
-      layout: "tag-index"
-
 # Recipe categorization prefixes
 recipe_tag_prefixes:
   - ingredient
