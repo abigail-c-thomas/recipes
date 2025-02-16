@@ -2,6 +2,7 @@
 layout: recipe
 title: Parthian Chicken
 tags: [era:roman_empire, source:apicius, poultry]
+permalink: /recipes/parthian-chicken.html
 ---
 
 # Parthian Chicken
