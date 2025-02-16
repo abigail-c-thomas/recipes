@@ -9,7 +9,7 @@
     <style>
       .sidebar {
         height: 100%;
-        width: 0;
+        width: var(--initial-sidebar-width, 0);
         position: fixed;
         z-index: 1;
         top: 0;
@@ -27,6 +27,8 @@
         color: #818181;
         display: block;
         transition: 0.3s;
+        width: 250px;
+        box-sizing: border-box;
       }
       
       .sidebar a:hover {
@@ -34,8 +36,29 @@
       }
       
       #main {
-        transition: margin-left .5s;
+        transition: margin-left .5s, opacity .3s ease-in-out;
         padding: 16px;
+        opacity: 0;
+        margin-left: var(--initial-main-margin, 0);
+      }
+      
+      #main.loaded {
+        opacity: 1;
+      }
+      
+      .wrapper {
+        animation: fadeIn 0.3s ease-in-out;
+      }
+      
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(10px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
       }
       
       .toggle-btn {
@@ -55,6 +78,61 @@
         .sidebar {padding-top: 15px;}
         .sidebar a {font-size: 18px;}
       }
+      
+      .dropdown-toggle {
+        float: right;
+        margin-right: 20px;
+        font-size: 12px;
+        cursor: pointer;
+        position: absolute;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        width: 40px;
+        z-index: 2;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      
+      .dropdown-toggle::before {
+        content: "▶";
+        transition: transform 0.3s ease-in-out;
+        transform: var(--initial-toggle-transform, none);
+      }
+      
+      .dropdown-toggle.active::before {
+        transform: rotate(90deg);
+      }
+      
+      .dropdown a {
+        position: relative;
+      }
+      
+      .dropdown-content {
+        background-color: #222;
+        opacity: 0;
+        transform: translateY(-10px);
+        transition: opacity 0.4s ease-in-out, transform 0.4s ease-in-out, max-height 0.4s ease-in-out;
+        pointer-events: none;
+        max-height: 0;
+        overflow: hidden;
+      }
+      
+      .dropdown-content.active {
+        opacity: 1;
+        transform: translateY(0);
+        pointer-events: auto;
+        max-height: 1000px;
+      }
+      
+      .dropdown-content .dropdown-item {
+        padding-left: 48px;
+        font-size: 16px;
+        position: relative;
+        transform: none;
+        transition: color 0.3s;
+      }
     </style>
   </head>
   <body>
@@ -62,7 +140,16 @@
     
     <div id="mySidebar" class="sidebar">
       <a href="{{ site.baseurl }}/">Home</a>
-      <a href="{{ site.baseurl }}/recipe-index/">Recipes</a>
+      <div class="dropdown">
+        <a href="{{ site.baseurl }}/recipe-index/">Recipes <span class="dropdown-toggle"></span></a>
+        <div class="dropdown-content">
+          {% for recipe in site.recipes %}
+            {% unless recipe.draft %}
+              <a href="{{ site.baseurl }}{{ recipe.url }}" class="dropdown-item">{{ recipe.title }}</a>
+            {% endunless %}
+          {% endfor %}
+        </div>
+      </div>
       <a href="{{ site.baseurl }}/ingredients/">Ingredients</a>
     </div>
 
@@ -75,15 +162,79 @@
     </div>
 
     <script>
-      function toggleSidebar() {
+      // Run this before DOMContentLoaded to prevent flicker
+      if (localStorage.getItem('sidebarOpen') === 'true') {
+        document.documentElement.style.setProperty('--initial-sidebar-width', '250px');
+        document.documentElement.style.setProperty('--initial-main-margin', '250px');
+      }
+      
+      const path = window.location.pathname;
+      const isRecipeSection = path.includes('/recipe-index/') || path.includes('/recipes/');
+      if (isRecipeSection && localStorage.getItem('dropdownOpen') === 'true') {
+        document.documentElement.style.setProperty('--initial-dropdown-display', 'block');
+        document.documentElement.style.setProperty('--initial-toggle-transform', 'rotate(90deg)');
+      }
+
+      document.addEventListener('DOMContentLoaded', function() {
         const sidebar = document.getElementById("mySidebar");
         const main = document.getElementById("main");
-        if (sidebar.style.width === "250px") {
+        const dropdown = document.querySelector('.dropdown');
+        const dropdownToggle = document.querySelector('.dropdown-toggle');
+        const dropdownContent = document.querySelector('.dropdown-content');
+
+        // Prevent navigation and animation for same-page links
+        document.querySelectorAll('a').forEach(link => {
+          link.addEventListener('click', function(e) {
+            const currentPath = window.location.pathname;
+            const clickedPath = new URL(link.href, window.location.origin).pathname;
+            
+            if (currentPath === clickedPath) {
+              e.preventDefault();
+            }
+          });
+        });
+
+        // Handle recipe section dropdown state
+        const path = window.location.pathname;
+        const isRecipeSection = path.includes('/recipe-index/') || path.includes('/recipes/');
+        if (isRecipeSection && localStorage.getItem('dropdownOpen') === 'true') {
+          dropdownToggle.classList.add('active');
+          dropdownContent.classList.add('active');
+        } else {
+          localStorage.removeItem('dropdownOpen');
+        }
+
+        // Event Listeners
+        main.addEventListener('click', function(e) {
+          if (window.innerWidth <= 768 && !sidebar.contains(e.target)) {
+            toggleSidebar(true);
+          }
+        });
+
+        dropdown.addEventListener('click', function(e) {
+          if (e.target.classList.contains('dropdown-item')) return;
+          if (e.target.classList.contains('dropdown-toggle')) {
+            e.preventDefault();
+            dropdownToggle.classList.toggle('active');
+            dropdownContent.classList.toggle('active');
+            localStorage.setItem('dropdownOpen', dropdownContent.classList.contains('active'));
+          }
+        });
+
+        main.classList.add('loaded');
+      });
+
+      function toggleSidebar(forceClose = false) {
+        const sidebar = document.getElementById("mySidebar");
+        const main = document.getElementById("main");
+        if (sidebar.style.width === "250px" || forceClose) {
           sidebar.style.width = "0";
           main.style.marginLeft = "0";
+          localStorage.setItem('sidebarOpen', 'false');
         } else {
           sidebar.style.width = "250px";
           main.style.marginLeft = "250px";
+          localStorage.setItem('sidebarOpen', 'true');
         }
       }
     </script>

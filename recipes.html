@@ -120,13 +120,33 @@ document.addEventListener('DOMContentLoaded', function() {
   const clearButton = document.createElement('button');
   clearButton.textContent = 'Clear Filters';
   clearButton.className = 'clear-filters';
-  clearButton.addEventListener('click', clearFilters);
+  clearButton.addEventListener('click', () => {
+    clearFilters();
+    updateURL();
+  });
   filterControls.appendChild(clearButton);
 
   function clearFilters() {
     tagFilters.forEach(cb => cb.checked = false);
     ingredientFilters.forEach(cb => cb.checked = false);
     updateVisibility();
+  }
+
+  function updateURL() {
+    const selectedTags = Array.from(tagFilters)
+      .filter(cb => cb.checked)
+      .map(cb => cb.dataset.tag);
+    
+    const selectedIngredients = Array.from(ingredientFilters)
+      .filter(cb => cb.checked)
+      .map(cb => cb.dataset.ingredient);
+
+    const params = new URLSearchParams();
+    if (selectedTags.length) params.set('tags', selectedTags.join(','));
+    if (selectedIngredients.length) params.set('ingredients', selectedIngredients.join(','));
+    
+    const newURL = `${window.location.pathname}${params.toString() ? '?' + params.toString() : ''}`;
+    history.pushState({}, '', newURL);
   }
 
   function updateVisibility() {
@@ -142,7 +162,6 @@ document.addEventListener('DOMContentLoaded', function() {
       const itemTags = item.dataset.tags.split(',');
       const itemIngredients = item.dataset.ingredients.split(',');
       
-      // Changed to check if ALL selected tags and ingredients are present
       const tagMatch = selectedTags.length === 0 || 
         selectedTags.every(tag => itemTags.includes(tag));
       
@@ -153,7 +172,36 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
 
-  tagFilters.forEach(cb => cb.addEventListener('change', updateVisibility));
-  ingredientFilters.forEach(cb => cb.addEventListener('change', updateVisibility));
+  // Apply filters from URL parameters
+  const params = new URLSearchParams(window.location.search);
+  if (params.has('tags')) {
+    const urlTags = params.get('tags').split(',');
+    tagFilters.forEach(cb => {
+      if (urlTags.includes(cb.dataset.tag)) {
+        cb.checked = true;
+      }
+    });
+  }
+  if (params.has('ingredients')) {
+    const urlIngredients = params.get('ingredients').split(',');
+    ingredientFilters.forEach(cb => {
+      if (urlIngredients.includes(cb.dataset.ingredient)) {
+        cb.checked = true;
+      }
+    });
+  }
+
+  tagFilters.forEach(cb => cb.addEventListener('change', () => {
+    updateVisibility();
+    updateURL();
+  }));
+  
+  ingredientFilters.forEach(cb => cb.addEventListener('change', () => {
+    updateVisibility();
+    updateURL();
+  }));
+
+  // Initial visibility update
+  updateVisibility();
 });
 </script> 

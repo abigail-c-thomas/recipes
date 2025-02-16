@@ -9,7 +9,7 @@
         <div class="recipe-tags">
           <h3>Categories:</h3>
           {% for tag in page.tags %}
-            <a href="{{ site.baseurl }}/tags/{{ tag }}" class="tag-button">
+            <a href="{{ site.baseurl }}/recipe-index/?tags={{ tag }}" class="tag-button">
               {{ tag | replace:'era:','' | replace:'source:','' | replace:'_',' ' | capitalize }}
             </a>
           {% endfor %}
