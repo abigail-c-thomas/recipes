@@ -1,0 +1,15 @@
+<div class="recipe">
+  <h1>{{ page.title }}</h1>
+  
+  {% if page.tags %}
+    <div class="recipe-tags">
+      {% for tag in page.tags %}
+        <span class="tag">{{ tag | replace:'era:','' | replace:'source:','' | capitalize }}</span>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  <div class="recipe-content">
+    {{ content }}
+  </div>
+</div> 
