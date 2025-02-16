@@ -12,7 +12,7 @@ permalink: /recipes/parthian-chicken.html
 
 *Parthian chicken*: Open the chicken along the backbone and cut into quarters. Grind pepper, lovage, and a little caraway; mix with fish sauce and temper with wine. Place the chicken in an earthenware dish and pour the seasoning over it. Dissolve fresh laser in warm water and add it to the chicken, then cook everything together. Serve with a sprinkling of pepper
 
-—*Apicius, 6.8.3, c. 350*
+—*Apicius*, 6.8.3, c. 350
 
 ## Description
 Parthian chicken is a blah blah paragraph about the recipe goes here… maybe a couple paragraphs, noting that this dish appears to be named after Parthia. This could be because it is stylistically similar to a Parthian dish, though lovage and caraway both are distinctly Roman ingredients this seems unlikely. Instead the dish may be named because of its prominent use of asafoetida, known in Latin as Parthian laser to distinguish from silphium, which was called Cyrenaican laser.
@@ -35,4 +35,4 @@ Parthian chicken is a blah blah paragraph about the recipe goes here… maybe a 
 
 ## Notes
 - Using bone-in, skin-on, chicken thighs can be a convenient alternative to quartering a whole chicken. Substitute 6 chicken thighs for a whole chicken.
-- Apicius 6.8.6, for chicken in laser sauce, is an almost identical recipe but lacks the caraway seeds used here. So feel free to omit the caraway seeds if you don't have any, or dislike them.
+- *Apicius* 6.8.6, for chicken in *laser* sauce, is an almost identical recipe but lacks the caraway seeds used here. So feel free to omit the caraway seeds if you don't have any, or dislike them.
