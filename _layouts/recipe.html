@@ -1,19 +1,23 @@
 ---
-layout: jekyll-theme-dinky
+layout: default
 ---
 
-<div class="recipe">
-  <h1>{{ page.title }}</h1>
-  
-  {% if page.tags %}
-    <div class="recipe-tags">
-      {% for tag in page.tags %}
-        <span class="tag">{{ tag | replace:'era:','' | replace:'source:','' | capitalize }}</span>
-      {% endfor %}
-    </div>
-  {% endif %}
+<div class="wrapper">
+  <section>
+    <div class="recipe">
+      <h1>{{ page.title }}</h1>
+      
+      {% if page.tags %}
+        <div class="recipe-tags">
+          {% for tag in page.tags %}
+            <span class="tag">{{ tag | replace:'era:','' | replace:'source:','' | capitalize }}</span>
+          {% endfor %}
+        </div>
+      {% endif %}
 
-  <div class="recipe-content">
-    {{ content }}
-  </div>
+      <div class="recipe-content">
+        {{ content }}
+      </div>
+    </div>
+  </section>
 </div> 
