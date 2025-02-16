@@ -1,0 +1,42 @@
+# Site settings
+title: My Recipe Collection
+description: A collection of recipes
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:title/
+
+# Default layouts
+defaults:
+  - scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "recipe"
+  - scope:
+      path: "ingredients"
+      type: "pages"
+    values:
+      layout: "tag-index"
+  - scope:
+      path: "sources"
+      type: "pages"
+    values:
+      layout: "tag-index"
+
+# Recipe categorization prefixes
+recipe_tag_prefixes:
+  - ingredient
+  - source
+  - technique
+
+# For dev convenience:
+livereload: true 
+port: 4000        
+host: 127.0.0.1 
