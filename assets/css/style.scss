@@ -1,0 +1,26 @@
+@import "{{ site.theme }}";
+
+/* Custom styles for recipes */
+.recipe {
+  margin-top: 2em;
+}
+
+.recipe-tags {
+  margin: 1em 0;
+}
+
+.tag {
+  display: inline-block;
+  background: #675c5c;
+  color: white;
+  padding: 0.2em 0.6em;
+  border-radius: 3px;
+  font-size: 0.8em;
+  margin-right: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.recipe-content {
+  margin-top: 2em;
+  line-height: 1.6;
+} 
