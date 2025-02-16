@@ -4,14 +4,30 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }} - {{ site.title }}</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
 </head>
 <body>
-    <nav>
-        <a href="{{ site.baseurl }}/">Home</a>
+    <nav class="main-nav">
+        <div class="nav-container">
+            <a href="{{ site.baseurl }}/" class="nav-link">Home</a>
+        </div>
     </nav>
 
     <main>
         {{ content }}
     </main>
+
+    <footer class="site-footer">
+        <div class="footer-content">
+            <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+        </div>
+    </footer>
 </body>
 </html>

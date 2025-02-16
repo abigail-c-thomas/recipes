@@ -1,6 +1,6 @@
 # Site settings
-title: My Recipe Collection
-description: A collection of recipes
+title: Classical Recipes
+description: A collection of recipes from the classical world
 theme: jekyll-theme-minimal
 baseurl: "/recipes"
 
