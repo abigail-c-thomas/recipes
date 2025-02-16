@@ -3,14 +3,14 @@ layout: recipe
 title: Spiced Wine
 tags: [era:roman_empire, beverage, source:apicius]
 ingredients: [wine, honey, black pepper, bay leaf, saffron, date, mastic]
-permalink: /recipes/spiced-wine.html
+permalink: /recipe-index/spiced-wine.html
 ---
 
 {% capture recipe_content %}
 # Spiced Wine
 
 ### Original Text
-***Conditum Paradoxum**: original text goes here (Damon pls fill in) *
+***Conditum Paradoxum**: original text goes here (Damon pls fill in)*
 
 **Spiced wine**: direct translation goes here (Damon pls fill in)
 
