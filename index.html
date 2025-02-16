@@ -1,23 +1,11 @@
 ---
 layout: default
 ---
-<div class="recipe-index">
-  <h1 class="page-title">Ancient Recipe Collection</h1>
-  
-  <div class="recipe-grid">
-    {% for recipe in site.recipes %}
-      <div class="recipe-card">
-        <a href="{{ site.baseurl }}{{ recipe.url }}" class="recipe-link">
-          <h2>{{ recipe.title }}</h2>
-          {% if recipe.tags %}
-            <div class="recipe-tags">
-              {% for tag in recipe.tags %}
-                <span class="tag">{{ tag | replace:'era:','' | replace:'source:','' | capitalize }}</span>
-              {% endfor %}
-            </div>
-          {% endif %}
-        </a>
-      </div>
-    {% endfor %}
-  </div>
-</div>
+
+{% capture main_content %}
+# Classical recipe collection
+
+Generic notes.
+{% endcapture %}
+
+{{ main_content | markdownify }}

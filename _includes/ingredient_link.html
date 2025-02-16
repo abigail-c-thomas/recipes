@@ -1,0 +1,2 @@
+{% assign ingredient_id = include.name | downcase | replace: ' ', '-' %}
+<a href="/ingredients#{{ ingredient_id }}">{{ include.name }}</a> 

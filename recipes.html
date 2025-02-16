@@ -1,0 +1,156 @@
+---
+layout: default
+title: Recipe Index
+permalink: /recipes/
+---
+
+<h1>Recipe Index</h1>
+
+<div class="filter-controls">
+  <div class="filter-section">
+    <h3>Filter by Tags</h3>
+    <div id="tag-filters">
+      {% assign all_tags = "" | split: "" %}
+      {% for recipe in site.recipes %}
+        {% assign all_tags = all_tags | concat: recipe.tags %}
+      {% endfor %}
+      {% assign unique_tags = all_tags | uniq | sort %}
+      
+      {% for tag in unique_tags %}
+        <label class="filter-checkbox">
+          <input type="checkbox" class="tag-filter" data-tag="{{ tag }}">
+          {{ tag }}
+        </label>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="filter-section">
+    <h3>Filter by Ingredients</h3>
+    <div id="ingredient-filters">
+      {% assign all_ingredients = "" | split: "" %}
+      {% for recipe in site.recipes %}
+        {% assign all_ingredients = all_ingredients | concat: recipe.ingredients %}
+      {% endfor %}
+      {% assign unique_ingredients = all_ingredients | uniq | sort %}
+      
+      {% for ingredient in unique_ingredients %}
+        <label class="filter-checkbox">
+          <input type="checkbox" class="ingredient-filter" data-ingredient="{{ ingredient }}">
+          <a href="/ingredients#{{ ingredient }}">{{ ingredient }}</a>
+        </label>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div id="recipe-list">
+  {% for recipe in site.recipes %}
+    <div class="recipe-item" 
+         data-tags="{{ recipe.tags | join: ',' }}"
+         data-ingredients="{{ recipe.ingredients | join: ',' }}">
+      <h2><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></h2>
+      {% if recipe.tags %}
+        <div class="tags">
+          Tags: {{ recipe.tags | join: ", " }}
+        </div>
+      {% endif %}
+      {% if recipe.ingredients %}
+        <div class="ingredients">
+          Ingredients: {{ recipe.ingredients | join: ", " }}
+        </div>
+      {% endif %}
+      <hr>
+    </div>
+  {% endfor %}
+</div>
+
+<style>
+.filter-controls {
+  margin: 20px 0;
+  padding: 15px;
+  background: #f5f5f5;
+  border-radius: 5px;
+}
+
+.filter-section {
+  margin-bottom: 15px;
+}
+
+.filter-checkbox {
+  display: inline-block;
+  margin-right: 15px;
+  margin-bottom: 8px;
+}
+
+.recipe-item {
+  margin-bottom: 20px;
+}
+
+.recipe-item.hidden {
+  display: none;
+}
+
+.clear-filters {
+  margin-top: 10px;
+  padding: 8px 15px;
+  background: #333;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.clear-filters:hover {
+  background: #444;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const recipeItems = document.querySelectorAll('.recipe-item');
+  const tagFilters = document.querySelectorAll('.tag-filter');
+  const ingredientFilters = document.querySelectorAll('.ingredient-filter');
+  
+  // Add clear filters button
+  const filterControls = document.querySelector('.filter-controls');
+  const clearButton = document.createElement('button');
+  clearButton.textContent = 'Clear Filters';
+  clearButton.className = 'clear-filters';
+  clearButton.addEventListener('click', clearFilters);
+  filterControls.appendChild(clearButton);
+
+  function clearFilters() {
+    tagFilters.forEach(cb => cb.checked = false);
+    ingredientFilters.forEach(cb => cb.checked = false);
+    updateVisibility();
+  }
+
+  function updateVisibility() {
+    const selectedTags = Array.from(tagFilters)
+      .filter(cb => cb.checked)
+      .map(cb => cb.dataset.tag);
+    
+    const selectedIngredients = Array.from(ingredientFilters)
+      .filter(cb => cb.checked)
+      .map(cb => cb.dataset.ingredient);
+
+    recipeItems.forEach(item => {
+      const itemTags = item.dataset.tags.split(',');
+      const itemIngredients = item.dataset.ingredients.split(',');
+      
+      // Changed to check if ALL selected tags and ingredients are present
+      const tagMatch = selectedTags.length === 0 || 
+        selectedTags.every(tag => itemTags.includes(tag));
+      
+      const ingredientMatch = selectedIngredients.length === 0 || 
+        selectedIngredients.every(ing => itemIngredients.includes(ing));
+
+      item.classList.toggle('hidden', !(tagMatch && ingredientMatch));
+    });
+  }
+
+  tagFilters.forEach(cb => cb.addEventListener('change', updateVisibility));
+  ingredientFilters.forEach(cb => cb.addEventListener('change', updateVisibility));
+});
+</script> 
