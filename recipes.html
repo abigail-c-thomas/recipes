@@ -35,9 +35,10 @@ permalink: /recipes/
       {% assign unique_ingredients = all_ingredients | uniq | sort %}
       
       {% for ingredient in unique_ingredients %}
+        {% assign ingredient_id = ingredient | downcase | replace: ' ', '-' %}
         <label class="filter-checkbox">
           <input type="checkbox" class="ingredient-filter" data-ingredient="{{ ingredient }}">
-          <a href="/ingredients#{{ ingredient }}">{{ ingredient }}</a>
+          <a href="{{ site.baseurl }}/ingredients#{{ ingredient_id }}">{{ ingredient }}</a>
         </label>
       {% endfor %}
     </div>
@@ -49,7 +50,7 @@ permalink: /recipes/
     <div class="recipe-item" 
          data-tags="{{ recipe.tags | join: ',' }}"
          data-ingredients="{{ recipe.ingredients | join: ',' }}">
-      <h2><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></h2>
+      <h2><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></h2>
       {% if recipe.tags %}
         <div class="tags">
           Tags: {{ recipe.tags | join: ", " }}
