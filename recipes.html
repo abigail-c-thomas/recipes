@@ -47,22 +47,24 @@ permalink: /recipe-index/
 
 <div id="recipe-list">
   {% for recipe in site.recipes %}
-    <div class="recipe-item" 
-         data-tags="{{ recipe.tags | join: ',' }}"
-         data-ingredients="{{ recipe.ingredients | join: ',' }}">
-      <h2><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></h2>
-      {% if recipe.tags %}
-        <div class="tags">
-          Tags: {{ recipe.tags | join: ", " }}
-        </div>
-      {% endif %}
-      {% if recipe.ingredients %}
-        <div class="ingredients">
-          Ingredients: {{ recipe.ingredients | join: ", " }}
-        </div>
-      {% endif %}
-      <hr>
-    </div>
+    {% unless recipe.draft %}
+      <div class="recipe-item" 
+           data-tags="{{ recipe.tags | join: ',' }}"
+           data-ingredients="{{ recipe.ingredients | join: ',' }}">
+        <h2><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></h2>
+        {% if recipe.tags %}
+          <div class="tags">
+            Tags: {{ recipe.tags | join: ", " }}
+          </div>
+        {% endif %}
+        {% if recipe.ingredients %}
+          <div class="ingredients">
+            Ingredients: {{ recipe.ingredients | join: ", " }}
+          </div>
+        {% endif %}
+        <hr>
+      </div>
+    {% endunless %}
   {% endfor %}
 </div>
 

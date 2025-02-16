@@ -4,6 +4,7 @@ title: Spiced Wine
 tags: [era:roman_empire, beverage, source:apicius]
 ingredients: [wine, honey, black pepper, bay leaf, saffron, date, mastic]
 permalink: /recipe-index/spiced-wine.html
+draft: true
 ---
 
 {% capture recipe_content %}
