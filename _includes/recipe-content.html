@@ -10,7 +10,7 @@
           <h3>Categories:</h3>
           {% for tag in page.tags %}
             <a href="{{ site.baseurl }}/recipe-index/?tags={{ tag }}" class="tag-button">
-              {{ tag | replace:'era:','' | replace:'source:','' | replace:'_',' ' | capitalize }}
+              {% include format_tag.html tag=tag %}
             </a>
           {% endfor %}
         </div>

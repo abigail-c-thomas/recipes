@@ -19,7 +19,7 @@ permalink: /recipe-index/
       {% for tag in unique_tags %}
         <label class="filter-checkbox">
           <input type="checkbox" class="tag-filter" data-tag="{{ tag }}">
-          {{ tag }}
+          {% include format_tag.html tag=tag %}
         </label>
       {% endfor %}
     </div>
@@ -52,11 +52,15 @@ permalink: /recipe-index/
            data-tags="{{ recipe.tags | join: ',' }}"
            data-ingredients="{{ recipe.ingredients | join: ',' }}">
         <h2><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></h2>
-        {% if recipe.tags %}
-          <div class="tags">
-            Tags: {{ recipe.tags | join: ", " }}
-          </div>
-        {% endif %}
+        <div class="tags">
+          Tags: {% for tag in recipe.tags -%}
+            {%- if forloop.first -%}
+              {%- include format_tag.html tag=tag -%}
+            {%- else -%}
+              , {% include format_tag.html tag=tag -%}
+            {%- endif -%}
+          {%- endfor -%}
+        </div>
         {% if recipe.ingredients %}
           <div class="ingredients">
             Ingredients: {{ recipe.ingredients | join: ", " }}
