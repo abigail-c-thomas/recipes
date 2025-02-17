@@ -77,7 +77,7 @@ Both green and black olives were commonly used in Roman cuisine, often preserved
 Both the seeds and leaves of the coriander plant were used in Roman cooking. The seeds have a warm, spicy flavor while the leaves (also known as cilantro) provide a fresh, citrusy taste.
 
 ## Fennel {#fennel}
-Both the bulb and seeds of fennel were used in Roman cuisine. The seeds have a sweet, anise-like flavor and were commonly used in both savory and sweet dishes.
+Both the seeds and the bulb were used in Roman cooking. The seeds have a stronger anise-like flavor and were often used in spice mixtures.
 
 ## Rue {#rue}
 A bitter herb used in Roman cooking. Due to safety concerns with modern rue, it can be omitted or substituted with a small amount of rosemary or sage.
@@ -150,6 +150,12 @@ An herb frequently used in Roman cooking, both fresh and dried. The leaves were 
 
 ## Apricots {#apricots}
 Both fresh and dried apricots were used in Roman cooking. For most recipes calling for apricots, canned or fresh can be used when in season.
+
+## Tiger Nuts {#tiger-nuts}
+A tuber used in Roman cooking, with a sweet, nutty flavor. They can be difficult to source today. Ground almonds or ground ginger can be used as substitutes, though the flavor will be different.
+
+## Mustard {#mustard}
+Both the seeds and prepared mustard were used in Roman cooking. Ground mustard seeds can be used in most recipes calling for mustard.
 
 <!-- TODO: Add more ingredients as we add more recipes -->
 {% endcapture %}
