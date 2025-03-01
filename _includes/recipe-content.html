@@ -9,7 +9,7 @@
         <div class="recipe-tags">
           <h3>Categories:</h3>
           {% for tag in page.tags %}
-            <a href="{{ site.baseurl }}/recipe-index/?tags={{ tag }}" class="tag-button">
+            <a href="/recipes/recipe-index/?tags={{ tag }}" class="tag-button">
               {% include format_tag.html tag=tag %}
             </a>
           {% endfor %}

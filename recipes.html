@@ -6,10 +6,12 @@ permalink: /recipe-index/
 
 <h1>Recipe Index</h1>
 
+<div class="filters">
 <div class="filter-controls">
-  <div class="filter-section">
-    <h3>Filter by Tags</h3>
-    <div id="tag-filters">
+  <!-- Source filters -->
+  <div class="filter-section" style="border-bottom: none;">
+    <h3 class="filter-heading"><span class="collapse-icon">▼</span> Filter by Source</h3>
+    <div id="source-filters" class="filter-content">
       {% assign all_tags = "" | split: "" %}
       {% for recipe in site.recipes %}
         {% assign all_tags = all_tags | concat: recipe.tags %}
@@ -17,17 +19,59 @@ permalink: /recipe-index/
       {% assign unique_tags = all_tags | uniq | sort %}
       
       {% for tag in unique_tags %}
-        <label class="filter-checkbox">
-          <input type="checkbox" class="tag-filter" data-tag="{{ tag }}">
-          {% include format_tag.html tag=tag %}
-        </label>
+        {% if tag contains 'source:' %}
+          <label class="filter-checkbox">
+            <input type="checkbox" class="tag-filter" data-tag="{{ tag }}">
+            {% if tag == 'source:apicius' %}
+              <a href="{{ site.baseurl }}/tags/source-apicius">{% include format_tag.html tag=tag %}</a>
+            {% else %}
+              {% include format_tag.html tag=tag %}
+            {% endif %}
+          </label>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+  
+  <!-- Era filters -->
+  <div class="filter-section" style="border-bottom: none;">
+    <h3 class="filter-heading"><span class="collapse-icon">▼</span> Filter by Era</h3>
+    <div id="era-filters" class="filter-content">
+      {% for tag in unique_tags %}
+        {% if tag contains 'era:' %}
+          <label class="filter-checkbox">
+            <input type="checkbox" class="tag-filter" data-tag="{{ tag }}">
+            {% include format_tag.html tag=tag %}
+          </label>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+  
+  <!-- Other tags filters -->
+  <div class="filter-section" style="border-bottom: none;">
+    <h3 class="filter-heading"><span class="collapse-icon">▼</span> Filter by Category</h3>
+    <div id="category-filters" class="filter-content">
+      {% for tag in unique_tags %}
+        {% unless tag contains 'source:' or tag contains 'era:' %}
+          <label class="filter-checkbox">
+            <input type="checkbox" class="tag-filter" data-tag="{{ tag }}">
+            {% if tag == 'lamb' %}
+              <a href="{{ site.baseurl }}/tags/lamb">{% include format_tag.html tag=tag %}</a>
+            {% elsif tag == 'ofellae' %}
+              <a href="{{ site.baseurl }}/tags/ofellae">{% include format_tag.html tag=tag %}</a>
+            {% else %}
+              {% include format_tag.html tag=tag %}
+            {% endif %}
+          </label>
+        {% endunless %}
       {% endfor %}
     </div>
   </div>
 
-  <div class="filter-section">
-    <h3>Filter by Ingredients</h3>
-    <div id="ingredient-filters">
+  <div class="filter-section" style="border-bottom: none;">
+    <h3 class="filter-heading"><span class="collapse-icon">▼</span> Filter by Ingredients</h3>
+    <div id="ingredient-filters" class="filter-content">
       {% assign all_ingredients = "" | split: "" %}
       {% for recipe in site.recipes %}
         {% assign all_ingredients = all_ingredients | concat: recipe.ingredients %}
@@ -44,6 +88,7 @@ permalink: /recipe-index/
     </div>
   </div>
 </div>
+</div>
 
 <div id="recipe-list">
   {% for recipe in site.recipes %}
@@ -51,7 +96,7 @@ permalink: /recipe-index/
       <div class="recipe-item" 
            data-tags="{{ recipe.tags | join: ',' }}"
            data-ingredients="{{ recipe.ingredients | join: ',' }}">
-        <h2><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></h2>
+        <h2><a href="{{ recipe.permalink }}">{{ recipe.title }}</a></h2>
         <div class="tags">
           Tags: {% for tag in recipe.tags -%}
             {%- if forloop.first -%}
@@ -81,13 +126,22 @@ permalink: /recipe-index/
 }
 
 .filter-section {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
+  padding-bottom: 8px;
+}
+
+.filter-section h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 1.2em;
+  color: #444;
 }
 
 .filter-checkbox {
   display: inline-block;
   margin-right: 15px;
   margin-bottom: 8px;
+  font-size: 0.9em;
 }
 
 .recipe-item {
@@ -111,6 +165,36 @@ permalink: /recipe-index/
 .clear-filters:hover {
   background: #444;
 }
+
+.filter-heading {
+  cursor: pointer;
+  user-select: none;
+  position: relative;
+}
+
+.collapse-icon {
+  display: inline-block;
+  font-size: 10px;
+  margin-right: 5px;
+  transition: transform 0.3s ease;
+  width: 12px;
+  text-align: center;
+}
+
+.filter-heading.collapsed .collapse-icon {
+  transform: rotate(-90deg);
+}
+
+.filter-content {
+  max-height: 500px;
+  overflow: hidden;
+  transition: max-height 0.3s ease-in-out;
+}
+
+.filter-content.collapsed {
+  max-height: 0;
+  overflow: hidden;
+}
 </style>
 
 <script>
@@ -118,6 +202,30 @@ document.addEventListener('DOMContentLoaded', function() {
   const recipeItems = document.querySelectorAll('.recipe-item');
   const tagFilters = document.querySelectorAll('.tag-filter');
   const ingredientFilters = document.querySelectorAll('.ingredient-filter');
+  const filterHeadings = document.querySelectorAll('.filter-heading');
+  
+  // Setup collapsible sections
+  filterHeadings.forEach(heading => {
+    heading.addEventListener('click', () => {
+      heading.classList.toggle('collapsed');
+      const content = heading.nextElementSibling;
+      content.classList.toggle('collapsed');
+      
+      // Store state in localStorage
+      const sectionId = heading.textContent.trim().replace(/\s+/g, '-').toLowerCase();
+      localStorage.setItem(`filter-${sectionId}`, heading.classList.contains('collapsed'));
+    });
+    
+    // Check if there's a saved state for this heading
+    const sectionId = heading.textContent.trim().replace(/\s+/g, '-').toLowerCase();
+    const isCollapsed = localStorage.getItem(`filter-${sectionId}`) === 'true';
+    
+    if (isCollapsed) {
+      heading.classList.add('collapsed');
+      const content = heading.nextElementSibling;
+      content.classList.add('collapsed');
+    }
+  });
   
   // Add clear filters button
   const filterControls = document.querySelector('.filter-controls');

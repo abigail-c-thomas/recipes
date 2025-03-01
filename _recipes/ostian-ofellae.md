@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Ostian Ofellae
-tags: [era:roman_empire, source:apicius, meat]
+tags: [era:roman_empire, source:apicius, meat, ofellae]
 ingredients: [pork, black pepper, lovage, dill, cumin, asafoetida, bay berries, fish sauce, passum, cornstarch]
 permalink: /recipe-index/ostian-ofellae.html
 ---

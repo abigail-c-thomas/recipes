@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Apician Ofellae
-tags: [era:roman_empire, source:apicius, meat]
+tags: [era:roman_empire, source:apicius, meat, ofellae]
 ingredients: [pork, passum, fish sauce, olive oil, tiger nuts, cumin, lovage, black pepper]
 permalink: /recipe-index/apician-ofellae.html
 ---

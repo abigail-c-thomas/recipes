@@ -145,7 +145,7 @@
         <div class="dropdown-content">
           {% for recipe in site.recipes %}
             {% unless recipe.draft %}
-              <a href="{{ site.baseurl }}{{ recipe.url }}" class="dropdown-item">{{ recipe.title }}</a>
+              <a href="{{ recipe.permalink }}" class="dropdown-item">{{ recipe.title }}</a>
             {% endunless %}
           {% endfor %}
         </div>
@@ -213,7 +213,7 @@
 
         dropdown.addEventListener('click', function(e) {
           if (e.target.classList.contains('dropdown-item')) return;
-          if (e.target.classList.contains('dropdown-toggle')) {
+          if (e.target.classList.contains('dropdown-toggle') || e.target.parentElement.classList.contains('dropdown-toggle')) {
             e.preventDefault();
             dropdownToggle.classList.toggle('active');
             dropdownContent.classList.toggle('active');
@@ -239,4 +239,4 @@
       }
     </script>
   </body>
-</html> 
+</html>

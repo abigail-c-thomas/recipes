@@ -12,6 +12,9 @@ collections:
   recipes:
     output: true
     permalink: /recipes/:title/
+  tags:
+    output: true
+    permalink: /tags/:name/
 
 # Recipe categorization prefixes
 recipe_tag_prefixes:
@@ -30,3 +33,8 @@ defaults:
       type: "recipes"
     values:
       layout: "recipe"  # Changed back to "recipe"
+  - scope:
+      path: ""
+      type: "tags"
+    values:
+      layout: "default"

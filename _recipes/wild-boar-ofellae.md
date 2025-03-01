@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Wild-Boar Style Ofellae
-tags: [era:roman_empire, source:apicius, meat]
+tags: [era:roman_empire, source:apicius, meat, ofellae]
 ingredients: [pork, cumin, coriander, mustard, fennel, black pepper, honey, fish sauce, cornstarch]
 permalink: /recipe-index/wild-boar-ofellae.html
 ---

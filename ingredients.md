@@ -55,6 +55,9 @@ While not an ancient ingredient, cream cheese is used in some modern adaptations
 ## Defrutum {#defrutum}
 A Roman grape must reduction, made by boiling down grape juice to about 1/3 of its original volume. Similar to modern saba or vincotto. Can be substituted with a mixture of balsamic vinegar and honey.
 
+## Milk {#milk}
+Used in Roman cooking for both sweet and savory dishes. Cow's milk was used, though goat and sheep milk were also common depending on the region.
+
 ## Mint {#mint}
 A common herb in Roman cooking, used both fresh and dried. Any variety of mint can be used, though spearmint is most common.
 
@@ -78,6 +81,9 @@ Both the seeds and leaves of the coriander plant were used in Roman cooking. The
 
 ## Fennel {#fennel}
 Both the seeds and the bulb were used in Roman cooking. The seeds have a stronger anise-like flavor and were often used in spice mixtures.
+
+## Goat Cheese {#goat-cheese}
+Fresh cheese made from goat's milk, commonly used in Mediterranean cuisine. It has a tangy flavor and was often used in both sweet and savory dishes in Roman cooking.
 
 ## Rue {#rue}
 A bitter herb used in Roman cooking. Due to safety concerns with modern rue, it can be omitted or substituted with a small amount of rosemary or sage.
@@ -112,6 +118,12 @@ The same plant as black pepper, but the outer layer is removed. It has a milder,
 ## Oregano {#oregano}
 An herb commonly used in Mediterranean cuisine. Both fresh and dried forms were used in Roman cooking.
 
+## Parsnip {#parsnip}
+A root vegetable used in Roman cooking, particularly in stews and roasted dishes. They were valued for their sweet flavor and versatility. Modern parsnips are similar to their ancient counterparts.
+
+## Prunes {#prunes}
+Dried plums used in Roman cooking, particularly in meat dishes where they add sweetness and depth of flavor. They were often paired with savory herbs and spices.
+
 ## Ginger {#ginger}
 A spicy root used in Roman cooking, typically in its dried, ground form. Fresh ginger can be substituted, though use about twice as much.
 
@@ -127,11 +139,23 @@ A common herb in Roman cooking, used both fresh and dried. Flat-leaf parsley was
 ## Bulgur Wheat {#bulgur-wheat}
 A form of cracked wheat that has been partially cooked. Common in Roman cooking, it was often used as a binder in meat dishes or as a grain side dish.
 
+## Lamb {#lamb}
+A commonly consumed meat in Roman cooking, particularly for festive occasions. Various cuts were used, from whole legs for roasting to diced meat for stews. It was often paired with strong flavors like wine, herbs, and fruits.
+
 ## Leeks {#leeks}
 A vegetable commonly used in Roman cooking. The white and light green parts were preferred, though the dark green parts could be used in stocks and broths.
 
 ## Beef {#beef}
 A meat used in Roman cooking, though less commonly than pork. Any cut can be used depending on the recipe.
+
+## Blood {#blood}
+Animal blood was used in Roman cooking, particularly for sauce thickening. Pig's blood was most common. Modern recipes may substitute a red wine reduction when blood is unavailable.
+
+## Carrot {#carrot}
+A root vegetable used in Roman cooking. Modern orange carrots are larger than their ancient counterparts, which were typically purple or white. They were often used in stews and roasted dishes.
+
+## Cowpeas {#cowpeas}
+Also known as black-eyed peas, these legumes were common in Mediterranean cuisines. They were often paired with meats in stews and slow-cooked dishes.
 
 ## Stock {#stock}
 Various meat stocks were used in Roman cooking. Chicken or beef stock can be used in most recipes unless otherwise specified.
