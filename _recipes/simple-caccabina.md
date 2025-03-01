@@ -9,16 +9,17 @@ permalink: /recipe-index/simple-caccabina.html
 {% capture recipe_content %}
 # Simple *Caccabina*
 
-### Original Text
-<!-- TODO: Add original Latin text from Vinidarius 1 -->
+### Original Latin
+*I. cacabina minore: olera diuersa elixa compone et pullina inter se, si uolueris; condis liquamine et oleo et bulliat. teres piper modicum et folium et cum tritura conmisces ouum et tribulas.*
 
-<!-- TODO: Add English translation -->
+### English Translation
+I. Small *caccabina*: Arrange various boiled vegetables and chicken pieces together, if you wish; season with fish sauce and oil and let it boil. Grind a little pepper and *folium* and mix an egg with the ground mixture and stir in.
 
-—*Vinidarius* 1
+—*Vinidarius*, 1, c. 500
 
 ___
 
-<!-- TODO: Add description paragraph about caccabina and its context in Roman cuisine -->
+Claude's intro: The *cacabina minore* (small pot dish) is one of the simplest recipes in Vinidarius' collection, reflecting everyday cooking rather than elaborate banquet preparations. Named after the *caccabus* (cooking pot), this versatile one-pot meal combines vegetables with optional poultry, creating a nutritious, economical dish that would have been accessible to ordinary households. The addition of *folium* (likely cinnamon leaf) and the egg binding technique demonstrate the continued influence of earlier Roman culinary traditions, while the straightforward preparation method reflects the more practical approach to cooking in the late 5th century as the Western Roman Empire transitioned to Gothic rule. This dish represents how Roman culinary techniques survived in simplified forms during this period of cultural change.
 
 ### Ingredients
 - 300g cabbage

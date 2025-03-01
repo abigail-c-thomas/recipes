@@ -10,9 +10,9 @@ permalink: /recipe-index/apician-ofellae.html
 # Apician *Ofellae*
 
 ### Original Text
-<!-- TODO: Add original Latin text from Apicius 7.4.2 -->
+***ofellas Apicianas**: ofellas exossas, in rotundum conplicas, surclas, ad furnum admoues. postea preduras, leuas; ut humorem exspuant in graticula igni lento exsiccabis ita ne urantur. teres piper ligusticum ciperis cuminum; liquamen et passo temperabis. cum hoc iure ouellas in caccabum mittis. cum coctæ fuerint, leuas et siccas sine iure, piper asperso et inferes. si pingues fuerint, cum surclas, tollis cutem. potest et de abdomine huiusmodi ofellas facere.*
 
-<!-- TODO: Add English translation -->
+**Apician ofellae**: Bone the ofellae, roll them into a round shape, skewer them, and place them in the oven. When partly cooked, take them out; to remove their moisture, dry them on a grill over a slow fire so they don't burn. Grind pepper, lovage, tiger nuts, and cumin; mix with fish sauce and *passum*. Put the ofellae in a pot with this sauce. When they are cooked, remove them and drain off the sauce, sprinkle with pepper and serve. If they are fatty, when you skewer them, remove the skin. You can also make this kind of ofellae from belly meat.
 
 —*Apicius*, 7.4.2, c. 350
 

@@ -9,16 +9,17 @@ permalink: /recipe-index/frontonian-piglet.html
 {% capture recipe_content %}
 # Frontonian Piglet
 
-### Original Text
-<!-- TODO: Add original Latin text from Apicius 8.7.11 -->
+### Original Latin
+**porcellum oenococtum**: porcellum preduras, ornas. adicies in caccabum oleum liquamen uinum aquam; obligas fasciculum porri coriandri; media coctura colorabis defrito. adicies in mortarium piper ligusticum careum origanum apii semen laseris radicem, fricabis; suffundes liquamen, ius de suo sibi; uino et passo temperabis. exinanies in caccabum, facies ut ferueat; cum ferbuerit amulo obligas. porcellum compositum in patina perfundes, piper asparges et inferes.
 
-<!-- TODO: Add English translation -->
+### English Translation
+**Wine-cooked piglet**: Pre-cook the piglet and prepare it. Add to a pot oil, fish sauce, wine, water; bind a bundle of leek and coriander; halfway through cooking, color with reduced wine. Add to a mortar pepper, lovage, caraway, oregano, celery seed, asafoetida root, and grind; moisten with fish sauce, its own juice; mix with wine and *passum*. Empty into the pot, bring to a boil; when it boils thicken with starch. Pour over the piglet arranged in a dish, sprinkle with pepper and serve.
 
 —*Apicius*, 8.7.11, c. 350
 
 ___
 
-<!-- TODO: Add description paragraph about this dish and who Fronto might have been -->
+Claude's intro: This recipe is named after Marcus Cornelius Fronto, who was a prominent Roman grammarian, rhetorician, and advocate who lived during the 2nd century CE. He was a tutor to future emperors Marcus Aurelius and Lucius Verus. This piglet recipe is cooked in wine (hence "oenococtum" - wine-cooked) and features a rich sauce enhanced with defrutum (reduced grape must). Cooking meat in wine was a favored technique in high-status Roman cuisine, and this would have been a dish worthy of serving at an elite banquet.
 
 ### Ingredients
 - 1 kg {% include ingredient_link.html name="pork" %} shoulder roast

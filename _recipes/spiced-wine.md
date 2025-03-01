@@ -11,9 +11,9 @@ draft: true
 # Spiced Wine
 
 ### Original Text
-***Conditum Paradoxum**: original text goes here (Damon pls fill in)*
+***Conditum Paradoxum**: conditi paradoxi conpositio: mellis pondo XV in eneum uas mittuntur, praemissis uini sextariis duobus, ut in cocturam mellis uinum dequoquas. quod igni lento et aridis lignis calefactum, commotum ferola dum quoquitur. si efferuere coeperit, uini rore conpescitur, praeter quod subtracto igni in se redit. cum perfrixerit rursus accenditur. hoc secundo ac tertio fiet, ac tum demum remotum a foco postridie despumatur, tum \<mittes\> piperis uncias quattuor iam triti, masticis scripulos III, folii et croci dragme singulae. dactilorum ossibus torridis quinque, isdemque dactilis uino mollitis, intercedente prius suffusionem uini de suo modo ac numero, ut tritura lenis habeatur. his omnibus paratis supermittis uini lenis sextaria XVIII; carbones perfecto aderunt duo milia.*
 
-**Spiced wine**: direct translation goes here (Damon pls fill in)
+**Spiced wine**: Recipe for special spiced wine: Put 15 pounds of honey in a bronze vessel, first adding two sextarii of wine, so that the wine reduces while the honey cooks. Heat it on a slow fire of dry wood, stirring with a reed while it cooks. If it begins to boil over, sprinkle it with wine to cool it down, or remove it from the fire until it settles. When it has cooled, light the fire again. Do this a second and third time, then remove it from the heat and skim it the next day. Then add four ounces of ground pepper, 3 scruples of mastic, 1 drachm each of *folium* and saffron, 5 roasted date stones, and the dates themselves softened in wine, first sprinkling them with wine according to their quantity, so that a smooth mixture is obtained. When all these ingredients are ready, add 18 sextarii of mild wine; finally, add two thousand coals.
 
 —*Apicius*, 1.1, c. 350
 

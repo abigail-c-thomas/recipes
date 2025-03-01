@@ -9,16 +9,17 @@ permalink: /recipe-index/whitebait-patina.html
 {% capture recipe_content %}
 # Whitebait Patina
 
-### Original Text
-<!-- TODO: Add original Latin text from Apicius 4.2.20 -->
+### Original Latin
+**patina de apua fricata**: apua lauas oua confringes et cum apua commisces. adicies liquamen uinum oleum, facies ut ferueat, et cum ferbuerit, mittes apuam. cum duxerit subtiliter uersas. facies ut coloet, oenogarum simplex perfundes, piper asparges et inferes.
 
-<!-- TODO: Add English translation -->
+### English Translation
+**Patina of fried whitebait**: Wash the whitebait, break eggs and mix with the whitebait. Add fish sauce, wine, and oil, bring to a boil, and when it boils, add the whitebait. When it has thickened, turn it gently. Allow it to drain, pour over simple wine-fish sauce, sprinkle with pepper and serve.
 
 —*Apicius*, 4.2.20, c. 350
 
 ___
 
-<!-- TODO: Add description paragraph about fish patinas in Roman cuisine -->
+Claude's intro: Fish patinas were a common dish in Roman cuisine, often combining eggs with fish to create something similar to a modern frittata or omelette. Whitebait (apua) was a popular small fish in Mediterranean cooking, though any small fish could be used. The Romans particularly enjoyed these protein-rich dishes finished with flavorful sauces like oenogarum, a mixture of wine and fish sauce.
 
 ### Ingredients
 - 250g small fry (or any white fish fillet, broken into chunks)

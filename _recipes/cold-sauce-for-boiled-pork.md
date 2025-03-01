@@ -10,9 +10,9 @@ permalink: /recipe-index/cold-sauce-for-boiled-pork.html
 # Cold Sauce for Boiled Pork
 
 ### Original Text
-<!-- TODO: Add original Latin text from Apicius 8.7.15 -->
+***ius frigidum in porcellum ita facies in elixum**: teres piper careum anetum, origanum modice, nucleos pineos; suffundes acetum liquamen careolam mel, sinape factum; superstillabis oleum, piper asparges et inferes.*
 
-<!-- TODO: Add English translation -->
+**Cold sauce for boiled suckling pig**: Grind pepper, caraway, dill, a little oregano, pine nuts; pour over vinegar, fish sauce, dates, honey, prepared mustard; drizzle with oil, sprinkle with pepper and serve.
 
 —*Apicius*, 8.7.15, c. 350
 

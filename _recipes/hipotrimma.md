@@ -10,9 +10,9 @@ permalink: /recipe-index/hipotrimma.html
 # Hipotrimma
 
 ### Original Text
-<!-- TODO: Add original Latin text from Apicius 1.33 -->
+***Ypotrima**: piper ligusticum mentam aridam nucleos pineos uuam passam cariotam caseum dulcem mel acetum liquamen oleum uinum defritum aut caroenum.*
 
-<!-- TODO: Add English translation -->
+***Hipotrimma***: Pepper, lovage, dried mint, pine nuts, raisins, dates, sweet cheese, honey, vinegar, fish sauce, oil, wine, or *defrutum* or *caroenum*.
 
 —*Apicius*, 1.33, c. 350
 

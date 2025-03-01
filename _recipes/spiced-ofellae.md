@@ -9,16 +9,17 @@ permalink: /recipe-index/spiced-ofellae.html
 {% capture recipe_content %}
 # Spiced *Ofellae*
 
-### Original Text
-<!-- TODO: Add original Latin text from Vinidarius 6 -->
+### Original Latin
+*VI. ofellas garaton: lasar zingiber cardamomum et uno acitabulo liquamen misces cum his omnibus tritis et ibi ofellas quoques.*
 
-<!-- TODO: Add English translation of "Ofellas garaton" -->
+### English Translation
+VI. Garum-style ofellae: Mix *laser*, ginger, cardamom and one small cup of fish sauce with all these ground ingredients and cook the *ofellae* in this mixture.
 
 —*Vinidarius*, 6, c. 500
 
 ___
 
-<!-- TODO: Add description paragraph about Vinidarius and this style of ofellae -->
+Claude's intro: Vinidarius' recipe for *ofellas garaton* represents the continued popularity of *ofellae* (small cuts of meat) in late Roman cuisine, but with a simplified preparation compared to the more elaborate versions found in earlier Apician texts. This recipe has strong eastern influences, combining the distinctive flavors of *laser* (asafoetida), ginger, and cardamom - spices that reflect the extensive trade networks that persisted even during the decline of the Western Roman Empire. The name "garaton" suggests these meat cuts are defined by their preparation in a spiced *garum* (fish sauce) mixture, highlighting how this fermented sauce remained central to Roman cuisine even in the late 5th century as culinary practices were evolving.
 
 ### Ingredients
 - 700g bone-in {% include ingredient_link.html name="pork" %} spare ribs, chopped into bite-sized pieces

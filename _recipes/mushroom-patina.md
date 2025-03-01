@@ -10,9 +10,9 @@ permalink: /recipe-index/mushroom-patina.html
 # Mushroom *Patina*
 
 ### Original Text
-<!-- TODO: Add original Latin text from Apicius 7.13.6 -->
+***boletos aliter**: tirsos eorum concisos in patellam, ouam perfundis addito pipere ligustico modico melle; liquamine temperabis. oleum modice.*
 
-<!-- TODO: Add English translation -->
+**Another way with mushrooms**: Cut their stems into a pan, pour over eggs, adding pepper, a little lovage, honey; mix with fish sauce. A little oil.
 
 —*Apicius*, 7.13.6, c. 350
 

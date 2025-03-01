@@ -9,16 +9,17 @@ permalink: /recipe-index/patina-of-nettles.html
 {% capture recipe_content %}
 # Patina of Nettles
 
-### Original Text
-<!-- TODO: Add original Latin text from Apicius 4.2.36 -->
+### Original Latin
+**patina urticarum calida et frigida**: urticam accipies, lauas, colas per colum, exsiccabis in tabula; eam concides. teres piperis scripulos X, suffundes liquamen, fricabis. postea adicies liquaminis ciatos duos, olei uncias VI. caccabus ferueat; cum ferbuerit coctam tolles ut refrigescat; postea patinam mundam perungues, franges oua octo et agitabis. perfundes, subtus supra cinerem calidam habeat. coctam piper minutum asparges et inferes.
 
-<!-- TODO: Add English translation -->
+### English Translation
+**Patina of nettles, hot or cold**: Take nettles, wash them, strain through a colander, dry on a board; cut them up. Grind 10 small measures of pepper, moisten with fish sauce, rub together. Then add 2 cups of fish sauce, 6 ounces of oil. Let the pot boil; when it has boiled, remove the cooked nettles so they cool; then grease a clean dish, break 8 eggs and beat them. Pour over, place over hot ashes to cook from below and above. When cooked, sprinkle with finely ground pepper and serve.
 
 —*Apicius*, 4.2.36, c. 350
 
 ___
 
-<!-- TODO: Add description paragraph about the use of nettles and other wild greens in Roman cuisine -->
+Claude's intro: Nettles and other wild greens (*herbae rusticae*) were an important part of the Roman diet, especially for rural and lower-class Romans. These plants could be gathered freely from the countryside and provided valuable nutrition. Despite their humble origins, dishes made with these ingredients also appeared on the tables of the wealthy, as evidenced by their inclusion in Apicius' cookbook. This patina recipe transforms nettles into a sophisticated egg custard that could be served either hot from the oven or chilled as a cold dish, demonstrating the versatility of Roman cooking.
 
 ### Ingredients
 - 250g nettles, spinach, or other leafy green

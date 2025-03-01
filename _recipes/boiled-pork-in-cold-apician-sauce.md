@@ -10,9 +10,9 @@ permalink: /recipe-index/boiled-pork-in-cold-apician-sauce.html
 # Boiled Pork in Cold Apician Sauce
 
 ### Original Text
-<!-- TODO: Add original Latin text from Apicius 8.7.6 -->
+***porcellum elixum calidum iure frigido crudo Apiciano**: adicies in mortarium piper ligusticum coriandri semen mentam rutam, fricabis; suffundes liquamen, adicies mel uinum et liquamine \<temperabis\>. porcellum elixum feruentem sauano mundo siccatum perfundes et inferes.*
 
-<!-- TODO: Add English translation -->
+**Boiled suckling pig hot with cold raw Apician sauce**: Put in a mortar pepper, lovage, coriander seed, mint, rue, and pound; pour over fish sauce, add honey and wine and mix with fish sauce. Pour over the boiled hot suckling pig dried with a clean cloth and serve.
 
 —*Apicius*, 8.7.6, c. 350
 

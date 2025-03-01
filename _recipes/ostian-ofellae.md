@@ -10,9 +10,9 @@ permalink: /recipe-index/ostian-ofellae.html
 # Ostian *Ofellae*
 
 ### Original Text
-<!-- TODO: Add original Latin text from Apicius 7.4.1 -->
+***ofellas Ostienses**: designas ofellas in cute, ita ut cutis sic remaneat. teres piper ligusticum anetum cuminum silflum bacam lauri unam; suffundis liquamen, fricas; in angularem refundis simul cum obellis. ubi requieuerint in condimentis biduo uel triduo, ponis, surclas decussatim, et in furnum mittis. cum coxeris, ofellas quas designaueras separabis, et teres piper ligusticum, suffundis liquamen et passum modicum ut dulce fiat. cum ferbuerit, ius amulo obligas, ofellas satias et inferes.*
 
-<!-- TODO: Add English translation -->
+**Ostian *ofellae***: Mark out the *ofellae* on the skin, so that the skin remains intact. Grind pepper, lovage, dill, cumin, *laser*, and one bay berry; pour over fish sauce, mix well; pour into a square dish together with the *ofellae*. After they have rested in the marinade for two or three days, place them, skewer them crosswise, and put them in the oven. When they are cooked, separate the *ofellae* that you marked out, and grind pepper and lovage, pour over fish sauce and a little *passum* to make it sweet. When it has boiled, thicken the sauce with starch, drizzle over the *ofellae* and serve.
 
 —*Apicius*, 7.4.1, c. 350
 

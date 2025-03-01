@@ -31,6 +31,8 @@
 - End with `{{ recipe_content | markdownify }}`
 - When adding a new ingredient, also add an entry to ingredients.md
 - When adding multiple recipes of a specific category, consider creating a tag file in _tags/
+- For Latin text translations, maintain consistent translation style using _claude_memory/translation_glossary.md
+- Always ask about unfamiliar technical terms when adding original Latin text
 
 ## Code Style
 - Use consistent 2-space indentation for all files

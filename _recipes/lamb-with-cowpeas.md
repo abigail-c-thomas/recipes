@@ -10,9 +10,9 @@ permalink: /recipe-index/lamb-with-cowpeas.html
 # Lamb with Cowpeas
 
 ### Original Text
-<!-- TODO: Add original Latin text from Apicius 8.6.1 -->
+***copadia hedina siue agnina**: pipere liquamine coques, cum faseolis faratariis liquamine pipere lasere, cum inbracto bocellas panis et oleo modico.*
 
-<!-- TODO: Add English translation -->
+**Lamb cutlets**: Cook with pepper and fish sauce, with cowpeas using fish sauce, pepper and *laser*, with pieces of soaked bread and a little oil.
 
 —*Apicius*, 8.6.1, c. 350
 

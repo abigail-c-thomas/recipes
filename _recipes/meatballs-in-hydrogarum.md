@@ -10,9 +10,13 @@ permalink: /recipe-index/meatballs-in-hydrogarum.html
 # Meatballs in *Hydrogarum*
 
 ### Original Text
-<!-- TODO: Add original Latin text from Apicius 2.2.1/2 -->
+***esicia plena**: accipies adipes fasiani recentes, preduras et facis ex eo tessellas. cum pipere liquamine caroeno in esicio includes; et idrogaro quoques et inferes.*
 
-<!-- TODO: Add English translation -->
+***idrogarata esicia sic facies**: teres piper ligusticum piretrum minimum. suffundes liquamen, temperas aquam cisterninam. dum inducet exinanies in caccabo, et cum esicia ad uaporem ignis pones et caleat et sic sorbendum inferes.*
+
+**Stuffed meatballs**: Take fresh pheasant fat, harden it and cut it into small cubes. With pepper, fish sauce, and *defrutum*, enclose it in a meatball; and cook in fish sauce and water broth and serve.
+
+**How to make meatballs in hydrogarum**: Grind pepper, lovage, and a small amount of pyrethrum. Pour in fish sauce, mix with cistern water. While it's simmering, pour it into a pot, and place the meatballs in it over the heat of the fire so they become warm, and serve it as a broth.
 
 —*Apicius*, 2.2.1/2, c. 350
 

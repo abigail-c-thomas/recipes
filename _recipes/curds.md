@@ -9,16 +9,17 @@ permalink: /recipe-index/curds.html
 {% capture recipe_content %}
 # Curds
 
-### Original Text
-<!-- TODO: Add original Latin text from Apicius 7.11.9a and 7.11.9b -->
+### Original Latin
+**melcas**: cum pipere et liquamine, uel sale, oleo et coriandro.
 
-<!-- TODO: Add English translation -->
+### English Translation
+**Fresh cheese**: [Serve] with pepper and fish sauce, or with salt, oil and coriander.
 
 —*Apicius*, 7.11.9, c. 350
 
 ___
 
-<!-- TODO: Add description paragraph about the role of curds and fresh cheese in Roman cuisine -->
+Claude's intro: Fresh cheese and curds (*melcae*) were common everyday foods in ancient Rome. They were made by curdling milk with rennet or vegetable juices, then straining the curds. Unlike modern cheeses, Roman fresh cheeses were typically consumed soon after preparation without aging. They were considered cooling foods, appropriate for summer meals, and were enjoyed both on their own with simple seasonings as shown in this recipe, and as ingredients in more complex dishes like *patinae* (egg custards) and sweet treats.
 
 ### Curds (Version A)
 #### Ingredients

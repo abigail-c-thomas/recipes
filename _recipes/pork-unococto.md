@@ -9,16 +9,17 @@ permalink: /recipe-index/pork-unococto.html
 {% capture recipe_content %}
 # Pork *Unococto*
 
-### Original Text
-<!-- TODO: Add original Latin text from Vinidarius 21-22 -->
+### Original Latin
+*XXI. porcello unocoto: porcellum accipies, ornauis, quoque in oleo et liquamen. cum quoquitur adicies in mortario piper ruta baca lauri liquamen, passu siue carenu, uino uetus; simul omnia teres. temperas et traicies in patinam heneam. mittis eum \[XXII\] porcellum eo iure, perquoque; cum autem leuas, amulo oblicabis et sic in uas transfers et inferes.*
 
-<!-- TODO: Add English translation -->
+### English Translation
+XXI. One-cooked suckling pig: Take a suckling pig, prepare it, and cook it in oil and fish sauce. While it is cooking, add to a mortar black pepper, rue, bay berries, fish sauce, *passum* or *carenum*, and aged wine; grind all together. Mix and transfer to a bronze dish. Put the suckling pig in this sauce, cook thoroughly; when you remove it, thicken with starch and thus transfer to a vessel and serve.
 
 —*Vinidarius*, 21-22, c. 500
 
 ___
 
-<!-- TODO: Add description paragraph about Vinidarius and this recipe -->
+Claude's intro: The *porcellum unocoto* (one-cooked suckling pig) is a dish from Vinidarius' late 5th-century recipe collection that demonstrates both continuity with earlier Roman cuisine and some simplification. The term "unococto" likely refers to the cooking method where the meat is first prepared in one way (cooking in oil and fish sauce) and then finished in a sauce. This two-stage cooking approach creates layers of flavor while incorporating classic Roman ingredients like rue, bay berries, and wine reduction (*passum*/*carenum*). The recipe showcases the continued importance of the mortar and pestle for creating complex sauces even as cooking methods became more straightforward in the post-Imperial period.
 
 ### Ingredients
 - 1.5 kg {% include ingredient_link.html name="pork" %} shoulder

@@ -9,16 +9,17 @@ permalink: /recipe-index/patina-of-lettuce.html
 {% capture recipe_content %}
 # Patina of Lettuce
 
-### Original Text
-<!-- TODO: Add original Latin text from Apicius 4.2.3 -->
+### Original Latin
+**aliter patina**: tyrsum lactuce teres cum pipere liquamine careno aquam oleo; quoques; ouis obligabis; piper asparges et inferes.
 
-<!-- TODO: Add English translation -->
+### English Translation
+**Another patina**: Grind the stem of lettuce with pepper, fish sauce, caroenum [reduced wine], water, oil; cook; bind with eggs; sprinkle with pepper and serve.
 
 —*Apicius*, 4.2.3, c. 350
 
 ___
 
-<!-- TODO: Add description paragraph about patina dishes and their role in Roman cuisine -->
+Claude's intro: *Patinae* were a characteristic dish in Roman cuisine, essentially baked egg-based mixtures similar to modern frittatas or custards. They could contain a wide variety of ingredients, from vegetables to meat to fish, and were often served as part of the main meal. This particular patina uses lettuce, which Romans commonly consumed both raw and cooked. While modern diners primarily eat lettuce raw in salads, Romans appreciated its versatility when cooked. The use of *caroenum* (reduced wine must) and fish sauce adds depth and umami to what might otherwise be a simple dish.
 
 ### Ingredients
 - 500g {% include ingredient_link.html name="lettuce" %}

@@ -9,16 +9,17 @@ permalink: /recipe-index/lamb-stew-vinidarius.html
 {% capture recipe_content %}
 # Lamb Stew
 
-### Original Text
-<!-- TODO: Add original Latin text from Vinidarius 27 -->
+### Original Latin
+*XXVII. agnu simplice: de agno decoriato facies cupadiola, lababis diligenter, mittes in cacabo. adicies oleum liquamen uinum porrum coriandrum cultro concisum. cum bullire ceperit, sepius agitabis et inferes.*
 
-<!-- TODO: Add English translation -->
+### English Translation
+XXVII. Simple lamb: From a skinned lamb, make small cuts of meat, wash them carefully, and put them in a pot. Add oil, fish sauce, wine, leek and coriander cut with a knife. When it begins to boil, stir frequently and serve.
 
 —*Vinidarius*, 27, c. 500
 
 ___
 
-<!-- TODO: Add description paragraph about Vinidarius and his collection of recipes -->
+Claude's intro: Vinidarius was a late 5th-century Goth who compiled a collection of recipes known as the "Excerpts of Apicius by Vinidarius, an Illustrious Man." This collection preserved simplified versions of earlier Roman recipes during a period when the Western Roman Empire was transitioning to Gothic rule. This simple lamb stew represents the practical cooking style of the period, with straightforward instructions and common ingredients. Unlike earlier complex Apician recipes, Vinidarius' collection often features streamlined methods while maintaining the essential Mediterranean flavor profile of olive oil, fish sauce, wine, and herbs.
 
 ### Ingredients
 - 800 g thinly sliced {% include ingredient_link.html name="lamb" %}

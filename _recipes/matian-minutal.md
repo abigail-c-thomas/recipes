@@ -9,17 +9,17 @@ permalink: /recipe-index/matian-minutal.html
 {% capture recipe_content %}
 # Matian Minutal
 
-### Original Text
-<!-- TODO: Add original Latin text from Apicius 4.3.4 -->
+### Original Latin
+**minutal Matianum**: adicies in caccabum oleum liquamen cocturam; concides porrum coriandrum, esicia minuta; spatulam porcinam coctam tessellim concides cum sua sibi tergilla. facies ut simul quoquantur; media coctura mala Maziana purgata intrinsecus concisa tessellatim mittes; dum coquitur teres piper cuminum coriandrum uiridem uel semen mentam laseris radicem; suffundis acetum mel liquamen defritum modice et ius de suo sibi; aceto modico temperabis, facies ut ferueat; cum ferbuerit, tractam confringes et ex ea obligas; piper aspargis et inferes.
 
-<!-- TODO: Add English translation -->
-<!-- TODO: defrutum needs its own recipe. -->
+### English Translation
+**Matian minutal**: Add to a pot oil, fish sauce, cooking liquor; cut leek and coriander, small meatballs; cut cooked pork shoulder into small cubes with its own skin. Make them cook together; halfway through cooking add Matian apples, peeled inside, cut into small cubes; while it cooks grind pepper, cumin, fresh coriander or its seed, mint, asafoetida root; moisten with vinegar, honey, fish sauce, a little reduced wine, and its own juice; mix with a little vinegar, bring to a boil; when it boils, break up pastry and use it to thicken; sprinkle with pepper and serve.
 
 —*Apicius*, 4.3.4, c. 350
 
 ___
 
-<!-- TODO: Add description paragraph about minutals and Matian apples -->
+Claude's intro: Minutals were a type of Roman stew or hash made with various ingredients cut into small pieces (the Latin *minutus* means "small"). This particular minutal is named after Matian apples (*mala Matiana*), a variety of apple mentioned by several Roman authors. These apples were named after Gaius Matius, a friend of Julius Caesar and Cicero who was known for his interest in agriculture and gastronomy. They were reportedly sweet apples with a slightly red color. The combination of meat with fruit was characteristic of sophisticated Roman cuisine, balancing savory and sweet flavors.
 
 ### Ingredients
 - ½ kg {% include ingredient_link.html name="pork" %} shoulder, diced

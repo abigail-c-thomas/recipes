@@ -10,9 +10,9 @@ permalink: /recipe-index/lucanicae.html
 # *Lucanicae*
 
 ### Original Text
-<!-- TODO: Add original Latin text from Apicius 2.4 -->
+***lucanicae**: lucanicas similiter ut supra scriptum est. [lucanicarum confectio]: teritur piper cuminum satureja ruta petrosilenu condimentum bacae lauri liquamen et admiscetur pulpa bene tunsa ita ut denuo bene cum ipso subtrito fricetur; cum liquamine admixto pipere integro et abundanti pinguedine et nucleis inicies in intestinum perquam tenuatim productum et sic ad fumum suspenditur.*
 
-<!-- TODO: Add English translation -->
+**Lucanicae**: These are prepared in the same way as described above. [To make Lucanicae sausages]: Grind together pepper, cumin, savory, rue, parsley, bay berries, and fish sauce, and mix with well-pounded meat so that it is thoroughly combined with the ground spices. Then mix in fish sauce, whole peppercorns, plenty of fat, and pine nuts, and stuff it into a very thin sausage skin. Then hang it in the smoke.
 
 —*Apicius*, 2.4, c. 350
 

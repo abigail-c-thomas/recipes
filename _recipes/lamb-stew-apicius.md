@@ -10,9 +10,9 @@ permalink: /recipe-index/lamb-stew-apicius.html
 # Lamb Stew
 
 ### Original Text
-<!-- TODO: Add original Latin text from Apicius 8.6.2 -->
+***aliter hedinam siue agninam excaldatam**: mittes in caccabum copadia. cepam coriandrum minutum succides; teres piper ligusticum cuminum liquamen oleum uinum. coques; exinanies in patina; amulo obligas.*
 
-<!-- TODO: Add English translation -->
+**Lamb stew**: Put pieces of meat in a pot. Finely chop onion and coriander; grind pepper, lovage, and cumin; add fish sauce, oil, and wine. Cook, then pour into a serving dish; thicken with starch.
 
 —*Apicius*, 8.6.2, c. 350
 
