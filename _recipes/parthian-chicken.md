@@ -12,13 +12,15 @@ permalink: /recipe-index/parthian-chicken.html
 ### Original Text
 ***pullum Particum**: pullum aperies a naui et in quadrato ornas. teres piper ligusticum carei modicum, suffunde liquamen, uino temperas. componis in cumana pullum et condituram super pullum facies. laser uiuum in tepida dissoluis, et in pullum mittis simul et quoques, piper aspersum inferes.*
 
-**Parthian chicken**: Open the chicken along the backbone and cut into quarters. Grind pepper, lovage, and a little caraway; mix with fish sauce and temper with wine. Place the chicken in an earthenware dish and pour the seasoning over it. Dissolve fresh laser in warm water and add it to the chicken, then cook everything together. Serve with a sprinkling of pepper
+**Parthian chicken**: Open the chicken from the breast and arrange it in a square. Grind pepper, lovage, and a little caraway. Pour in fish sauce, mix with wine. Place the chicken in an earthenware pot and pour the sauce over it. Dissolve fresh laser (asafoetida) in warm water and pour it over the chicken, then cook everything together. Sprinkle with pepper and serve.
 
-—*Apicius*, 6.8.3, c. 350
+—*Apicius*, 6.8.3, c. 4th century CE
 
 ___
 
-Parthian chicken is a blah blah paragraph about the recipe goes here… maybe a couple paragraphs, noting that this dish appears to be named after Parthia. This could be because it is stylistically similar to a Parthian dish, though lovage and caraway both are distinctly Roman ingredients this seems unlikely. Instead the dish may be named because of its prominent use of asafoetida, known in Latin as Parthian laser to distinguish from silphium, which was called Cyrenaican laser.
+**Claude's intro:** This exotic dish gets its name from the Parthian Empire, Rome's great eastern rival. The aromatic spices and distinctive use of asafoetida (laser) reflect the eastern influences in Roman cuisine that came via the spice trade routes.
+
+This dish appears to be named after Parthia. This could be because it is stylistically similar to a Parthian dish, though lovage and caraway both are distinctly Roman ingredients this seems unlikely. Instead the dish may be named because of its prominent use of asafoetida, known in Latin as Parthian *laser* to distinguish from *silphium*, which was called Cyrenaican *laser*.
 
 ### Ingredients
 - 1 whole {% include ingredient_link.html name="chicken" %}
