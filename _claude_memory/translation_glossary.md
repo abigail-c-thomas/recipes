@@ -13,7 +13,7 @@ This glossary provides consistent translations for Latin terms found in Apicius 
    - *laser* - keep Latin with asafoetida in parentheses if needed
    - *ofellae* - do not translate as meat cuts
    - *passum* - do not translate as raisin wine
-   - *tracta* - do not translate as pastry
+   - *tracta* - do not translate as pastry or pasta
    
 2. **Latin Titles**: When translating dish names, preserve the Latin name in bold at the beginning, followed by the English translation.
    

@@ -19,20 +19,24 @@ Patina of whitebait: Wash the whitebait and marinate in oil. Arrange in an earth
 
 ___
 
-**Ingredients**
+### Ingredients
+- 5 whole {% include ingredient_link.html name="sardines" %} (about 450g)
+- 100 ml {% include ingredient_link.html name="white wine" %}
+- 30 ml {% include ingredient_link.html name="olive oil" %}
+- 30 ml {% include ingredient_link.html name="fish sauce" %}
+- ½ tsp dried {% include ingredient_link.html name="oregano" %}
+- ½ tsp dried {% include ingredient_link.html name="rue" %}
+- {% include ingredient_link.html name="black pepper" %}
 
-* 5 whole sardines (about 450g)  
-* 100 ml white wine  
-* 30 ml olive oil  
-* 30 ml fish sauce  
-* ½ tsp dried oregano  
-* ½ tsp dried rue  
-* Pepper
-
-**Method**
-
-1. Place the sardines in a frying pan along with the wine, oil, fish sauce, oregano, and rue. Bring to a simmer and cook for 10 minutes, or until the sardines are cooked through.   
+### Method
+1. Place the sardines in a frying pan along with the wine, oil, fish sauce, oregano, and rue. Bring to a simmer and cook for 10 minutes, or until the sardines are cooked through.
 2. Remove the sardines from the frying pan, sprinkle with pepper, and serve with just a little of the cooking liquid.
+
+### Notes
+- The original recipe uses *apua* (whitebait or small fish fry), but sardines make an excellent substitute.
+- A *patina* in Roman cooking typically referred to a dish cooked in an earthenware vessel, often involving eggs, but in this case it's a simple fish preparation.
+- The herbs infuse into the cooking liquid, creating a flavorful broth.
+- This simple method of cooking fish would have been common throughout the Mediterranean in Roman times.
 
 {% endcapture %}
 

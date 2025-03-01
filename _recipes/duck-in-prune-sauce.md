@@ -19,33 +19,32 @@ For crane, duck, or chicken: pepper, dried onion, lovage, cumin, celery seed, pr
 
 ___
 
-**Ingredients**
+### Ingredients
+- 1 {% include ingredient_link.html name="duck" %}
+- ½ tsp ground {% include ingredient_link.html name="black pepper" %}
+- 1 tsp {% include ingredient_link.html name="lovage" %}
+- 2 tsp {% include ingredient_link.html name="cumin" %}
+- ½ tsp {% include ingredient_link.html name="celery seed" %}, ground
+- ½ an {% include ingredient_link.html name="onion" %}
+- 200 g dried {% include ingredient_link.html name="prunes" %}
+- 200 ml {% include ingredient_link.html name="wine" %}
+- 40 ml {% include ingredient_link.html name="fish sauce" %}
+- 20 ml {% include ingredient_link.html name="vinegar" %}
+- 20 ml {% include ingredient_link.html name="defrutum" %}, for sauce
+- 60 ml {% include ingredient_link.html name="defrutum" %}, for basting
+- 15 ml {% include ingredient_link.html name="olive oil" %}
 
-* 1 duck  
-* ½ tsp ground black pepper  
-* 1 tsp lovage  
-* 2 tsp cumin  
-* ½ tsp celery seed, ground  
-* ½ an onion  
-* 200 g dried prunes  
-* 200 ml wine  
-* 40 ml fish sauce  
-* 20 ml vinegar  
-* 20 ml *defrutum*, for sauce  
-* 60 ml *defrutum*, for basting  
-* 15 ml olive oil
+### Method
+1. Preheat the oven to 230C/450F. Place the duck on a roast tray breast side down with a little water covering the tray bottom. Baste with a little defrutum, then place in the oven and bake for 30 minutes.
+2. Rotate the duck, then bake for another 20 minutes. Baste with *defrutum*, then bake for another 10 minutes. Baste once more, then roast another 5–10 minutes or until cooked. Remove from the oven and allow to rest for 5 minutes before carving.
+3. While the duck roasts, coarsely chop the onions, then place in a saucepan along with the remaining sauce ingredients. Bring to a simmer and cook for 15 minutes, then take off the heat and allow to cool.
+4. Place the sauce into a food processor and blend until smooth. Pour back into the saucepan and bring gently back to heat. Serve the duck with the sauce.
 
-**Method**
-
-1. Preheat the oven to 230C/450F. Place the duck on a roast tray breast side down with a little water covering the tray bottom. Baste with a little defrutum, then place in the oven and bake for 30 minutes.  
-2. Rotate the duck, then bake for another 20 minutes. Baste with *defrutum*, then bake for another 10 minutes. Baste once more, then roast another 5–10 minutes or until cooked. Remove from the oven and allow to rest for 5 minutes before carving.  
-3. While the duck roasts, coarsely chop the onions, then place in a saucepan along with the remaining sauce ingredients. Bring to a simmer and cook for 15 minutes, then take off the heat and allow to cool.  
-4. Place the sauce into a food processor and blend until smooth. Pour back into the saucepan and bring gently back to heat. Serve the duck with the sauce. 
-
-**Notes**
-
-* I didn't get the duck skin crispy with the above method and tbh wasn't that impressed, maybe should try [this method](https://mapleleaffarms.com/recipes/roasted-whole-duck-basic-recipe-for-crispy-skin) next?  
-* Also had difficulty getting the duck defrosted, it needs at least 2 days in the fridge
+### Notes
+- For crispier duck skin, try scoring the skin before cooking or using a higher temperature initially (230°C/450°F for 15 minutes) then reducing to 180°C/350°F.
+- Duck needs at least 2 days to defrost properly in the refrigerator.
+- The original recipe also mentions this preparation for crane or chicken - duck provides the richest flavor among these options.
+- The prune sauce exemplifies the Roman love of combining fruit with meat dishes for a sweet-savory balance.
 
 {% endcapture %}
 
