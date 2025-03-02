@@ -2,7 +2,7 @@
 
 ## **Salads** {#salads}
 
-Leafy greens were eaten at the start of meals. All three menus included in Martial's epigrams, for instance, open with lettuce accompanied by leeks, as does Pliny the Younger's menu. Though they don't state whether the lettuce was dressed, recipes from *Apicius* and comments from Galen imply that dressing with olive oil, vinegar, honey and/or *liquamen* was common. 
+Leafy greens were eaten at the start of meals. All three menus included in Martial’s epigrams, for instance, open with lettuce accompanied by leeks, as does Pliny the Younger’s menu. Though they don’t state whether the lettuce was dressed, recipes from *Apicius* and comments from Galen imply that dressing with olive oil, vinegar, honey and/or *liquamen* was common. 
 
 Lettuce was considered potentially indigestible. *Apicius 3.18.2* recommends an *oxyporium,* a highly-spiced mixture served with *oxygarum*, that is, vinegar and *liquamen*, in order to aid digestion. Columella includes another two recipes for *oxyporium*. 
 
@@ -67,7 +67,7 @@ Mix all the ingredients together and let sit for half an hour, then strain throu
 
 **Notes**
 
-* In the original recipe, quantities are given for everything but the vinegar and fish sauce, which is unusual for ancient culinary recipes but common in medicina recipes. I've used a 2:1 honey to vinegar ratio, which is common in other recipes. *Oxygarum* is usually equal parts vinegar to fish sauce, but modern fish sauce is likely stronger than what the ancient Romans used so I've reduced the quantity of fish sauce somewhat.  
+* In the original recipe, quantities are given for everything but the vinegar and fish sauce, which is unusual for ancient culinary recipes but common in medicina recipes. I’ve used a 2:1 honey to vinegar ratio, which is common in other recipes. *Oxygarum* is usually equal parts vinegar to fish sauce, but modern fish sauce is likely stronger than what the ancient Romans used so I’ve reduced the quantity of fish sauce somewhat.  
 * This recipe is duplicated in Apicius, with 3.18.2 giving further details and stating that the *oxyporum* should be served with lettuce, to render the lettuce harmless. 
 
 ### *Oxyporium* {#oxyporium-1}
@@ -126,7 +126,7 @@ Mnesitheus, quoted in Oribasius *Medical Collections* 4.4.1, and Cato *De Agricu
 **Notes**
 
 * This recipe appears both in Oribasius, from the 4th century AD, but likely quoting from the (now lost) works of Mnesitheus, who lived in the 4th century BC  
-* The recipe also appears in Cato, as well as in Pliny's *Natural Historia* in which Pliny used Cato as a source.  
+* The recipe also appears in Cato, as well as in Pliny’s *Natural Historia* in which Pliny used Cato as a source.  
 * The recipe is medicinal \- it can allegedly cure headaches and is good for upset stomachs, at least, so says Pliny.
 
 ### Radishes {#radishes}
@@ -233,7 +233,7 @@ Apicius 3.6.3
 * 30 ml fish sauce  
 * 2 tsp dried pennyroyal  
 * A couple pinches of asafoetida  
-* Ground black bepper
+* Ground black pepper
 
 **Method**
 
@@ -311,7 +311,7 @@ Apicius 3.9.2
 
 **Notes**
 
-* The original recipe doesn't call for fish sauce, or indeed any source of salt, which appears to be an omission.   
+* The original recipe doesn’t call for fish sauce, or indeed any source of salt, which appears to be an omission.   
 * Recipe 3.9.3 is very similar, as is 3.9.1a above.
 
 ### Cabbage with Leek {#cabbage-with-leek}
@@ -380,7 +380,7 @@ Apicius 3.9.6
 
 ## **Unclassified** {#unclassified-3}
 
-### Varro's Beets {#varro's-beets}
+### Varro’s Beets {#varro’s-beets}
 
 *Rapas*, Apicius 3.2.3
 
@@ -493,7 +493,7 @@ Apicius 3.15.2
 1. Wash and chop the leafy vegetables as desired  
 2. Crush the mastic gum in a mortar and pestle. Place all of the ingredients into a frying pan and saute the greens until cooked, adding a little water if desired.
 
-### Artichoke
+### Artichoke {#artichoke}
 
 Apicius 3.19.3
 
@@ -512,7 +512,7 @@ Apicius 3.19.3
 
 **Notes**
 
-* This recipe was originally for cardoons, of which the artichoke is a cultivated variety. It's unclear whether the ancient Romans cultivated artichokes or consumed wild cardoons, but since cardoons are difficult to find I've substituted the artichokes instead. 
+* This recipe was originally for cardoons, of which the artichoke is a cultivated variety. It’s unclear whether the ancient Romans cultivated artichokes or consumed wild cardoons, but since cardoons are difficult to find I’ve substituted the artichokes instead. 
 
 ### Carrots {#carrots}
 
@@ -628,7 +628,7 @@ Apicius 5.3.7
 
 **Notes**
 
-* I've read the recipe again, I'm not sure this one should be as mushy as the last—will try again with firmer peas
+* I’ve read the recipe again, I’m not sure this one should be as mushy as the last—will try again with firmer peas
 
 ## ***Conchicla*** {#conchicla}
 
@@ -688,9 +688,35 @@ Apicius 5.2.3
 
 **Method**
 
-1. Rinse the lentils in fresh cold water, then place in a saucepan with about 600 ml water. Bring to a simmer, then add the leeks and coriander leaves and cook until the lentils are mushy, about 45 minutes.  
+1. Rinse the lentils in cold water, then place in a saucepan with 800 ml of water. Bring to a simmer, then add the leeks and coriander leaves and cook covered until the lentils are mushy, about 45 minutes.  
 2. Add all other ingredients except the cornstarch. Taste and adjust seasoning as required.  
 3. Add the cornstarch slurry and allow to thicken for another minute, then serve with a little extra olive oil and pepper drizzled on top.
+
+### Lentils with mussels {#lentils-with-mussels}
+
+Apicius 5.2.3
+
+**Ingredients**
+
+* 200g red lentils  
+* 150g boiled mussel meat, finely chopped  
+* 1 tsp ground black pepper  
+* 1 tsp ground cumin  
+* 1 tsp ground coriander seed  
+* ½ tsp dried mint  
+* ½ tsp dried rue  
+* A pinch of pennyroyal  
+* 2 Tb white wine vinegar  
+* 1 Tb honey  
+* 2 Tb fish sauce  
+* 1 Tb *defrutum*  
+* Extra virgin olive oil, to serve
+
+**Method**
+
+1. Rinse the lentils in cold water, then place in a saucepan with 700 ml of water. Bring to a simmer, cover with the lid, then cook for about 30 minutes or until the lentils are mushy.  
+2. Add the remaining ingredients except the olive oil to the sauce. Bring to a simmer, and then cook until the lentils are thick.   
+3. Taste and adjust the seasonings, adding more vinegar, honey, or fish sauce if desired. Serve in bowls with olive oil drizzled on top.
 
 ### Lentils with chard {#lentils-with-chard}
 
@@ -958,7 +984,7 @@ Place all the ingredients into a saucepan along with a litre of water. Bring to 
 1. Preheat the oven to 180 C / 350 F  
 2. In a mixing bowl, mix together the ricotta, flour, honey, and egg, until well-combined  
 3. Grease a deep pie dish or cake pan. Pour the cake batter into the dish, then place in the oven and bake for 60 minutes.  
-4. Once 60 minutes have passed, checked whether the cake is cooked through by sticking a skewer through the middle — it should come out clean. If not, continue baking until cooked through.  
+4. Once 60 minutes have passed, check whether the cake is cooked through by sticking a skewer through the middle — it should come out clean. If not, continue baking until cooked through.  
 5. Once the cake is cooked, take it out of the oven. Cover it in the honey, sprinkle over poppy seeds, and then place back into the oven for a final 10 minutes. Serve immediately.
 
 ## **Pancakes and Fritters** {#pancakes-and-fritters}
@@ -1025,7 +1051,7 @@ Galen *On the Powers of Food* R2
 
 **Notes**
 
-* Galen doesn't call for the pancakes to be served with honey, but Archestratus also describes this dish as an Athenian specialty to be served with Attic honey
+* Galen doesn’t call for the pancakes to be served with honey, but Archestratus also describes this dish as an Athenian specialty to be served with Attic honey
 
 ### Globi {#globi}
 
@@ -1203,19 +1229,7 @@ Apicius 7.11.5
 
 **Notes**
 
-* Based on Sally Grainger's recipe 
-
-## **Curds and Cheese** {#curds-and-cheese}
-
-**Recipes recreated:**   
-**Recipes to try:** *Apicius* 7.11.9; Chrysippus 2.5, 2.6, *Geoponica* 18.19, 18.21  
-**Other recipes:** Galen *On the Powers of Food* R16
-
-## **Fruit** {#fruit}
-
-**Recipes recreated:**   
-**Recipes to try:**  
-**Other recipes:**
+* Based on Sally Grainger’s recipe 
 
 # **Beverages** {#beverages}
 

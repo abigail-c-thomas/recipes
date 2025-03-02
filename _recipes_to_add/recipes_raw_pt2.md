@@ -49,7 +49,7 @@ Apicius 8.5.2
 
 **Notes**
 
-* The recipe is for onion, or leek, or taro, or quince. I've not yet tried with taro or quince but both seem interesting
+* The recipe is for onion, or leek, or taro, or quince. I’ve not yet tried with taro or quince but both seem interesting
 
 ### Kandaulos {#kandaulos}
 
@@ -99,7 +99,7 @@ Apicius 7.9.1
 
 * I still need to get this recipe right, as the honey leaks out. Probably should up the olive oil (the recipe doesn't say to use water, but that might just be an omission), maybe also make a bit more pastry  
 * The liquor the ham is cooked in can be used to boil barley, which goes well with the meal  
-* Ham wrapped in pastry was part of the luxurious dish *tetrapharmakum*, allegedly invented by junior emperor Aelius Verus (d. 138\) and enjoyed by both Hadrian and Alexander Septimus. This information is from the notorious *Historia Augusta*, where it is credited to Marius Maximus's biography of Hadrian.  
+* Ham wrapped in pastry was part of the luxurious dish *tetrapharmakum*, allegedly invented by junior emperor Aelius Verus (d. 138\) and enjoyed by both Hadrian and Alexander Septimus. This information is from the notorious *Historia Augusta*, where it is credited to Marius Maximus’s biography of Hadrian.  
 * Modern versions of this recipe exist, such as ham en croute. Not sure the subsequent history but plausibly this has survived through time
 
 ### Salted Shoulder of Pork {#salted-shoulder-of-pork}
@@ -199,7 +199,7 @@ Apicius 7.6.4
 **Notes**
 
 * You can add vegetables like carrots or parsnips to the meat as it cooks, and serve as side dishes  
-* Any leftover cooking liquid can be used as stock for other recipes - for instance, to cook barley or lentils. If you like, you can add herbs (such as parsley, coriander, or bay leaf) while cooking the meat to further enhance the flavour of the stock. 
+* Any leftover cooking liquid can be used as stock for other recipes \- for instance, to cook barley or lentils. If you like, you can add herbs (such as parsley, coriander, or bay leaf) while cooking the meat to further enhance the flavour of the stock. 
 
 ### Tripe {#tripe}
 
@@ -232,11 +232,11 @@ From the Heidelberg papyrus
 * A generous amount of salt
 
 **Method**
-* Any leftover cooking liquid can be used as stock for other recipes \- for instance, to cook barley or lentils. If you like, you can add herbs (such as parsley, coriander, or bay leaf) while cooking the meat to further enhance the flavour of the stock. 
+
 1. Thinly slice the liver, then combine with the rest of the ingredients and leave to marinate for a few hours.  
 2. Broil the liver for a few minutes on each side, then serve.
 
-### Rabbit
+### Rabbit {#rabbit}
 
 Apicius 8.8.1
 
@@ -264,7 +264,7 @@ Apicius 8.8.1
 
 **Notes**
 
-* This recipe is for hare but hare is impossible to find here, so I've substituted rabbit
+* This recipe is for hare but hare is impossible to find here, so I’ve substituted rabbit
 
 # **Poultry** {#poultry}
 
@@ -272,7 +272,7 @@ Apicius 8.8.1
 
 ### Chicken in Dill Sauce {#chicken-in-dill-sauce}
 
-*Pullum anetatum* - Apicius 6.8.1-2
+*Pullum anetatum* \- Apicius 6.8.1-2
 
 **Ingredients**
 
@@ -298,14 +298,14 @@ Apicius 8.8.1
 
 **Notes**
 
-* This is, with minor adjustments, the recipe suggested on pg 67-8 of Sally Grainger's *Cooking Apicius*
+* This is, with minor adjustments, the recipe suggested on pg 67-8 of Sally Grainger’s *Cooking Apicius*
 
 ### Parthian Chicken {#parthian-chicken}
 
 Apicius 6.8.3  
 **Ingredients**
 
-*Pullum anetatum* \- Apicius 6.8.1-2
+* 4 chicken thigh, with skin and bone  
 * 200 ml white wine  
 * 30 ml fish sauce  
 * 1 tsp lovage  
@@ -323,7 +323,7 @@ Apicius 6.8.3
 **Notes**
 
 * This dish is named after Parthia. This could be because it is stylistically similar to a Parthian dish, though lovage and caraway both are distinctly Roman ingredients this seems unlikely. Instead the dish may be named because of its prominent use of *asafoetida*, known in Latin as Parthian *laser* to distinguish from *silphium*, which was called Cyrenaican *laser*.  
-* Apicius 6.8.6, for chicken in a *laser* sauce, is very similar, merely lacking the caraway seeds. So if you don't like / don't have caraway seeds, you can make this recipe authentically without them. 
+* Apicius 6.8.6, for chicken in a *laser* sauce, is very similar, merely lacking the caraway seeds. So if you don’t like / don’t have caraway seeds, you can make this recipe authentically without them. 
 
 ### Chicken in Sour Sauce {#chicken-in-sour-sauce}
 
@@ -344,7 +344,7 @@ Apicius 6.8.4
 
 1. Preheat the oven to 180°C / 350 F.  
 2. Place the chicken in a dutch oven, skin side up, along with the leak. Add the remaining ingredients to the dutch oven, place in the oven, and cook for 50 minutes.  
-3. Discard the leak and the parsley. Plate the chicken, drizzled with some of the sauce, and serve.
+3. Discard the leak and the parsley. Plate the chicken, drizzle with some of the sauce, and serve.
 
 ### Numidian Chicken {#numidian-chicken}
 
@@ -371,14 +371,13 @@ Apicius 6.8.5
 1. Preheat the oven to 180 C / 350 F  
 2. Rub a ½ tsp of asafoetida onto the chicken thighs, then sprinkle ground pepper over. Place in a roasting tray and roast for 45 minutes, or until cooked through and the skin is golden  
 3. Place the dates in a bowl with a little water and microwave for 1 minute to soften. Place in a food processor with the pine nuts and blend into a paste.  
-4. Add the pine nut/date paste to a saucepan along with the remaining ingredients (excluding the cornstarch slurry). Add a generous amount of ground pepper. Bring to a simmer and cook for a couple minutes. Taste and adjust as desired - you may wish to add a couple tablespoons of water to reduce the intensity of the sauce.  
+4. Add the pine nut/date paste to a saucepan along with the remaining ingredients (excluding the cornstarch slurry). Add a generous amount of ground pepper. Bring to a simmer and cook for a couple minutes. Taste and adjust as desired \- you may wish to add a couple tablespoons of water to reduce the intensity of the sauce.  
 5. Add the cornstarch slurry, a little at a time, while the saucepan is over the heat, until a thick consistency is reached.    
 6. Plate the chicken thighs and then cover in the sauce. Sprinkle on some additional black pepper.
 
 **Notes**
 
-* This dish might be named after Numidia, a region in North Africa. It is also possible it is named after the guinea fowl, usually *meleagris* but also known as the *gallina Numidica* - the modern scientific name is *Numida meleagris*. Indeed, the term *pullum* used throughout Section 6.8 means "chicken" but can also be used for fowl more broadly, and guinea fowl could be used as an authentic substitute for chicken in any of them
-* This dish might be named after Numidia, a region in North Africa. It is also possible it is named after the guinea fowl, usually *meleagris* but also known as the *gallina Numidica* \- the modern scientific name is *Numida meleagris*. Indeed, the term *pullum* used throughout Section 6.8 means "chicken" but can also be used for fowl more broadly, and guinea fowl could be used as an authentic substitute for chicken in any of them
+* This dish might be named after Numidia, a region in North Africa. It is also possible it is named after the guinea fowl, usually *meleagris* but also known as the *gallina Numidica* \- the modern scientific name is *Numida meleagris*. Indeed, the term *pullum* used throughout Section 6.8 means “chicken” but can also be used for fowl more broadly, and guinea fowl could be used as an authentic substitute for chicken in any of them
 
 ### Boiled Chicken with Gourd {#boiled-chicken-with-gourd}
 
@@ -404,12 +403,13 @@ Apicius 6.8.8-9
 
 **Method**
 
-4. Add the pine nut/date paste to a saucepan along with the remaining ingredients (excluding the cornstarch slurry). Add a generous amount of ground pepper. Bring to a simmer and cook for a couple minutes. Taste and adjust as desired \- you may wish to add a couple tablespoons of water to reduce the intensity of the sauce.  
+1. Bring a large pot of water to a boil. Add the chicken thighs and simmer for 10 minutes, then add the butternut squash and simmer for another 15, or until both chicken and squash are cooked. Remove from the water, dry, and place in the fridge until cool.  
 2. Mix all of the sauce ingredients in a bowl. Plate the chicken and squash, then drizzle with the sauce, and serve.
 
 **Notes**
 
 * This can also be served with taro, as suggested in 6.8.10
+
 ### Vardanian Chicken {#vardanian-chicken}
 
 Apicius 6.8.11
@@ -431,7 +431,7 @@ Apicius 6.8.11
 **Method**
 
 1. Place the chicken thighs in a dutch oven along with the wine, fish sauce, olive oil, and savoury. Wash leek and coriander leaves, then place them on top without chopping. Bring to a simmer, then cook with the lid on for 25 minutes  
-2. Remove the leek and coriander leaves from the pot, then add the pine nuts, milk, and a generous amount of pepper. Beat the egg whites with a fork, then pour them over, making sure to stir so that they don't immediately curdle. Gently heat until the sauce thickens and begins to break, then serve.
+2. Remove the leek and coriander leaves from the pot, then add the pine nuts, milk, and a generous amount of pepper. Beat the egg whites with a fork, then pour them over, making sure to stir so that they don’t immediately curdle. Gently heat until the sauce thickens and begins to break, then serve.
 
 ### Frontonian Chicken {#frontonian-chicken}
 
@@ -458,7 +458,7 @@ Apicius 6.8.12
 **Notes**
 
 * The broth and leek are not eaten, probably because they look unappetizing, but they taste really good  
-* The Fronto referred to is likely the same author who wrote sections 7.12, 7.22, and 19.2 of *The Geoponica*. Plausibly this "Fronto" is Sextus Julius Frontinus (c. 40 – 103), a Roman senator and consul known chiefly now for having written a treatise on aqueduct.
+* The Fronto referred to is likely the same author who wrote sections 7.12, 7.22, and 19.2 of *The Geoponica*. Plausibly this “Fronto” is Sextus Julius Frontinus (c. 40 – 103), a Roman senator and consul known chiefly now for having written a treatise on aqueduct.
 
 ### Chicken *Tractogalatus* {#chicken-tractogalatus}
 
@@ -556,7 +556,7 @@ Apicius 6.2.2
 
 **Notes**
 
-* I didn't get the duck skin crispy with the above method and tbh wasn't that impressed, maybe should try [this method](https://mapleleaffarms.com/recipes/roasted-whole-duck-basic-recipe-for-crispy-skin) next?  
+* I didn’t get the duck skin crispy with the above method and tbh wasn’t that impressed, maybe should try [this method](https://mapleleaffarms.com/recipes/roasted-whole-duck-basic-recipe-for-crispy-skin) next?  
 * Also had difficulty getting the duck defrosted, it needs at least 2 days in the fridge
 
 **Duck with Turnips**  
@@ -828,7 +828,7 @@ Apicius 4.2.25
 
 **Notes**
 
-* I haven't yet worked out how long to soak salt fish, my first attempt was too salty  
+* I haven’t yet worked out how long to soak salt fish, my first attempt was too salty  
 * Apicius 4.2.24 gives a similar recipe for salt fish
 
 ### Tuna Salad {#tuna-salad}
@@ -915,7 +915,7 @@ Galen *On the Power of Foods* R18
 
 **Notes**
 
-* Galen doesn't specify which fish to use, but it is in the section for fish with "soft flesh". I think it works well with salmon, a river fish from northern Europe rarely mentioned by Greek writers but praised by Latin ones. Both Cassiodorus and Anthimus recommended it to German kings in the 6th century.
+* Galen doesn’t specify which fish to use, but it is in the section for fish with “soft flesh”. I think it works well with salmon, a river fish from northern Europe rarely mentioned by Greek writers but praised by Latin ones. Both Cassiodorus and Anthimus recommended it to German kings in the 6th century.
 
 ### Fried calamari {#fried-calamari}
 
@@ -959,7 +959,7 @@ Apicius 1.29/9.1.3/9.7
 2. While the prawns are cooking, combine the remaining ingredients in a small pan, crushing the tejpat leaf if using. Bring to a gentle simmer then take off the heat and remove the tejpat leaf.  
 3. Once the prawns are cooked, drain them, pour over the sauce, and serve.
 
-### Fish Broth
+### Fish Broth {#fish-broth}
 
 From the Heidelberg papyrus
 
