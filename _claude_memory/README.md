@@ -2,6 +2,16 @@
 
 This directory contains structured memory files to help maintain consistency across recipe files.
 
+## Updated Recipe Management System
+
+We have created a more structured system for managing recipes:
+
+- **recipe_tracking.md**: Database of all recipes with their status and issues
+- **recipe_workflow.md**: Step-by-step workflow for adding or updating recipes
+- **recipe_database.json**: JSON database for recipe information (machine-readable format)
+
+Always reference these files when working with recipes to prevent duplications, missing information, or incorrect formatting.
+
 ## Important Guidelines
 
 - When writing introductory text for recipes, always mark it as "**Claude's intro:**" 

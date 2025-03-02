@@ -9,7 +9,7 @@ permalink: /recipe-index/duck-with-hazelnuts.html
 {% capture recipe_content %}
 # Duck with Hazelnuts
 
-### Original Text
+### Original Source
 <!-- Note: This recipe is from The Classical Cookbook, not from a direct ancient source like Apicius or Heidelberg Papyrus. -->
 
 —*Modified from The Classical Cookbook*, page 133

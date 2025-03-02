@@ -3,7 +3,7 @@ layout: recipe
 title: Barley with Linseed
 tags: [source:pliny, era:roman_empire, grain]
 ingredients: [pearl barley, linseed, coriander, salt]
-permalink: /recipes/barley-with-linseed/
+permalink: /recipe-index/barley-with-linseed.html
 ---
 
 {% capture recipe_content %}
@@ -16,7 +16,7 @@ From Pliny's Natural History (18.73), he references a barley preparation made wi
 
 ___
 
-This simple barley porridge represents one of the most basic and common foods in the ancient Mediterranean. Pliny's mention of it highlights how such everyday foods evolved over time, with regional variations developing across the Roman world.
+**Claude's intro:** This simple barley porridge represents one of the most basic and common foods in the ancient Mediterranean. Pliny's mention of it highlights how such everyday foods evolved over time, with regional variations developing across the Roman world.
 
 ### Ingredients
 - 200 g {% include ingredient_link.html name="pearl barley" %}  

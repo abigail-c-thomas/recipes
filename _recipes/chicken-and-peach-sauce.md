@@ -19,7 +19,7 @@ For peaches: Clean and bone the chicken, then chop boiled gourds into small piec
 
 ___
 
-Claude's intro: This refined dish combines boiled chicken and butternut squash (standing in for gourd) with a sweet-savory peach sauce. While the original recipe describes a stuffed chicken preparation, this adaptation simplifies the process by serving the chicken alongside the squash with the peach sauce drizzled over both. The combination of fruit with poultry was a hallmark of sophisticated Roman cuisine, and the complex mixture of herbs and spices creates a uniquely Roman flavor profile that balances sweet, savory, and aromatic elements.
+**Claude's intro:** This refined dish combines boiled chicken and butternut squash (standing in for gourd) with a sweet-savory peach sauce. While the original recipe describes a stuffed chicken preparation, this adaptation simplifies the process by serving the chicken alongside the squash with the peach sauce drizzled over both. The combination of fruit with poultry was a hallmark of sophisticated Roman cuisine, and the complex mixture of herbs and spices creates a uniquely Roman flavor profile that balances sweet, savory, and aromatic elements.
 
 ### Ingredients
 - 2 {% include ingredient_link.html name="chicken" %} thighs

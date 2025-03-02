@@ -3,15 +3,24 @@ layout: recipe
 title: Chicken Conchicla
 tags: [source:apicius, era:roman_empire, chicken, peas, eggs]
 ingredients: [chicken thighs, wine, fish sauce, olive oil, onion, coriander, pepper, cumin, eggs, pine nuts]
-permalink: /recipes/chicken-conchicla/
+permalink: /recipe-index/chicken-conchicla.html
 ---
 
 {% capture recipe_content %}
 
 # Chicken Conchicla
 
-## Roman Layered Dish from *Apicius*
-*Apicius 5.4.5*
+### Original Latin
+*Aliter conciclam sic facies: concidis pullum minutatim, liquamine oleo et uino ferueat. concidis cepam coriandrum minutum, cerebella eneruas, mittes in eundem pullum. cum coctus fuerit, leuas et exossas. concides minutatim cepam et coriandrum, colas ibi pisam coctam non conditam. accipies conciclarem, pro modo conponis uarie. deinde teres piper, cuminum, suffundis ius de suo sibi. item in mortario oua duo dissolues; temperas, ius de suo sibi suffundis. pise integre elixe uel nucleis adornabis, et lento igni feruere facies et inferes.*
+
+### English Translation
+"Another way to make conchicla: Cut the chicken into small pieces, and let it simmer in fish sauce, oil, and wine. Chop the onion and coriander finely, remove the membranes from brains, and add them to the chicken. When it is cooked, lift it out and debone it. Chop onion and coriander finely, and strain cooked peas without seasoning into this. Take a conchicla dish, and arrange the ingredients in layers as appropriate. Then grind pepper and cumin, and pour in the broth from the chicken. Also, dissolve two eggs in a mortar; mix them, and pour in the broth. Garnish with whole cooked peas or pine nuts, and cook over a slow fire, then serve."
+
+—*Apicius*, 5.4.5, c. 4th century CE
+
+___
+
+**Claude's intro:** This layered dish from Roman cuisine combines tender chicken with peas and aromatics, bound together with an egg mixture to create a substantial casserole-like preparation. The name "conchicla" appears to refer to a specific type of Roman layered dish. The modern adaptation simplifies the original recipe by omitting brain tissue while preserving the essential technique of creating distinct layers and binding them with an egg mixture enhanced with spices.
 
 ### Ingredients
 - 4 boneless, skinless chicken {% include ingredient_link.html name="thighs" %}  
@@ -39,13 +48,11 @@ permalink: /recipes/chicken-conchicla/
 5. Place the conchicla in the oven and bake for 30 minutes, or until the top layer is set. Remove from the oven and serve.
 
 ### Notes
-Conchicla (or concicula) appears to be a type of layered dish found in Roman cuisine. This particular recipe combines the savory flavors of chicken and peas with aromatic herbs and spices. The dish is bound together with an egg mixture, creating a casserole-like texture.
-
-### Original Latin Text
-> Aliter conciclam sic facies: concidis pullum minutatim, liquamine oleo et uino ferueat. concidis cepam coriandrum minutum, cerebella eneruas, mittes in eundem pullum. cum coctus fuerit, leuas et exossas. concides minutatim cepam et coriandrum, colas ibi pisam coctam non conditam. accipies conciclarem, pro modo conponis uarie. deinde teres piper, cuminum, suffundis ius de suo sibi. item in mortario oua duo dissolues; temperas, ius de suo sibi suffundis. pise integre elixe uel nucleis adornabis, et lento igni feruere facies et inferes.
-
-### Translation
-"Another way to make conchicla: Cut the chicken into small pieces, and let it simmer in fish sauce, oil, and wine. Chop the onion and coriander finely, remove the membranes from brains, and add them to the chicken. When it is cooked, lift it out and debone it. Chop onion and coriander finely, and strain cooked peas without seasoning into this. Take a conchicla dish, and arrange the ingredients in layers as appropriate. Then grind pepper and cumin, and pour in the broth from the chicken. Also, dissolve two eggs in a mortar; mix them, and pour in the broth. Garnish with whole cooked peas or pine nuts, and cook over a slow fire, then serve."
+- Conchicla (or concicula) appears to be a type of layered dish found in Roman cuisine. This particular recipe combines the savory flavors of chicken and peas with aromatic herbs and spices.
+- The dish is bound together with an egg mixture, creating a casserole-like texture.
+- The original recipe calls for chicken brains, which have been omitted in this adaptation.
+- This would have been a substantial and nutritious dish in Roman times, suitable for serving at more elaborate meals.
+- The multiple cooking steps (simmering, then baking) are characteristic of more complex Roman recipes.
 
 {% endcapture %}
 {{ recipe_content | markdownify }}

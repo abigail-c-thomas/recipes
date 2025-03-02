@@ -18,7 +18,7 @@ permalink: /recipe-index/hipotrimma.html
 
 ___
 
-<!-- TODO: Add description paragraph about hipotrimma and its context -->
+**Claude's intro:** Hipotrimma was a versatile Roman condiment or dip that combined sweet, savory, and spiced flavors - a characteristic feature of Roman cuisine. The name comes from the Greek word meaning "well-pounded" or "well-minced," reflecting its preparation method. This rich mixture of nuts, fruits, cheese, and seasonings would have been served as part of the appetizer course, likely alongside bread. The combination of raisins, dates, and honey balanced with the savory elements of cheese and fish sauce creates a complex flavor profile typical of sophisticated Roman dining, where contrasting tastes were highly valued.
 
 ### Ingredients
 - 50g {% include ingredient_link.html name="raisins" %}

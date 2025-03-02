@@ -3,7 +3,7 @@ layout: recipe
 title: Columella's Alternate Oxyporium
 tags: [source:columella, era:roman_empire, salad, dressing, condiment]
 ingredients: [white pepper, mint, lovage, raisins, honey, red wine vinegar, fish sauce]
-permalink: /recipes/columella-oxyporium-alt/
+permalink: /recipe-index/columella-oxyporium-alt.html
 ---
 
 {% capture recipe_content %}
@@ -20,7 +20,7 @@ From Columella's *De Re Rustica* (On Agriculture) 12.59f:
 
 ___
 
-This is a second variation of Columella's *oxyporium*, a spiced digestive aid. This version includes dried mint and raisins, making it slightly sweeter than his first recipe. It would have been served with lettuce or taken medicinally to aid digestion.
+**Claude's intro:** This is a second variation of Columella's *oxyporium*, a spiced digestive aid. This version includes dried mint and raisins, making it slightly sweeter than his first recipe. It would have been served with lettuce or taken medicinally to aid digestion.
 
 ### Ingredients
 - ½ tsp white {% include ingredient_link.html name="pepper" %}  

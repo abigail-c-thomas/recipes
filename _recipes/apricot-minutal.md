@@ -9,17 +9,16 @@ permalink: /recipe-index/apricot-minutal.html
 {% capture recipe_content %}
 # Apricot Minutal
 
-### Original Latin
+### Original Text
 **minutal ex praecoquiis**: adicies in caccabo oleum liquamen uinum; concides cepam ascaloniam aridam; spatulam porcinam coctam tessellatim concides. his omnibus coctis teres piper cuminum mentam siccam anetum; suffundis mel liquamen passum acetum modice ius de suo sibi; temperabis; praecoqua enucleata mittis, facies ut ferueant donec percoquantur. tractam confringes, et ea obligas, piper aspargis et inferes.
 
-### English Translation
 **Minutal with apricots**: Put in a pot oil, fish sauce and wine; cut up a dry shallot; cut a cooked shoulder of pork into small pieces. When all these are cooked, grind pepper, cumin, dried mint, and dill; moisten with honey, fish sauce, *passum*, a little vinegar, and the cooking juices; mix together; add the apricots with stones removed, bring to a boil until fully cooked. Break up a piece of pastry and use it to thicken the sauce, sprinkle with pepper and serve.
 
-—*Apicius*, 4.3.6, c. 350
+—*Apicius*, 4.3.6, c. 4th century CE
 
 ___
 
-Claude's intro: In Roman cuisine, fruit was often included in savory meat dishes. This combination of sweet and savory flavors was a hallmark of sophisticated Roman cookery. This minutal (a type of stew or hash) combines pork shoulder with apricots and aromatic spices to create a balanced dish showing the Roman fondness for mixing fruit with meat.
+**Claude's intro:** In Roman cuisine, fruit was often included in savory meat dishes. This combination of sweet and savory flavors was a hallmark of sophisticated Roman cookery. This minutal (a type of stew or hash) combines pork shoulder with apricots and aromatic spices to create a balanced dish showing the Roman fondness for mixing fruit with meat.
 
 ### Ingredients
 - 1 kg {% include ingredient_link.html name="pork" %} shoulder, diced

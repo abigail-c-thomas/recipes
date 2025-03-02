@@ -23,7 +23,7 @@ Chicken with dill: Mix a moderate amount of honey with fish sauce. Take the cook
 
 ___
 
-Claude's intro: This delicious chicken preparation demonstrates the Roman approach to layering flavors. The recipe combines two parts - first creating a complex sauce with herbs and sweeteners, then applying it to chicken using a two-stage cooking process. The technique of scoring the meat to allow it to absorb the sauce is particularly noteworthy, as it allows the flavors to penetrate deeply. While the original recipe suggests using feathers for basting, modern kitchen tools work just as well. The combination of sweet (honey, date syrup) and savory elements (fish sauce, herbs) creates a balanced dish that highlights the importance of dill in Roman cooking.
+**Claude's intro:** This delicious chicken preparation demonstrates the Roman approach to layering flavors. The recipe combines two parts - first creating a complex sauce with herbs and sweeteners, then applying it to chicken using a two-stage cooking process. The technique of scoring the meat to allow it to absorb the sauce is particularly noteworthy, as it allows the flavors to penetrate deeply. While the original recipe suggests using feathers for basting, modern kitchen tools work just as well. The combination of sweet (honey, date syrup) and savory elements (fish sauce, herbs) creates a balanced dish that highlights the importance of dill in Roman cooking.
 
 ### Ingredients
 - 4 {% include ingredient_link.html name="chicken" %} thighs

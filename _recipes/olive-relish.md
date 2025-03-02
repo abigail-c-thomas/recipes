@@ -10,15 +10,15 @@ permalink: /recipe-index/olive-relish.html
 # Olive Relish
 
 ### Original Text
-<!-- TODO: Add original Latin text from Cato De Agricultura 119 -->
+*Epityrum album nigrum variumque sic facito. Ex oleis albis nigris variisque nuculeos eicito. Sic condito. Concidito ipsas, addito oleum, acetum, coriandrum, cuminum, feniculum, rutam, mentam. In orculam condito, oleum supra siet. Ita utito.*
 
-<!-- TODO: Add English translation -->
+Make white, black, or mixed *epityrum* thus: Remove the stones from white, black, or mixed olives. Season them thus: Chop them, add oil, vinegar, coriander, cumin, fennel, rue, and mint. Put them in a jar, with olive oil on top. Use in this way.
 
 —*Cato*, *De Agricultura* 119
 
 ___
 
-<!-- TODO: Add description paragraph about olive relish and its cultural context -->
+**Claude's intro:** This olive relish, known as *epityrum* in Latin, is one of the oldest recorded Roman condiments, dating from Cato's time in the 2nd century BCE. It represents the Roman appreciation for olives, which were a staple food throughout the Mediterranean. This versatile relish could be made with any type of olives - green, black, or mixed - and would have been served as part of the *gustatio* (appetizer course) alongside bread. The combination of herbs and spices - cumin, coriander, fennel, rue, and mint - creates a distinctly Mediterranean flavor profile that complements the briny olives.
 
 ### Ingredients
 - 120g black {% include ingredient_link.html name="olives" %}

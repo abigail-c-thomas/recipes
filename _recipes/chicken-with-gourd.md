@@ -23,7 +23,7 @@ Boiled chicken with boiled gourds: Pour over it the sauce written above, with th
 
 ___
 
-Claude's intro: This recipe combines tender boiled chicken with butternut squash (standing in for the Roman gourd) in a complex sauce featuring multiple herbs and spices. The sauce highlights the Roman love of layered flavors, combining sweet elements (dates, honey) with savory (fish sauce) and tangy (vinegar) components. The addition of mustard specifically for the gourd version shows how Romans would subtly adapt sauces to complement different ingredients. This dish exemplifies the practical approach of Roman cooking, where a base sauce could be modified slightly for different applications.
+**Claude's intro:** This recipe combines tender boiled chicken with butternut squash (standing in for the Roman gourd) in a complex sauce featuring multiple herbs and spices. The sauce highlights the Roman love of layered flavors, combining sweet elements (dates, honey) with savory (fish sauce) and tangy (vinegar) components. The addition of mustard specifically for the gourd version shows how Romans would subtly adapt sauces to complement different ingredients. This dish exemplifies the practical approach of Roman cooking, where a base sauce could be modified slightly for different applications.
 
 ### Ingredients
 - 4 {% include ingredient_link.html name="chicken" %} thighs

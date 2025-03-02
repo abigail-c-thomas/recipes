@@ -3,24 +3,23 @@ layout: recipe
 title: Columella's Oxyporium
 tags: [source:columella, era:roman_empire, salad, dressing, condiment]
 ingredients: [white pepper, celery seed, laser, parmesan, honey, fish sauce, vinegar]
-permalink: /recipes/columella-oxyporium/
+permalink: /recipe-index/columella-oxyporium.html
 ---
 
 {% capture recipe_content %}
 # Columella's Oxyporium
 
-### Original Text
-From Columella's *De Re Rustica* (On Agriculture) 12.59e:
+### Original Latin
+*Aliter oxyporum digestibile: piperis albi, si sit; sin minus, nigri unciae duae, petroselini unciae tres, laser parvum, quod Syriaci unius denarii pondus efficiat, casei veteris sapae unciae singulae. Haec bene trita miscentur, et in ollulam vitream conduntur: deinde melle despumato, quantum sufficiat, diluta consumuntur.*
 
-> Aliter oxyporum digestibile: piperis albi, si sit; sin minus, nigri unciae duae, petroselini unciae tres, laser parvum, quod Syriaci unius denarii pondus efficiat, casei veteris sapae unciae singulae. Haec bene trita miscentur, et in ollulam vitream conduntur: deinde melle despumato, quantum sufficiat, diluta consumuntur.
-
+### English Translation
 "Another digestible oxyporium: 2 ounces of white pepper, or if not available, black pepper, 3 ounces of parsley seed, a small amount of laser the weight of one Syrian denarius, 1 ounce each of aged cheese and reduced wine. These ingredients are well ground, mixed, and placed in a glass jar; then they are consumed diluted with sufficient skimmed honey."
 
-—Columella, *De Re Rustica* 12.59e, 1st century CE
+—*Columella*, *De Re Rustica* 12.59e, c. 1st century CE
 
 ___
 
-This is Columella's version of *oxyporium*, a spiced digestive aid. Unlike Apicius' recipe, this one includes aged cheese and parsley (or celery) seed, creating a richer flavor profile. Columella was a prominent Roman writer on agriculture who lived in the 1st century CE.
+**Claude's intro:** This is Columella's version of *oxyporium*, a spiced digestive aid. Unlike Apicius' recipe, this one includes aged cheese and parsley (or celery) seed, creating a richer flavor profile. Columella was a prominent Roman writer on agriculture who lived in the 1st century CE.
 
 ### Ingredients
 - 1 tsp white {% include ingredient_link.html name="pepper" %}  

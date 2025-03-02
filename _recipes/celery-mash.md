@@ -3,22 +3,23 @@ layout: recipe
 title: Celery Mash
 tags: [source:apicius, era:roman_empire, vegetable]
 ingredients: [celery, onion, baking soda, pepper, lovage, oregano, white wine, fish sauce, olive oil]
-permalink: /recipes/celery-mash/
+permalink: /recipe-index/celery-mash.html
 ---
 
 {% capture recipe_content %}
 # Celery Mash
 
-### Original Text
-> Aliter olus molle: apium quoques ex aqua nitrata, exprimes et concides minutatim. in mortario teres piper ligusticum origanum cepam vinum liquamen et oleum. quoques in pultario et sic apium commissces.
+### Original Latin
+*Aliter olus molle: apium quoques ex aqua nitrata, exprimes et concides minutatim. in mortario teres piper ligusticum origanum cepam vinum liquamen et oleum. quoques in pultario et sic apium commissces.*
 
+### English Translation
 "Another soft vegetable: Cook celery in water with soda, drain it and chop it finely. Grind in a mortar pepper, lovage, oregano, onion, wine, fish sauce, and oil. Cook in a pot and mix in the celery."
 
-—*Apicius*, *De Re Coquinaria* 3.15.2, 4th-5th century CE
+—*Apicius*, 3.15.2, c. 4th century CE
 
 ___
 
-This Roman dish transforms celery into a flavorful puree using baking soda to maintain its bright green color. The addition of herbs and spices creates a complex flavor profile that elevates the humble celery.
+**Claude's intro:** This Roman dish transforms celery into a flavorful puree using baking soda to maintain its bright green color. The addition of herbs and spices creates a complex flavor profile that elevates the humble celery.
 
 ### Ingredients
 - 1 head of {% include ingredient_link.html name="celery" %}  

@@ -18,7 +18,7 @@ permalink: /recipes/alexandrian-gourd/
 
 ___
 
-This recipe, called "Alexandrian Gourd," reflects the cosmopolitan culinary influences of ancient Alexandria in Egypt, a major Mediterranean trading hub. The use of dates and honey creates a sweet-savory balance popular in North African cuisine, while the spice mixture adds depth and aroma.
+**Claude's intro:** This recipe, called "Alexandrian Gourd," reflects the cosmopolitan culinary influences of ancient Alexandria in Egypt, a major Mediterranean trading hub. The use of dates and honey creates a sweet-savory balance popular in North African cuisine, while the spice mixture adds depth and aroma. Named after the great Egyptian city founded by Alexander the Great, this dish exemplifies how Roman cuisine incorporated flavors from across their empire. The combination of squash with an aromatic sauce featuring dates, pine nuts, and multiple spices demonstrates the sophisticated approach to vegetable dishes in Roman cooking.
 
 ### Ingredients
 - 1 kg {% include ingredient_link.html name="squash" %} (or gourd, if you can find it)  

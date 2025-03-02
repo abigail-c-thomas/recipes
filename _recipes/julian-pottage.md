@@ -3,22 +3,23 @@ layout: recipe
 title: Julian Pottage
 tags: [source:apicius, era:roman_empire, grain, meat]
 ingredients: [semolina, olive oil, ground meat, pepper, lovage, fennel seed, fish sauce, white wine]
-permalink: /recipes/julian-pottage/
+permalink: /recipe-index/julian-pottage.html
 ---
 
 {% capture recipe_content %}
 # Julian Pottage
 
-### Original Text
-> Pultes Iulianae: alicam purgatam infundes, coques, oleum mittes. cum ferbuerit, obligas. adicies cerebella cocta, effervebis. cum ferbuerit, in lastrias tolles. concides pulpam quasi ad isicia, cum lasere, pipere, liquamine. coques in pultarium, posito in carbones, et condies. Alios pultes Iulianos sic facies: alicam purgatam infundis, coques, addis liquamen et passum vel mulsum, teres piper, ligusticum, foeniculi semen, suffundis, reexinanies in pultarium super pultes. supertange.
+### Original Latin
+*Pultes Iulianae: alicam purgatam infundes, coques, oleum mittes. cum ferbuerit, obligas. adicies cerebella cocta, effervebis. cum ferbuerit, in lastrias tolles. concides pulpam quasi ad isicia, cum lasere, pipere, liquamine. coques in pultarium, posito in carbones, et condies. Alios pultes Iulianos sic facies: alicam purgatam infundis, coques, addis liquamen et passum vel mulsum, teres piper, ligusticum, foeniculi semen, suffundis, reexinanies in pultarium super pultes. supertange.*
 
+### English Translation
 "Julian pottage: Pour clean spelt [grain], cook it, add oil. When it boils, thicken it. Add cooked brains, bring to a boil. When it has boiled, remove it in slices. Cut the meat as if for forcemeat, with laser, pepper, and fish sauce. Cook in a pottage pot placed on coals, and season. Make other Julian pottage thus: pour clean spelt, cook it, add fish sauce and raisin wine or honeyed wine, grind pepper, lovage, fennel seed, moisten with liquid, pour back into the pot over the pottage. Stroke the top."
 
-—*Apicius*, *De Re Coquinaria* 5.1.1/4, 4th-5th century CE
+—*Apicius*, 5.1.1/4, c. 4th century CE
 
 ___
 
-This hearty grain dish is attributed to either the Julian family or possibly to Julius Caesar himself. It combines a semolina porridge base with seasoned ground meat, creating a substantial meal that would have been filling and nutritious.
+**Claude's intro:** This hearty grain dish is attributed to either the Julian family or possibly to Julius Caesar himself. It combines a semolina porridge base with seasoned ground meat, creating a substantial meal that would have been filling and nutritious.
 
 ### Ingredients
 - 200 g {% include ingredient_link.html name="semolina" %}  

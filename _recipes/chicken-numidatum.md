@@ -9,10 +9,11 @@ permalink: /recipe-index/chicken-numidatum.html
 {% capture recipe_content %}
 # Numidian Chicken
 
-### Original Text
+### Original Latin
 *Pullum Numidicum: pullum curas, elixas, levas, laser ac piper \<aspergis\> et assas. teres piper cuminum coriandri semen laseris radicem rutam careotam nucleos; suffundis acetum mel liquamen et oleum; temperabis. cum ferbuerit, amulo obligas, pullum perfundis, piper aspergis et inferes.*
 
-Numidian chicken: Prepare the chicken, boil it, remove it from the water, sprinkle with laser (asafoetida) and pepper, and roast it. Pound pepper, cumin, coriander seed, laser root, rue, dates, and pine nuts. Pour in vinegar, honey, fish sauce, and oil. Mix well. When it boils, thicken with starch. Pour over the chicken, sprinkle with pepper, and serve.
+### English Translation
+"Numidian chicken: Prepare the chicken, boil it, remove it from the water, sprinkle with laser (asafoetida) and pepper, and roast it. Pound pepper, cumin, coriander seed, laser root, rue, dates, and pine nuts. Pour in vinegar, honey, fish sauce, and oil. Mix well. When it boils, thicken with starch. Pour over the chicken, sprinkle with pepper, and serve."
 
 —*Apicius*, 6.8.5, c. 4th century CE
 

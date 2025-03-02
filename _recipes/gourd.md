@@ -3,22 +3,23 @@ layout: recipe
 title: Gourd with Spiced Sauce
 tags: [source:apicius, era:roman_empire, vegetable]
 ingredients: [squash, pepper, cumin, asafoetida, rue, red wine vinegar, fish sauce, defrutum]
-permalink: /recipes/gourd/
+permalink: /recipe-index/gourd.html
 ---
 
 {% capture recipe_content %}
 # Gourd with Spiced Sauce
 
-### Original Text
-> Cucurbitas: callosiores reddes gustum ad cucurbitas: coctas expressas in patinam conpones. adicies in mortarium pipere cuminum silfi modice (id est laseris radicem), rutam modicum; liquamine et aceto temperabis; mittes defreto modicum ut coloretur; ius exinanies in patenam. cum ferbuerit iterum ac tertio, depones et piper minutum asparges.
+### Original Latin
+*Cucurbitas: callosiores reddes gustum ad cucurbitas: coctas expressas in patinam conpones. adicies in mortarium pipere cuminum silfi modice (id est laseris radicem), rutam modicum; liquamine et aceto temperabis; mittes defreto modicum ut coloretur; ius exinanies in patenam. cum ferbuerit iterum ac tertio, depones et piper minutum asparges.*
 
+### English Translation
 "Gourds: To make tougher gourds tastier: After cooking and draining them, arrange in a pan. Add to a mortar pepper, cumin, a little silphium (that is, laser root), and a little rue; mix with fish sauce and vinegar; add a little reduced wine for color; pour the sauce into the pan. When it has boiled for a second and third time, remove and sprinkle with ground pepper."
 
-—*Apicius*, *De Re Coquinaria* 3.4.1, 4th-5th century CE
+—*Apicius*, 3.4.1, c. 4th century CE
 
 ___
 
-This recipe transforms simple squash or gourd with an aromatic spiced sauce. The Romans enjoyed gourds, which were different from modern varieties but similar to summer squash in texture and taste. This dish balances the mild flavor of the gourd with a tangy, savory sauce.
+**Claude's intro:** This recipe transforms simple squash or gourd with an aromatic spiced sauce. The Romans enjoyed gourds, which were different from modern varieties but similar to summer squash in texture and taste. This dish balances the mild flavor of the gourd with a tangy, savory sauce.
 
 ### Ingredients
 - 500 g {% include ingredient_link.html name="squash" %} (or gourd, if you can find it)  

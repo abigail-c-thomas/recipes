@@ -14,11 +14,11 @@ permalink: /recipe-index/cold-sauce-for-boiled-pork.html
 
 **Cold sauce for boiled suckling pig**: Grind pepper, caraway, dill, a little oregano, pine nuts; pour over vinegar, fish sauce, dates, honey, prepared mustard; drizzle with oil, sprinkle with pepper and serve.
 
-—*Apicius*, 8.7.15, c. 350
+—*Apicius*, 8.7.15, c. 4th century CE
 
 ___
 
-<!-- TODO: Add description paragraph about cold sauces in Roman cuisine -->
+**Claude's intro:** Cold sauces were a distinctive feature of Roman fine dining, allowing the full flavors of fresh herbs and spices to come through without being altered by heat. This particular sauce combines the earthy flavors of pine nuts and caraway with the bite of mustard and the sweetness of honey and date syrup. The Romans appreciated contrasting temperatures in their cuisine, and pouring this cold, flavorful sauce over hot meat would create a pleasing sensory experience that showcased the cook's sophistication. Such sauces were often prepared in a mortar, which released the essential oils of the spices more effectively than modern chopping.
 
 ### Ingredients
 - 1 Tb {% include ingredient_link.html name="caraway" %} seeds

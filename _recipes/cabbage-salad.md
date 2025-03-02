@@ -3,26 +3,25 @@ layout: recipe
 title: Cabbage Salad
 tags: [source:cato, source:oribasius, era:roman_empire, salad, vegetable]
 ingredients: [cabbage, rue, coriander, asafoetida, honey, red wine vinegar, salt]
-permalink: /recipes/cabbage-salad/
+permalink: /recipe-index/cabbage-salad.html
 ---
 
 {% capture recipe_content %}
 # Cabbage Salad
 
-### Original Text
-From Cato, *De Agricultura* 157:
+### Original Latin
+*Brassicam macerato, postea aqua commutato; diu in aqua macerato; postea cum salis sextario, coriandri semine, cumini quantum voles, dragon, silfi, aceto macerato; post id oleum superstillato;*
 
-> Brassicam macerato, postea aqua commutato; diu in aqua macerato; postea cum salis sextario, coriandri semine, cumini quantum voles, dragon, silfi, aceto macerato; post id oleum superstillato; 
-
+### English Translation
 "Macerate the cabbage, then change the water; macerate it for a long time in water; afterward macerate it with a sextarius of salt, coriander seed, as much cumin as you want, dragon herb, silphium, and vinegar; afterward drip oil over it;"
 
-—Cato, *De Agricultura* 157, 2nd century BCE
+—Cato, *De Agricultura* 157, c. 2nd century BCE
 
 Also quoted in Oribasius *Medical Collections* 4.4.1, citing Mnesitheus, 4th century BCE.
 
 ___
 
-This ancient cabbage salad recipe appears in multiple sources across centuries, suggesting its popularity and effectiveness. Cato included it in his agricultural manual with claims about its medicinal properties, noting it could cure headaches and aid digestion. The recipe was also recorded by the physician Oribasius, who cited it from the even earlier Greek physician Mnesitheus.
+**Claude's intro:** This ancient cabbage salad recipe appears in multiple sources across centuries, suggesting its popularity and effectiveness. Cato included it in his agricultural manual with claims about its medicinal properties, noting it could cure headaches and aid digestion. The recipe was also recorded by the physician Oribasius, who cited it from the even earlier Greek physician Mnesitheus. (note the original text is wrong, needs to be fixed)
 
 ### Ingredients
 - 1 small {% include ingredient_link.html name="cabbage" %}  

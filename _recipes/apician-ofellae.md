@@ -18,7 +18,7 @@ permalink: /recipe-index/apician-ofellae.html
 
 ___
 
-<!-- TODO: Add description paragraph about this specific style of ofellae -->
+**Claude's intro:** These Apician *ofellae* are named after Apicius, the famous Roman gourmand, suggesting they were considered a refined version of this popular meat dish. *Ofellae* were typically small cuts of meat prepared through a combination of roasting and then braising in sauce. This particular preparation highlights the Roman fondness for complex, layered flavors - the initial roasting develops rich meat flavors, while the aromatic sauce featuring fish sauce (garum), tiger nuts, and herbs adds depth. The dish represents the sophisticated meat cookery of wealthy Roman households where exotic ingredients like tiger nuts would have been a sign of affluence and culinary knowledge.
 
 ### Ingredients
 - 750g {% include ingredient_link.html name="pork" %} belly

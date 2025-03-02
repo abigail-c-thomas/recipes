@@ -19,7 +19,7 @@ Frontonian chicken: Partially cook the chicken in a mixture of fish sauce and oi
 
 ___
 
-Claude's intro: This simple yet flavorful chicken dish represents the Roman practice of naming recipes after individuals - in this case likely Fronto, a Roman author or notable figure. The recipe demonstrates the Roman technique of cooking meat in a fragrant herb bundle, then finishing with a contrasting sweet element. The process creates chicken with complex flavor despite the straightforward preparation. The final touch of *defrutum* (reduced grape must) adds a glossy, sweet finish that balances the savory aspects of the dish, while the fresh herbs infuse the meat during cooking without overwhelming it.
+**Claude's intro:** This simple yet flavorful chicken dish represents the Roman practice of naming recipes after individuals - in this case likely Fronto, a Roman author or notable figure. The recipe demonstrates the Roman technique of cooking meat in a fragrant herb bundle, then finishing with a contrasting sweet element. The process creates chicken with complex flavor despite the straightforward preparation. The final touch of *defrutum* (reduced grape must) adds a glossy, sweet finish that balances the savory aspects of the dish, while the fresh herbs infuse the meat during cooking without overwhelming it.
 
 ### Ingredients
 - 1 kg {% include ingredient_link.html name="chicken" %} thighs, with skin and bone

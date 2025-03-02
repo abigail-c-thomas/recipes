@@ -19,11 +19,11 @@ Veal or beef with leeks or quinces or onions or taro: fish sauce, pepper, *laser
 
 ___
 
-Claude's intro: This remarkably simple beef stew demonstrates the practical side of Roman cooking, where a few high-quality ingredients could be combined to create a satisfying meal. The recipe is unusual in offering multiple alternative ingredients (leeks, quinces, onions, or taro), suggesting a flexibility that would have allowed the dish to be prepared according to seasonal availability or regional preferences. The use of *laser* (asafoetida) provides a distinctive umami flavor that, combined with fish sauce, creates depth without requiring a complex mixture of spices. This adaptable, straightforward approach to cooking meat would have been accessible to Romans of various social classes, not just the elite.
+**Claude's intro:** This remarkably simple beef stew demonstrates the practical side of Roman cooking, where a few high-quality ingredients could be combined to create a satisfying meal. The recipe is unusual in offering multiple alternative ingredients (leeks, quinces, onions, or taro), suggesting a flexibility that would have allowed the dish to be prepared according to seasonal availability or regional preferences. The use of *laser* (asafoetida) provides a distinctive umami flavor that, combined with fish sauce, creates depth without requiring a complex mixture of spices. This adaptable, straightforward approach to cooking meat would have been accessible to Romans of various social classes, not just the elite.
 
 ### Ingredients
-- 500g diced chuck roast
-- 1 large onion, diced, or a small leek, diced
+- 500g diced chuck {% include ingredient_link.html name="beef" %}
+- 1 large {% include ingredient_link.html name="onion" %}, diced, or a small {% include ingredient_link.html name="leek" %}, diced
 - 2 Tb {% include ingredient_link.html name="olive oil" %}
 - 30 ml {% include ingredient_link.html name="fish sauce" %}
 - 300 ml water

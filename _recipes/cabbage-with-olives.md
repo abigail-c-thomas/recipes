@@ -19,7 +19,7 @@ Another way to season cabbage: mix with green olives and cook together.
 
 ___
 
-This simple cabbage dish incorporates green olives for a burst of briny flavor that complements the mild cabbage. While the original recipe is extremely brief, it references previous cooking methods and seasonings that would have been applied to this dish as well. The combination of cabbage and olives might seem unusual to modern tastes, but it creates a delightful contrast of flavors and textures. The quick cooking method preserves the integrity of both ingredients while allowing their flavors to meld. This relatively straightforward preparation demonstrates how Roman cooks created variety in their cuisine by combining familiar ingredients in different ways.
+**Claude's intro:** This simple cabbage dish incorporates green olives for a burst of briny flavor that complements the mild cabbage. While the original recipe is extremely brief, it references previous cooking methods and seasonings that would have been applied to this dish as well. The combination of cabbage and olives might seem unusual to modern tastes, but it creates a delightful contrast of flavors and textures. The quick cooking method preserves the integrity of both ingredients while allowing their flavors to meld. This relatively straightforward preparation demonstrates how Roman cooks created variety in their cuisine by combining familiar ingredients in different ways.
 
 ### Ingredients
 - 500g {% include ingredient_link.html name="cabbage" %}, chopped into thin strips

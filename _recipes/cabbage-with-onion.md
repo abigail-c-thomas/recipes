@@ -19,7 +19,7 @@ Another way [to prepare] cabbage sprouts: boil them and arrange in a dish. Put i
 
 ___
 
-This cabbage dish showcases a more complex flavor profile than the basic preparation, with the addition of onion and sweet passum (raisin wine). The method of grinding the aromatics and spices into a sauce before combining with the cabbage ensures that the flavors permeate the vegetable thoroughly. The combination of savory, sweet, and aromatic elements demonstrates the sophisticated approach to vegetable cookery in Roman cuisine, transforming humble cabbage into a dish worthy of the dining table. The stir-fry method used in this adaptation also helps to maintain the cabbage's texture better than boiling alone.
+**Claude's intro:** This cabbage dish showcases a more complex flavor profile than the basic preparation, with the addition of onion and sweet passum (raisin wine). The method of grinding the aromatics and spices into a sauce before combining with the cabbage ensures that the flavors permeate the vegetable thoroughly. The combination of savory, sweet, and aromatic elements demonstrates the sophisticated approach to vegetable cookery in Roman cuisine, transforming humble cabbage into a dish worthy of the dining table. The stir-fry method used in this adaptation also helps to maintain the cabbage's texture better than boiling alone.
 
 ### Ingredients
 - 300g {% include ingredient_link.html name="cabbage" %}, chopped into thin strips

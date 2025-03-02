@@ -19,6 +19,8 @@ For crane, duck, or chicken: pepper, dried onion, lovage, cumin, celery seed, pr
 
 ___
 
+**Claude's intro:** This luxurious duck recipe showcases the Roman fondness for fruit-based sauces with poultry. The combination of sweet prunes with savory spices creates a rich, complex flavor profile that would have been considered sophisticated dining in ancient Rome. While the original recipe offers flexibility in using duck, chicken, or even crane (a status food in Roman times), duck works particularly well with the sauce's deep flavors. The cooking method, with multiple rounds of basting with *defrutum* (reduced grape must), helps develop a caramelized exterior while maintaining a succulent interior, techniques that are still valued in modern roasting.
+
 ### Ingredients
 - 1 {% include ingredient_link.html name="duck" %}
 - ½ tsp ground {% include ingredient_link.html name="black pepper" %}

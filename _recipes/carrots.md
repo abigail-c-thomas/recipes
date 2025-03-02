@@ -3,22 +3,23 @@ layout: recipe
 title: Carrots
 tags: [source:apicius, era:roman_empire, vegetable]
 ingredients: [carrot, cumin, olive oil, white wine, fish sauce]
-permalink: /recipes/carrots/
+permalink: /recipe-index/carrots.html
 ---
 
 {% capture recipe_content %}
 # Carrots
 
-### Original Text
-> Aliter caroetas: elixatas concisas in cuminato oleo modico quoques et inferes; cuminatum coliculorum facies.
+### Original Latin
+*Aliter caroetas: elixatas concisas in cuminato oleo modico quoques et inferes; cuminatum coliculorum facies.*
 
+### English Translation
 "Another way with carrots: Cut boiled carrots into pieces and cook in cumin-flavored oil with a little oil and serve; prepare the cumin sauce for stalks."
 
-—*Apicius*, *De Re Coquinaria* 3.21.3, 4th-5th century CE
+—*Apicius*, 3.21.3, c. 4th century CE
 
 ___
 
-This simple preparation of carrots showcases the Roman fondness for cumin as a spice. The addition of wine and fish sauce creates a savory glaze that enhances the natural sweetness of the carrots.
+**Claude's intro:** This simple preparation of carrots showcases the Roman fondness for cumin as a spice. The addition of wine and fish sauce creates a savory glaze that enhances the natural sweetness of the carrots.
 
 ### Ingredients
 - 4 {% include ingredient_link.html name="carrot" %}s, chopped in bite-sized pieces  

@@ -19,7 +19,7 @@ Ham shoulder: when you have boiled it with plenty of figs and three bay leaves, 
 
 ___
 
-Claude's intro: This elaborate preparation of ham wrapped in pastry exemplifies the sophisticated cooking techniques of the Roman elite. While meat was common in Roman cuisine, this particular method of preparing ham represents a more luxurious approach. The combination of honey-filled ham with a simple oil pastry creates a spectacular presentation piece that would have impressed guests at a Roman banquet. This dish was reportedly part of the *tetrapharmakum* (four-drug), a famous gourmet dish allegedly invented by the emperor Aelius Verus and enjoyed by both Hadrian and Alexander Severus, according to the often-unreliable *Historia Augusta*. The modern concept of meat en croûte or Wellington-style dishes may trace their lineage back to Roman preparations like this one.
+**Claude's intro:** This elaborate preparation of ham wrapped in pastry exemplifies the sophisticated cooking techniques of the Roman elite. While meat was common in Roman cuisine, this particular method of preparing ham represents a more luxurious approach. The combination of honey-filled ham with a simple oil pastry creates a spectacular presentation piece that would have impressed guests at a Roman banquet. This dish was reportedly part of the *tetrapharmakum* (four-drug), a famous gourmet dish allegedly invented by the emperor Aelius Verus and enjoyed by both Hadrian and Alexander Severus, according to the often-unreliable *Historia Augusta*. The modern concept of meat en croûte or Wellington-style dishes may trace their lineage back to Roman preparations like this one.
 
 ### Ingredients
 - 1.5 kg ham shoulder

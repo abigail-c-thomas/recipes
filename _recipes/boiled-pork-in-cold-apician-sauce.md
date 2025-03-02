@@ -14,11 +14,11 @@ permalink: /recipe-index/boiled-pork-in-cold-apician-sauce.html
 
 **Boiled suckling pig hot with cold raw Apician sauce**: Put in a mortar pepper, lovage, coriander seed, mint, rue, and pound; pour over fish sauce, add honey and wine and mix with fish sauce. Pour over the boiled hot suckling pig dried with a clean cloth and serve.
 
-—*Apicius*, 8.7.6, c. 350
+—*Apicius*, 8.7.6, c. 4th century CE
 
 ___
 
-<!-- TODO: Add description paragraph about this dish and Apician sauces -->
+**Claude's intro:** This recipe showcases one of the distinctive "signature" sauces of Apicius, prepared cold and poured over hot meat to create a pleasing temperature contrast. The combination of fragrant herbs with sweet honey and tangy wine was a hallmark of refined Roman cuisine. Such cold sauces allowed the complex flavors of the herbs and spices to remain fresh and vibrant, rather than being dulled by heating. This preparation would have been considered elegant dining, particularly since the original calls for suckling pig, a luxury ingredient in ancient Rome.
 
 ### Ingredients
 - 1 kg meat from {% include ingredient_link.html name="pork" %} shoulder

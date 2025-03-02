@@ -9,10 +9,11 @@ permalink: /recipe-index/chicken-in-sour-sauce.html
 {% capture recipe_content %}
 # Chicken in Sour Sauce
 
-### Original Text
+### Original Latin
 *Pullum oxizomum: olei acetabulum maiorem, \<uini\> satis modice, liquaminis acetabulum minorem, aceti acetabulum perquam minorem, piperis scripulos sex, petrosilinum scripulum, porros fasciculum.*
 
-Sour sauce chicken: A larger measure of oil, a modest amount of wine, a smaller measure of fish sauce, an even smaller measure of vinegar, six scruples of pepper, a scruple of parsley, and a bundle of leeks.
+### English Translation
+"Sour sauce chicken: A larger measure of oil, a modest amount of wine, a smaller measure of fish sauce, an even smaller measure of vinegar, six scruples of pepper, a scruple of parsley, and a bundle of leeks."
 
 —*Apicius*, 6.8.4, c. 4th century CE
 

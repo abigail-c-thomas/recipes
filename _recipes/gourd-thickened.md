@@ -3,22 +3,23 @@ layout: recipe
 title: Gourd with Thickened Sauce
 tags: [source:apicius, era:roman_empire, vegetable]
 ingredients: [squash, pepper, cumin, rue, water, red wine vinegar, fish sauce, olive oil, cornstarch]
-permalink: /recipes/gourd-thickened/
+permalink: /recipe-index/gourd-thickened.html
 ---
 
 {% capture recipe_content %}
 # Gourd with Thickened Sauce
 
-### Original Text
-> Aliter cucurbitas iure colocesiorum: cucurbitas quoques ex aqua in modum colocasiorum; teres piper cuminum rutam; suffundes acetum, liquamen temperabis in caccabum cui adicies <oleum modicum> et eas cucurbitas incisas expressas; in ius mittes ut ferueant; amulo obligas; piper asparges et inferes.
+### Original Latin
+*Aliter cucurbitas iure colocesiorum: cucurbitas quoques ex aqua in modum colocasiorum; teres piper cuminum rutam; suffundes acetum, liquamen temperabis in caccabum cui adicies <oleum modicum> et eas cucurbitas incisas expressas; in ius mittes ut ferueant; amulo obligas; piper asparges et inferes.*
 
+### English Translation
 "Another way with gourds in the style of colocasia: cook the gourds in water in the manner of colocasia; grind pepper, cumin, and rue; add vinegar, mix with fish sauce in a pot to which you add a little oil and the cut and drained gourds; put them in the sauce to boil; thicken with starch; sprinkle with pepper and serve."
 
-—*Apicius*, *De Re Coquinaria* 3.4.2, 4th-5th century CE
+—*Apicius*, 3.4.2, c. 4th century CE
 
 ___
 
-This recipe is similar to the previous gourd recipe, but with the addition of a thickened sauce. The reference to "colocasia" suggests this method was used for taro root as well. This dish balances the mild flavor of the gourd with a tangy, savory thickened sauce.
+**Claude's intro:** This recipe is similar to the previous gourd recipe, but with the addition of a thickened sauce. The reference to "colocasia" suggests this method was used for taro root as well. This dish balances the mild flavor of the gourd with a tangy, savory thickened sauce.
 
 ### Ingredients
 - 500 g {% include ingredient_link.html name="squash" %} (or gourd, if you can find it)  

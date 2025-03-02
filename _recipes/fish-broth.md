@@ -19,6 +19,8 @@ Fish broth: [put into a mortar] groats, coriander, leek [...] onions, dill [...]
 
 ___
 
+**Claude's intro:** This delicate fish broth represents the sophisticated cooking techniques found in the Greek-influenced regions of the Roman Empire. The recipe combines aromatic herbs with wine and fish sauce to create a flavorful poaching liquid that both cooks the fish and becomes a delicious broth. The addition of semolina or barley adds body to the soup, making it a substantial and nourishing dish.
+
 ### Ingredients
 - 1 kg fish fillets
 - 1 brown {% include ingredient_link.html name="onion" %}, finely chopped

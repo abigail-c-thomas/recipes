@@ -19,7 +19,7 @@ Fried veal: pepper, lovage, celery seed, cumin, oregano, dried onion, raisins, h
 
 ___
 
-Claude's intro: This simple yet flavorful veal recipe from Apicius demonstrates the Roman fondness for combining sweet, sour, and savory elements in a single dish. The combination of honey, vinegar, wine, and fish sauce creates a balanced sauce reminiscent of modern sweet-and-sour preparations, while the herbs and spices add aromatic complexity. Unlike many modern Western cooking traditions that separate sweet from savory, Roman cuisine regularly incorporated fruits and sweeteners into meat dishes. This preparation would have been served at the tables of wealthy Romans, as veal was considered a luxury meat in ancient Rome, often featured at elaborate banquets.
+**Claude's intro:** This simple yet flavorful veal recipe from Apicius demonstrates the Roman fondness for combining sweet, sour, and savory elements in a single dish. The combination of honey, vinegar, wine, and fish sauce creates a balanced sauce reminiscent of modern sweet-and-sour preparations, while the herbs and spices add aromatic complexity. Unlike many modern Western cooking traditions that separate sweet from savory, Roman cuisine regularly incorporated fruits and sweeteners into meat dishes. This preparation would have been served at the tables of wealthy Romans, as veal was considered a luxury meat in ancient Rome, often featured at elaborate banquets.
 
 ### Ingredients
 - 500g of thin veal steaks

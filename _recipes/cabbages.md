@@ -19,7 +19,7 @@ For cabbage sprouts: boil them, squeeze out the water, and arrange in a dish. Ad
 
 ___
 
-This simple preparation of cabbage highlights the Roman appreciation for vegetables enhanced with herbs and savory liquids. The method of first boiling and then seasoning the cabbage preserves its texture while allowing it to absorb the flavorful dressing. The combination of aromatic herbs adds complexity to what might otherwise be a plain vegetable dish. This recipe exemplifies the Roman approach to vegetable cookery: straightforward techniques combined with layers of flavor from herbs, wine, and their ubiquitous fish sauce.
+**Claude's intro:** This simple preparation of cabbage highlights the Roman appreciation for vegetables enhanced with herbs and savory liquids. The method of first boiling and then seasoning the cabbage preserves its texture while allowing it to absorb the flavorful dressing. The combination of aromatic herbs adds complexity to what might otherwise be a plain vegetable dish. This recipe exemplifies the Roman approach to vegetable cookery: straightforward techniques combined with layers of flavor from herbs, wine, and their ubiquitous fish sauce.
 
 ### Ingredients
 - 300g {% include ingredient_link.html name="cabbage" %}

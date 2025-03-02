@@ -19,7 +19,7 @@ Chicken with milk and flour: Cook the chicken in fish sauce, oil, and wine, with
 
 ___
 
-Claude's intro: This fascinating recipe showcases the sophisticated approach to textures in Roman cuisine. The name "tractogalatus" combines "*tracta*" (a type of Roman dough used for thickening) with milk ("galatum" from "lac"), creating a uniquely Roman dish with multiple components. The recipe demonstrates how Romans built dishes in stages - first poaching the chicken in aromatics, then creating a hearty porridge base, and finally finishing with a complex sauce. This layered approach to cooking, with each component bringing different flavors and textures, shows remarkable culinary sophistication for its time. The contrast between the creamy semolina base, tender chicken, and rich sauce would have created an impressive dish for Roman diners.
+**Claude's intro:** This fascinating recipe showcases the sophisticated approach to textures in Roman cuisine. The name "tractogalatus" combines "*tracta*" (a type of Roman dough used for thickening) with milk ("galatum" from "lac"), creating a uniquely Roman dish with multiple components. The recipe demonstrates how Romans built dishes in stages - first poaching the chicken in aromatics, then creating a hearty porridge base, and finally finishing with a complex sauce. This layered approach to cooking, with each component bringing different flavors and textures, shows remarkable culinary sophistication for its time. The contrast between the creamy semolina base, tender chicken, and rich sauce would have created an impressive dish for Roman diners.
 
 ### Ingredients
 - 4 {% include ingredient_link.html name="chicken" %} thighs, with skin and bone

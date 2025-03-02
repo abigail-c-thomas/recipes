@@ -16,7 +16,7 @@ permalink: /recipe-index/fish-with-white-sauce.html
 
 ___
 
-Claude's intro: This simple yet elegant fish preparation comes from Galen, the renowned Greek physician who served as personal doctor to several Roman emperors. Unlike the complex sauces of Apicius with their numerous ingredients and pungent flavors, Galen's approach to cooking was more aligned with his medical philosophy. He advocated for simple preparations that preserved the natural qualities of foods and enhanced their digestibility. This recipe exemplifies his approach, using minimal seasonings to create a gentle sauce that complements rather than masks the flavor of the fish. As a physician, Galen would have appreciated that this preparation method preserves the nutritional value of the fish while making it easy to digest.
+**Claude's intro:** This simple yet elegant fish preparation comes from Galen, the renowned Greek physician who served as personal doctor to several Roman emperors. Unlike the complex sauces of Apicius with their numerous ingredients and pungent flavors, Galen's approach to cooking was more aligned with his medical philosophy. He advocated for simple preparations that preserved the natural qualities of foods and enhanced their digestibility. This recipe exemplifies his approach, using minimal seasonings to create a gentle sauce that complements rather than masks the flavor of the fish. As a physician, Galen would have appreciated that this preparation method preserves the nutritional value of the fish while making it easy to digest.
 
 ### Ingredients
 - 450g {% include ingredient_link.html name="salmon" %} fillets

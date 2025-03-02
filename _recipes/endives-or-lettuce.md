@@ -3,22 +3,23 @@ layout: recipe
 title: Endives or Lettuce
 tags: [source:apicius, era:roman_empire, salad, vegetable]
 ingredients: [lettuce, endive, onion, olive oil, fish sauce]
-permalink: /recipes/endives-or-lettuce/
+permalink: /recipe-index/endives-or-lettuce.html
 ---
 
 {% capture recipe_content %}
 # Endives or Lettuce
 
-### Original Text
-> Intuba ex liquamine et oleo modico medere cepa concisa. Pro lactucis vero hieme intibe ex embammate vel melle et aceto acri.
+### Original Latin
+*Intuba ex liquamine et oleo modico medere cepa concisa. Pro lactucis vero hieme intibe ex embammate vel melle et aceto acri.*
 
+### English Translation
 "Endives with fish sauce and a little oil, with chopped onion. In winter, endives can be used instead of lettuce, with sauce or honey and sharp vinegar."
 
-—*Apicius*, *De Re Coquinaria* 3.18.1, 4th-5th century CE
+—*Apicius*, 3.18.1, c. 4th century CE
 
 ___
 
-This simple Roman salad features crisp endives or lettuce with a light dressing of fish sauce and olive oil. The addition of thinly sliced onions adds pungency and crunch to the fresh greens.
+**Claude's intro:** This simple Roman salad features crisp endives or lettuce with a light dressing of fish sauce and olive oil. The addition of thinly sliced onions adds pungency and crunch to the fresh greens.
 
 ### Ingredients
 - Head {% include ingredient_link.html name="lettuce" %} (or an {% include ingredient_link.html name="endive" %})  

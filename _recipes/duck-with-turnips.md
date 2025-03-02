@@ -19,6 +19,8 @@ Crane or duck with turnips: You wash, prepare, and boil it in a pot with water, 
 
 ___
 
+**Claude's intro:** This luxurious dish combines tender duck with turnips in a richly spiced sauce. The recipe demonstrates the Roman technique of parboiling ingredients separately before combining them, and showcases their love of complex, layered flavors. Turnips were a common vegetable in Roman cuisine, and this preparation elevates them with aromatic herbs and a savory sauce thickened with starch.
+
 ### Ingredients
 - 1 whole {% include ingredient_link.html name="duck" %} (about 2 kg)
 - 600 g {% include ingredient_link.html name="turnips" %}, peeled and diced

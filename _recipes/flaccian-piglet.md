@@ -15,11 +15,11 @@ permalink: /recipe-index/flaccian-piglet.html
 ### English Translation
 **Flaccian piglet**: Prepare the piglet in the manner of a boar, sprinkle with salt and put in the oven. While it is cooking, add to a mortar pepper, lovage, caraway, celery seed, asafoetida root, fresh rue, and grind; moisten with fish sauce, mix with wine and *passum*, [put] in a pot; when a little oil becomes hot, thicken with starch. Remove the cooked piglet from the bones, grind celery seed to make a powder, sprinkle and serve.
 
-—*Apicius*, 8.7.8, c. 350
+—*Apicius*, 8.7.8, c. 4th century CE
 
 ___
 
-Claude's intro: This recipe is named after a person called Flaccus, though we don't know exactly which Flaccus is being referenced. It could refer to one of several prominent Romans with this name, such as Horace (Quintus Horatius Flaccus) or another member of the Flaccus family. The recipe is part of a series of named piglet dishes in Apicius, each with its own sauce and preparation method. The instruction to prepare it "in the manner of a boar" suggests this was a way to give humble pork the appearance of more prestigious wild game meat, a common practice in high-status Roman cookery.
+**Claude's intro:** This recipe is named after a person called Flaccus, though we don't know exactly which Flaccus is being referenced. It could refer to one of several prominent Romans with this name, such as Horace (Quintus Horatius Flaccus) or another member of the Flaccus family. The recipe is part of a series of named piglet dishes in Apicius, each with its own sauce and preparation method. The instruction to prepare it "in the manner of a boar" suggests this was a way to give humble pork the appearance of more prestigious wild game meat, a common practice in high-status Roman cookery.
 
 ### Ingredients
 - 1 kg meat from {% include ingredient_link.html name="pork" %} shoulder

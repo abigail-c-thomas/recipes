@@ -3,7 +3,7 @@ layout: recipe
 title: Artichoke
 tags: [source:apicius, era:roman_empire, vegetable]
 ingredients: [artichoke, olive oil, fish sauce, cumin, black pepper]
-permalink: /recipes/artichoke/
+permalink: /recipe-index/artichoke.html
 ---
 
 {% capture recipe_content %}
@@ -14,11 +14,11 @@ permalink: /recipes/artichoke/
 
 "Another way with boiled cardoons: pepper, cumin, fish sauce, and oil."
 
-—*Apicius*, *De Re Coquinaria* 3.19.3, 4th-5th century CE
+—*Apicius*, 3.19.3, c. 4th century CE
 
 ___
 
-This simple recipe showcases the Roman approach to cooking artichokes (or more likely their ancestor, cardoons). The aromatic dipping sauce enhances the natural flavor of the vegetable with complementary savory notes.
+**Claude's intro:** This simple recipe showcases the Roman approach to cooking artichokes (or more likely their ancestor, cardoons). The aromatic dipping sauce enhances the natural flavor of the vegetable with complementary savory notes. Cardoons were a popular vegetable in ancient Rome, often featured in Apicius' cookbook, and this minimalist preparation highlights the Roman fondness for aromatic seasonings like cumin and the essential fish sauce (garum or liquamen) that gave many Roman dishes their distinctive umami character.
 
 ### Ingredients
 - 1 globe {% include ingredient_link.html name="artichoke" %} bulb  

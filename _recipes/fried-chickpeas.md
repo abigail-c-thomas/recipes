@@ -3,22 +3,23 @@ layout: recipe
 title: Fried Chickpeas
 tags: [source:apicius, era:roman_empire, legume, chickpeas]
 ingredients: [chickpeas, olive oil, fish sauce, wine, pepper]
-permalink: /recipes/fried-chickpeas/
+permalink: /recipe-index/fried-chickpeas.html
 ---
 
 {% capture recipe_content %}
 # Fried Chickpeas
 
-### Original Text
-> Aliter faseolus siue cicer: frictos ex oenogaro et pipere gustabis. et elixati sumpto semine cum ouis in patella, feniculo uiride piper et liquamine et careno modico pro salso inferuntur, uel simpliciter, ut solet.
+### Original Latin
+*Aliter faseolus siue cicer: frictos ex oenogaro et pipere gustabis. et elixati sumpto semine cum ouis in patella, feniculo uiride piper et liquamine et careno modico pro salso inferuntur, uel simpliciter, ut solet.*
 
+### English Translation
 "Another way to prepare beans or chickpeas: You will taste them fried with wine sauce and pepper. Or taking boiled seeds with eggs in a pan, they are served with green fennel, pepper, fish sauce, and a little reduced wine instead of salt, or simply, as is customary."
 
-—*Apicius*, *De Re Coquinaria* 5.8.2, 4th-5th century CE
+—*Apicius*, 5.8.2, c. 4th century CE
 
 ___
 
-A simple yet flavorful Roman chickpea dish from Apicius. This recipe demonstrates how the Romans often prepared humble ingredients with layers of flavor. The combination of wine, fish sauce, and pepper elevates the simple chickpea into a satisfying dish.
+**Claude's intro:** A simple yet flavorful Roman chickpea dish from Apicius. This recipe demonstrates how the Romans often prepared humble ingredients with layers of flavor. The combination of wine, fish sauce, and pepper elevates the simple chickpea into a satisfying dish.
 
 ### Ingredients
 - 400g can of {% include ingredient_link.html name="chickpeas" %}, drained  

@@ -3,20 +3,23 @@ layout: recipe
 title: Honey Fritters
 tags: [source:apicius, era:roman_empire, dessert]
 ingredients: [plain flour, milk, olive oil, honey, pepper]
-permalink: /recipes/honey-fritters/
+permalink: /recipe-index/honey-fritters.html
 ---
 
 {% capture recipe_content %}
 # Honey Fritters
 
-### Original Text
-The exact Latin text for this recipe is not provided in recipes_raw_pt2.
+### Original Latin
+*Aliter dulcia: accipies similam, coques in aquam calidam ita ut durissimam pultem facias, deinde in patellam expandis. cum refrixerit, concidis quasi dulcia et frigis in oleo optimo. leuas, perfundis mel, piper aspargis et inferes. melius feceris, si lac pro aquam miseris.*
 
-—*Apicius*, *De Re Coquinaria* 7.11.6, 4th-5th century CE
+### English Translation
+"Another sweet: take fine flour, cook in hot water so that you make a very firm porridge, then spread it in a small pan. When it has cooled, cut it like sweets and fry in the best oil. Remove, pour over honey, sprinkle with pepper and serve. You will do better if you use milk instead of water."
+
+—*Apicius*, 7.11.6, c. 4th century CE
 
 ___
 
-These sweet fritters are a classic Roman dessert, featuring the characteristic combination of honey and black pepper that was popular in ancient Roman sweets. While modern palates might consider pepper an unusual addition to desserts, the Romans appreciated its subtle heat as a contrast to the honey's sweetness.
+**Claude's intro:** These sweet fritters are a classic Roman dessert, featuring the characteristic combination of honey and black pepper that was popular in ancient Roman sweets. While modern palates might consider pepper an unusual addition to desserts, the Romans appreciated its subtle heat as a contrast to the honey's sweetness.
 
 ### Ingredients
 - 100g plain {% include ingredient_link.html name="flour" %}  

@@ -19,6 +19,8 @@ For squid in a pan: grind pepper, rue, a little honey, fish sauce, *carenum*, an
 
 ___
 
+**Claude's intro:** This Roman recipe for fried calamari shows how seafood was prepared with a sweet-savory sauce typical of ancient Roman cuisine. While modern fried calamari is often served with a dipping sauce, the Romans preferred to toss the fried squid directly in a mixture of flavors. The combination of honey, fish sauce, and reduced wine creates a glossy coating that enhances the natural sweetness of fresh calamari.
+
 ### Ingredients
 - 300 g {% include ingredient_link.html name="calamari" %}, cut into rings
 - 1 Tb {% include ingredient_link.html name="olive oil" %}

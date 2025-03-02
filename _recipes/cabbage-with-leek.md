@@ -19,7 +19,7 @@ Another way: boiled cabbage sprouts arranged in a dish are seasoned with fish sa
 
 ___
 
-This braised cabbage dish showcases a more complex preparation than the previous cabbage recipes, with a longer cooking time that allows the flavors to meld beautifully. The initial quick frying of the cabbage and leek provides a foundation of flavor, while the slow braising in a sauce of wine, fish sauce, and spices transforms the humble vegetables into a rich, savory dish. The oven-braising method used in this adaptation allows for even cooking and flavor development. This substantial vegetable preparation could have served as a side dish to meat in a Roman meal, or as a standalone course for a simpler repast.
+**Claude's intro:** This braised cabbage dish showcases a more complex preparation than the previous cabbage recipes, with a longer cooking time that allows the flavors to meld beautifully. The initial quick frying of the cabbage and leek provides a foundation of flavor, while the slow braising in a sauce of wine, fish sauce, and spices transforms the humble vegetables into a rich, savory dish. The oven-braising method used in this adaptation allows for even cooking and flavor development. This substantial vegetable preparation could have served as a side dish to meat in a Roman meal, or as a standalone course for a simpler repast.
 
 ### Ingredients
 - 500g {% include ingredient_link.html name="cabbage" %}

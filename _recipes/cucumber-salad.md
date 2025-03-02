@@ -3,7 +3,7 @@ layout: recipe
 title: Cucumber Salad
 tags: [source:apicius, era:roman_empire, salad, vegetable]
 ingredients: [cucumber, passum, white wine vinegar, fish sauce, pennyroyal, asafoetida, black pepper]
-permalink: /recipes/cucumber-salad/
+permalink: /recipe-index/cucumber-salad.html
 ---
 
 {% capture recipe_content %}
@@ -14,11 +14,11 @@ permalink: /recipes/cucumber-salad/
 
 "Another way with cucumbers: pepper, pennyroyal, honey or raisin wine, fish sauce, and vinegar. Sometimes silphium is also added."
 
-—*Apicius*, *De Re Coquinaria* 3.6.3, 4th-5th century CE
+—*Apicius*, 3.6.3, c. 4th century CE
 
 ___
 
-This refreshing cucumber salad showcases the Roman love for sweet-sour-savory flavor combinations. The addition of honey or passum (raisin wine) balances the acidity of the vinegar, while the herbs and fish sauce add complexity.
+**Claude's intro:** This refreshing cucumber salad showcases the Roman love for sweet-sour-savory flavor combinations. The addition of honey or passum (raisin wine) balances the acidity of the vinegar, while the herbs and fish sauce add complexity.
 
 ### Ingredients
 - 1 {% include ingredient_link.html name="cucumber" %}, thinly sliced  

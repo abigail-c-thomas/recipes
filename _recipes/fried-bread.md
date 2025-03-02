@@ -3,20 +3,23 @@ layout: recipe
 title: Fried Bread
 tags: [source:apicius, era:roman_empire, dessert, bread]
 ingredients: [bread, milk, olive oil, honey]
-permalink: /recipes/fried-bread/
+permalink: /recipe-index/fried-bread.html
 ---
 
 {% capture recipe_content %}
 # Fried Bread
 
-### Original Text
-The exact Latin text for this recipe is not provided in recipes_raw_pt2. This is a recipe for bread soaked in milk and then fried.
+### Original Latin
+*Aliter dulcia: siligineos rasos frangis et buccellas maiores facies, in lacte infundis, frigis [et] in oleo, mel superfundis et inferes.*
 
-—*Apicius*, *De Re Coquinaria* 7.11.3, 4th-5th century CE
+### English Translation
+"Another sweet: break scraped wheat rolls and make larger pieces, soak them in milk, fry them in oil, pour honey over them and serve."
+
+—*Apicius*, 7.11.3, c. 4th century CE
 
 ___
 
-This simple Roman dessert transforms plain bread into a sweet treat. By frying milk-soaked bread and serving it with honey, the Romans created an early version of what would eventually evolve into various forms of French toast and honey-fried bread desserts throughout the Mediterranean.
+**Claude's intro:** This simple Roman dessert transforms plain bread into a sweet treat. By frying milk-soaked bread and serving it with honey, the Romans created an early version of what would eventually evolve into various forms of French toast and honey-fried bread desserts throughout the Mediterranean.
 
 ### Ingredients
 - A loaf of {% include ingredient_link.html name="bread" %}, sliced and with the crusts removed  

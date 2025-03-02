@@ -19,7 +19,7 @@ Another way: with cabbage seasoned as above; pour over cooked grain with pine nu
 
 ___
 
-This elaborate cabbage dish demonstrates the Roman penchant for combining vegetables with grains and fruits to create more substantial and complex dishes. The combination of cabbage with semolina porridge, enriched with pine nuts and raisins, creates a hearty dish that bridges the gap between side and main course. The layered presentation, with the semolina mixture poured over the seasoned cabbage, creates visual interest as well as textural contrast. The sweet and savory elements in this recipe showcase the characteristic Roman approach to flavor combinations that might surprise modern diners.
+**Claude's intro:** This elaborate cabbage dish demonstrates the Roman penchant for combining vegetables with grains and fruits to create more substantial and complex dishes. The combination of cabbage with semolina porridge, enriched with pine nuts and raisins, creates a hearty dish that bridges the gap between side and main course. The layered presentation, with the semolina mixture poured over the seasoned cabbage, creates visual interest as well as textural contrast. The sweet and savory elements in this recipe showcase the characteristic Roman approach to flavor combinations that might surprise modern diners.
 
 ### Ingredients
 - 500g {% include ingredient_link.html name="cabbage" %}, chopped into thin strips
