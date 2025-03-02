@@ -3,13 +3,13 @@ layout: recipe
 title: Curds
 tags: [era:roman_empire, source:apicius, dairy]
 ingredients: [cottage cheese, fish sauce, black pepper, coriander, olive oil]
-permalink: /recipe-index/curds.html
+permalink: /recipes/curds
 ---
 
 {% capture recipe_content %}
 # Curds
 
-### Original Latin
+### Original Text
 **melcas**: cum pipere et liquamine, uel sale, oleo et coriandro.
 
 ### English Translation

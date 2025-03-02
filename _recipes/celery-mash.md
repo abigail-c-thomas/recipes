@@ -3,13 +3,13 @@ layout: recipe
 title: Celery Mash
 tags: [source:apicius, era:roman_empire, vegetable]
 ingredients: [celery, onion, baking soda, pepper, lovage, oregano, white wine, fish sauce, olive oil]
-permalink: /recipe-index/celery-mash.html
+permalink: /recipes/celery-mash
 ---
 
 {% capture recipe_content %}
 # Celery Mash
 
-### Original Latin
+### Original Text
 *Aliter olus molle: apium quoques ex aqua nitrata, exprimes et concides minutatim. in mortario teres piper ligusticum origanum cepam vinum liquamen et oleum. quoques in pultario et sic apium commissces.*
 
 ### English Translation

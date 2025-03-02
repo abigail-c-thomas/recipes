@@ -1,15 +1,15 @@
 ---
 layout: recipe
 title: Columella's Oxyporium
-tags: [source:columella, era:roman_empire, salad, dressing, condiment]
-ingredients: [white pepper, celery seed, laser, parmesan, honey, fish sauce, vinegar]
-permalink: /recipe-index/columella-oxyporium.html
+tags: [source:columella, era:roman_empire, salad, dressing, condiment, digestive]
+ingredients: [white pepper, celery seed, asafoetida, parmesan, honey, fish sauce, vinegar]
+permalink: /recipes/columella-oxyporium
 ---
 
 {% capture recipe_content %}
 # Columella's Oxyporium
 
-### Original Latin
+### Original Text
 *Aliter oxyporum digestibile: piperis albi, si sit; sin minus, nigri unciae duae, petroselini unciae tres, laser parvum, quod Syriaci unius denarii pondus efficiat, casei veteris sapae unciae singulae. Haec bene trita miscentur, et in ollulam vitream conduntur: deinde melle despumato, quantum sufficiat, diluta consumuntur.*
 
 ### English Translation
@@ -19,29 +19,26 @@ permalink: /recipe-index/columella-oxyporium.html
 
 ___
 
-**Claude's intro:** This is Columella's version of *oxyporium*, a spiced digestive aid. Unlike Apicius' recipe, this one includes aged cheese and parsley (or celery) seed, creating a richer flavor profile. Columella was a prominent Roman writer on agriculture who lived in the 1st century CE.
+**Claude's intro:** This version of *oxyporium* comes from Columella's agricultural treatise rather than Apicius' cookbook. Columella was a prominent Roman writer on agriculture who lived in the 1st century CE. His version of this digestive sauce shows how medicinal preparations crossed over into culinary use. Like the Apician version, this sauce was likely used both as a medicinal preparation and a condiment, particularly with vegetables like lettuce that were considered potentially difficult to digest. The addition of cheese gives this version a unique savory character not found in other *oxyporium* recipes.
 
 ### Ingredients
-- 1 tsp white {% include ingredient_link.html name="pepper" %}  
-- ½ tsp {% include ingredient_link.html name="celery seed" %}  
-- ½ tsp {% include ingredient_link.html name="laser" %} root (asafoetida)  
-- 1 tsp ground {% include ingredient_link.html name="parmesan" %} cheese  
-- 1 Tbsp {% include ingredient_link.html name="honey" %}  
-- 1 Tbsp {% include ingredient_link.html name="fish sauce" %}  
-- 1 Tbsp {% include ingredient_link.html name="vinegar" %}
+- 1 tsp white {% include ingredient_link.html name="pepper" %}
+- ½ tsp {% include ingredient_link.html name="celery seed" %}
+- ½ tsp {% include ingredient_link.html name="asafoetida" %} (laser root)
+- 1 tsp ground {% include ingredient_link.html name="parmesan" %}
+- 1 Tb {% include ingredient_link.html name="honey" %}
+- 1 Tb {% include ingredient_link.html name="fish sauce" %}
+- 1 Tb {% include ingredient_link.html name="vinegar" %}
 
 ### Method
-1. Mix all the ingredients together.
-
+1. Mix all the ingredients together thoroughly.
 2. Serve with lettuce as a salad dressing, or consume alongside lettuce by the teaspoon.
 
 ### Notes
-The original recipe calls for "petroselini" which could refer to parsley seed, though in this adaptation celery seed is used as a more readily available substitute. The Romans often used these flavors interchangeably.
-
-Laser (silphium) was an expensive spice that became extinct in ancient times. Asafoetida is the closest modern substitute and provides a similar pungent, earthy flavor.
-
-Aged cheese like Parmesan is used here to approximate the "casei veteris" (aged cheese) mentioned by Columella. The Romans prized aged cheeses for their strong flavors and believed they had digestive benefits.
-
-This mixture would have been served alongside raw vegetables or taken medicinally to aid digestion, particularly after consuming foods that were considered difficult to digest.
+- The use of parmesan cheese (or a similar hard cheese) is unusual in Roman sauces and sets this recipe apart from other versions of *oxyporium*.
+- This preparation, like other versions of *oxyporium*, was considered medicinal as well as culinary—the Romans believed such potent, aromatic mixtures aided digestion.
+- Columella was primarily concerned with agricultural matters, so his inclusion of this recipe suggests it was considered important for the well-being of a household or farm.
+- The original recipe calls for "petroselini" which could refer to parsley seed, though in this adaptation celery seed is used as a more readily available substitute. The Romans often used these flavors interchangeably.
+- Laser (silphium) was an expensive spice that became extinct in ancient times. Asafoetida is the closest modern substitute and provides a similar pungent, earthy flavor.
 {% endcapture %}
 {{ recipe_content | markdownify }}

@@ -3,13 +3,13 @@ layout: recipe
 title: Beef Stew
 tags: [era:roman_empire, source:apicius, meat, beef, stew]
 ingredients: [beef, onion, leek, olive oil, fish sauce, asafoetida, black pepper]
-permalink: /recipe-index/beef-stew.html
+permalink: /recipes/beef-stew
 ---
 
 {% capture recipe_content %}
 # Beef Stew
 
-### Original Latin
+### Original Text
 *Vitulinam sive bubulam cum porris \<vel\> cidoneis vel cepis vel colocaseis: liquamen piper laser et olei modicum.*
 
 ### English Translation

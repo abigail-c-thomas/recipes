@@ -3,13 +3,13 @@ layout: recipe
 title: Chicken in Sour Sauce
 tags: [era:roman_empire, source:apicius, poultry, chicken, sauce]
 ingredients: [chicken, leek, parsley, black pepper, olive oil, fish sauce, white wine, white wine vinegar]
-permalink: /recipe-index/chicken-in-sour-sauce.html
+permalink: /recipes/chicken-in-sour-sauce
 ---
 
 {% capture recipe_content %}
 # Chicken in Sour Sauce
 
-### Original Latin
+### Original Text
 *Pullum oxizomum: olei acetabulum maiorem, \<uini\> satis modice, liquaminis acetabulum minorem, aceti acetabulum perquam minorem, piperis scripulos sex, petrosilinum scripulum, porros fasciculum.*
 
 ### English Translation

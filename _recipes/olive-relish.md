@@ -3,7 +3,7 @@ layout: recipe
 title: Olive Relish
 tags: [era:roman_empire, source:cato, dips]
 ingredients: [olives, vinegar, olive oil, cumin, coriander, fennel, rue, mint]
-permalink: /recipe-index/olive-relish.html
+permalink: /recipes/olive-relish
 ---
 
 {% capture recipe_content %}
@@ -12,9 +12,10 @@ permalink: /recipe-index/olive-relish.html
 ### Original Text
 *Epityrum album nigrum variumque sic facito. Ex oleis albis nigris variisque nuculeos eicito. Sic condito. Concidito ipsas, addito oleum, acetum, coriandrum, cuminum, feniculum, rutam, mentam. In orculam condito, oleum supra siet. Ita utito.*
 
+### English Translation
 Make white, black, or mixed *epityrum* thus: Remove the stones from white, black, or mixed olives. Season them thus: Chop them, add oil, vinegar, coriander, cumin, fennel, rue, and mint. Put them in a jar, with olive oil on top. Use in this way.
 
-—*Cato*, *De Agricultura* 119
+—*Cato*, *De Agricultura* 119, 2nd century BCE
 
 ___
 

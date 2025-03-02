@@ -3,7 +3,7 @@ layout: recipe
 title: Pottage with Milk and Tracta
 tags: [source:apicius, era:roman_empire, grain, dessert]
 ingredients: [milk, cornstarch, honey, olive oil]
-permalink: /recipes/pottage-with-milk-tracta/
+permalink: /recipes/pottage-with-milk-tracta
 ---
 
 {% capture recipe_content %}
@@ -14,7 +14,7 @@ permalink: /recipes/pottage-with-milk-tracta/
 
 "Another: pottage with pasta and milk: cook with milk and tracta, pour honey over the thickened mixture and serve."
 
-—*Apicius*, *De Re Coquinaria* 5.1.3, 4th-5th century CE
+—*Apicius*, 5.1.3, c. 4th century CE
 
 ___
 

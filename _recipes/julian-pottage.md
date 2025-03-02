@@ -3,13 +3,13 @@ layout: recipe
 title: Julian Pottage
 tags: [source:apicius, era:roman_empire, grain, meat]
 ingredients: [semolina, olive oil, ground meat, pepper, lovage, fennel seed, fish sauce, white wine]
-permalink: /recipe-index/julian-pottage.html
+permalink: /recipes/julian-pottage
 ---
 
 {% capture recipe_content %}
 # Julian Pottage
 
-### Original Latin
+### Original Text
 *Pultes Iulianae: alicam purgatam infundes, coques, oleum mittes. cum ferbuerit, obligas. adicies cerebella cocta, effervebis. cum ferbuerit, in lastrias tolles. concides pulpam quasi ad isicia, cum lasere, pipere, liquamine. coques in pultarium, posito in carbones, et condies. Alios pultes Iulianos sic facies: alicam purgatam infundis, coques, addis liquamen et passum vel mulsum, teres piper, ligusticum, foeniculi semen, suffundis, reexinanies in pultarium super pultes. supertange.*
 
 ### English Translation

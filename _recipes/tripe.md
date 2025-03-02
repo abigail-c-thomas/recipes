@@ -3,13 +3,13 @@ layout: recipe
 title: Tripe
 tags: [era:roman_empire, source:apicius, offal]
 ingredients: [tripe, fish sauce, asafoetida, black pepper]
-permalink: /recipe-index/tripe.html
+permalink: /recipes/tripe
 ---
 
 {% capture recipe_content %}
 # Tripe
 
-### Original Latin
+### Original Text
 *Callum, libelli, coticulæ, ungelle: cum piper liquamine lasere adponis.*
 
 ### English Translation

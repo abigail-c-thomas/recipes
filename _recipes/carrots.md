@@ -3,13 +3,13 @@ layout: recipe
 title: Carrots
 tags: [source:apicius, era:roman_empire, vegetable]
 ingredients: [carrot, cumin, olive oil, white wine, fish sauce]
-permalink: /recipe-index/carrots.html
+permalink: /recipes/carrots
 ---
 
 {% capture recipe_content %}
 # Carrots
 
-### Original Latin
+### Original Text
 *Aliter caroetas: elixatas concisas in cuminato oleo modico quoques et inferes; cuminatum coliculorum facies.*
 
 ### English Translation

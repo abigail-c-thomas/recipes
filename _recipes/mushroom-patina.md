@@ -3,7 +3,7 @@ layout: recipe
 title: Mushroom Patina
 tags: [era:roman_empire, source:apicius, eggs, mushrooms]
 ingredients: [mushrooms, olive oil, fish sauce, honey, lovage, black pepper, eggs]
-permalink: /recipe-index/mushroom-patina.html
+permalink: /recipes/mushroom-patina
 ---
 
 {% capture recipe_content %}
@@ -12,13 +12,14 @@ permalink: /recipe-index/mushroom-patina.html
 ### Original Text
 ***boletos aliter**: tirsos eorum concisos in patellam, ouam perfundis addito pipere ligustico modico melle; liquamine temperabis. oleum modice.*
 
+### English Translation
 **Another way with mushrooms**: Cut their stems into a pan, pour over eggs, adding pepper, a little lovage, honey; mix with fish sauce. A little oil.
 
-—*Apicius*, 7.13.6, c. 350
+—*Apicius*, 7.13.6, c. 4th century CE
 
 ___
 
-<!-- TODO: Add description paragraph about mushrooms in Roman cuisine -->
+**Claude's intro:** This simple mushroom dish represents a type of preparation Romans called *patina* (or *patella*), which typically involved ingredients bound together with eggs, similar to a modern frittata or omelet. Mushrooms were highly prized in Roman cuisine, especially the *boletus* variety mentioned in this recipe, which likely refers to what we now know as porcini mushrooms. The Romans were avid mushroom foragers and consumers, though they were also well aware of the dangers of poisonous varieties. This recipe combines the earthy flavor of mushrooms with the sweet-savory balance typical of Roman cuisine through the addition of honey and fish sauce. The lovage adds an aromatic, celery-like note that complements the mushrooms beautifully, creating a dish that would have been considered both nutritious and luxurious.
 
 ### Ingredients
 - 300g of mushrooms, thickly sliced

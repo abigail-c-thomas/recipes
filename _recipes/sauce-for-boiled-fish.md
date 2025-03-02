@@ -3,13 +3,13 @@ layout: recipe
 title: Sauce for Boiled Fish
 tags: [era:roman_empire, source:apicius, seafood, sauce, fish]
 ingredients: [pepper, lovage, cumin, oregano, onion, pine nuts, mustard, date syrup, honey, vinegar, fish sauce, olive oil]
-permalink: /recipe-index/sauce-for-boiled-fish.html
+permalink: /recipes/sauce-for-boiled-fish
 ---
 
 {% capture recipe_content %}
 # Sauce for Boiled Fish
 
-### Original Latin
+### Original Text
 *Ius in pisce elixo: piper ligusticum cuminum cepulam origanum nucleos careotam mel acetum liquamen sinapi oleum modice. ius calidum. si uelis, uuam passam.*
 
 ### English Translation

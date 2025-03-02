@@ -3,14 +3,14 @@ layout: recipe
 title: Chicken Conchicla
 tags: [source:apicius, era:roman_empire, chicken, peas, eggs]
 ingredients: [chicken thighs, wine, fish sauce, olive oil, onion, coriander, pepper, cumin, eggs, pine nuts]
-permalink: /recipe-index/chicken-conchicla.html
+permalink: /recipes/chicken-conchicla
 ---
 
 {% capture recipe_content %}
 
 # Chicken Conchicla
 
-### Original Latin
+### Original Text
 *Aliter conciclam sic facies: concidis pullum minutatim, liquamine oleo et uino ferueat. concidis cepam coriandrum minutum, cerebella eneruas, mittes in eundem pullum. cum coctus fuerit, leuas et exossas. concides minutatim cepam et coriandrum, colas ibi pisam coctam non conditam. accipies conciclarem, pro modo conponis uarie. deinde teres piper, cuminum, suffundis ius de suo sibi. item in mortario oua duo dissolues; temperas, ius de suo sibi suffundis. pise integre elixe uel nucleis adornabis, et lento igni feruere facies et inferes.*
 
 ### English Translation

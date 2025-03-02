@@ -3,13 +3,13 @@ layout: recipe
 title: Gourd with Spiced Sauce
 tags: [source:apicius, era:roman_empire, vegetable]
 ingredients: [squash, pepper, cumin, asafoetida, rue, red wine vinegar, fish sauce, defrutum]
-permalink: /recipe-index/gourd.html
+permalink: /recipes/gourd
 ---
 
 {% capture recipe_content %}
 # Gourd with Spiced Sauce
 
-### Original Latin
+### Original Text
 *Cucurbitas: callosiores reddes gustum ad cucurbitas: coctas expressas in patinam conpones. adicies in mortarium pipere cuminum silfi modice (id est laseris radicem), rutam modicum; liquamine et aceto temperabis; mittes defreto modicum ut coloretur; ius exinanies in patenam. cum ferbuerit iterum ac tertio, depones et piper minutum asparges.*
 
 ### English Translation

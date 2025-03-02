@@ -3,13 +3,13 @@ layout: recipe
 title: Carthaginian Porridge
 tags: [source:cato, era:roman_republic, grain, breakfast]
 ingredients: [bulgur wheat, cracked wheat, fresh cheese, honey, egg]
-permalink: /recipe-index/carthaginian-porridge.html
+permalink: /recipes/carthaginian-porridge
 ---
 
 {% capture recipe_content %}
 # Carthaginian Porridge
 
-### Original Latin
+### Original Text
 *Pultem Punicam sic coquito. Libram alicae in aquam indito, facito uti bene madeat. Id infundito in alveum purum, eo casei recentis P. III, mellis P. S, ovum unum, omnia una permisceto bene. Ita insipito in aulam novam.*
 
 ### English Translation

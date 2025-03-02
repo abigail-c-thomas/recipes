@@ -3,7 +3,7 @@ layout: recipe
 title: Spiced Wine
 tags: [era:roman_empire, beverage, source:apicius]
 ingredients: [wine, honey, black pepper, bay leaf, saffron, date, mastic]
-permalink: /recipe-index/spiced-wine.html
+permalink: /recipes/spiced-wine
 draft: true
 ---
 
@@ -15,7 +15,7 @@ draft: true
 
 **Spiced wine**: Recipe for special spiced wine: Put 15 pounds of honey in a bronze vessel, first adding two sextarii of wine, so that the wine reduces while the honey cooks. Heat it on a slow fire of dry wood, stirring with a reed while it cooks. If it begins to boil over, sprinkle it with wine to cool it down, or remove it from the fire until it settles. When it has cooled, light the fire again. Do this a second and third time, then remove it from the heat and skim it the next day. Then add four ounces of ground pepper, 3 scruples of mastic, 1 drachm each of *folium* and saffron, 5 roasted date stones, and the dates themselves softened in wine, first sprinkling them with wine according to their quantity, so that a smooth mixture is obtained. When all these ingredients are ready, add 18 sextarii of mild wine; finally, add two thousand coals.
 
-—*Apicius*, 1.1, c. 350
+—*Apicius*, 1.1, c. 4th century CE
 
 ___
 

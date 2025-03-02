@@ -3,13 +3,13 @@ layout: recipe
 title: Fried Bread
 tags: [source:apicius, era:roman_empire, dessert, bread]
 ingredients: [bread, milk, olive oil, honey]
-permalink: /recipe-index/fried-bread.html
+permalink: /recipes/fried-bread
 ---
 
 {% capture recipe_content %}
 # Fried Bread
 
-### Original Latin
+### Original Text
 *Aliter dulcia: siligineos rasos frangis et buccellas maiores facies, in lacte infundis, frigis [et] in oleo, mel superfundis et inferes.*
 
 ### English Translation

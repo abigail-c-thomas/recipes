@@ -3,7 +3,7 @@ layout: recipe
 title: Apicius Peas
 tags: [source:apicius, era:roman_empire, legume, peas]
 ingredients: [split peas, cumin, celery seed, rue, honey, defrutum, fish sauce, olive oil, wine]
-permalink: /recipes/peas-apicius/
+permalink: /recipes/peas-apicius
 ---
 
 {% capture recipe_content %}
@@ -34,7 +34,7 @@ permalink: /recipes/peas-apicius/
 ### Notes
 This is a simple but flavorful pea dish from Apicius, a Roman cookbook compiled in the late 4th or early 5th century CE. The combination of herbs and spices (cumin, celery seed, and rue) with sweet (honey and reduced wine) and savory elements (fish sauce) creates a complex flavor profile typical of Roman cuisine.
 
-### Original Latin Text
+### Original Text Text
 > Aliter pisa siue faba: ubi dispumauerit teres mel liquamen carenum cuminum rutam apii semen oleum et uinum. tutunclabis. cum pipere trito et cum esiciis inferes.
 
 ### Translation

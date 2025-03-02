@@ -3,7 +3,7 @@ layout: recipe
 title: Duck with Hazelnuts
 tags: [era:roman_empire, poultry, duck, nuts]
 ingredients: [duck, hazelnuts, red wine, fish sauce, olive oil, vinegar, honey, mint, parsley, pepper]
-permalink: /recipe-index/duck-with-hazelnuts.html
+permalink: /recipes/duck-with-hazelnuts
 ---
 
 {% capture recipe_content %}

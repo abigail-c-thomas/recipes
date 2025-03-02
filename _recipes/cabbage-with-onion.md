@@ -3,13 +3,13 @@ layout: recipe
 title: Cabbage with Onion
 tags: [era:roman_empire, source:apicius, vegetables, cabbage, onion]
 ingredients: [cabbage, onion, pepper, cumin, coriander, passum, fish sauce, olive oil]
-permalink: /recipe-index/cabbage-with-onion.html
+permalink: /recipes/cabbage-with-onion
 ---
 
 {% capture recipe_content %}
 # Cabbage with Onion
 
-### Original Latin
+### Original Text
 *Aliter coliculos: elixatos in patina conpones. adicies in mortario piper rutam coriandri semen cepa bullisse, suffundes liquamen, uino et passo temperabis, effundes super coliculos et inferes.*
 
 ### English Translation

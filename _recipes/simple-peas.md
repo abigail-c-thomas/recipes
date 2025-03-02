@@ -3,7 +3,7 @@ layout: recipe
 title: Simple Roman Peas
 tags: [source:apicius, era:roman_empire, legume, peas]
 ingredients: [split peas, asafoetida, fish sauce, defrutum, olive oil]
-permalink: /recipes/simple-peas/
+permalink: /recipes/simple-peas
 ---
 
 {% capture recipe_content %}
@@ -29,7 +29,7 @@ permalink: /recipes/simple-peas/
 ### Notes
 This simple Roman pea dish comes from Apicius. It features asafoetida (silphium/laser), which was a popular seasoning in Roman cooking that imparts a pungent, savory flavor similar to garlic and onions. The combination with fish sauce, reduced wine (defrutum), and olive oil creates a rich and flavorful dish despite its simplicity.
 
-### Original Latin Text
+### Original Text Text
 > Aliter pisam siue fabam: despumatam subtrito lasare Partico liquamen et careno condies. oleum modice superfundis et inferes.
 
 ### Translation

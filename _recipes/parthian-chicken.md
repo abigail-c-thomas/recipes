@@ -3,7 +3,7 @@ layout: recipe
 title: Parthian Chicken
 tags: [era:roman_empire, source:apicius, poultry]
 ingredients: [fish sauce, lovage, asafoetida, black pepper, chicken, wine, caraway]
-permalink: /recipe-index/parthian-chicken.html
+permalink: /recipes/parthian-chicken
 ---
 
 {% capture recipe_content %}

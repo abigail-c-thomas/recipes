@@ -3,7 +3,7 @@ layout: recipe
 title: Poached Eggs
 tags: [era:roman_empire, source:galen, eggs]
 ingredients: [eggs, wine, fish sauce, olive oil]
-permalink: /recipe-index/poached-eggs.html
+permalink: /recipes/poached-eggs
 ---
 
 {% capture recipe_content %}

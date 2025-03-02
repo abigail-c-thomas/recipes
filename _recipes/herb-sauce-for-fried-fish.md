@@ -3,13 +3,13 @@ layout: recipe
 title: Herb Sauce for Fried Fish
 tags: [era:roman_empire, source:apicius, seafood, sauce, fish]
 ingredients: [fish, black pepper, cumin, coriander seed, asafoetida, oregano, rue, dates, olive oil, honey, defrutum, vinegar, fish sauce]
-permalink: /recipe-index/herb-sauce-for-fried-fish.html
+permalink: /recipes/herb-sauce-for-fried-fish
 ---
 
 {% capture recipe_content %}
 # Herb Sauce for Fried Fish
 
-### Original Latin
+### Original Text
 *Ius diabotanon in pisce frixo: piscem quemlibet curas, lauas, friges. teres piper cuminum coriandri semen laseris radicem origanum rutam, fricabis; suffundes acetum, adicies careotam mel defritum oleum, liquamen temperabis; refundes in caccabum, facies ut ferueat; cum ferbuerit, piscem frictum perfundes, piper asperges et inferes.*
 
 ### English Translation

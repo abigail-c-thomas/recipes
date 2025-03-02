@@ -3,7 +3,7 @@ layout: recipe
 title: Pancakes
 tags: [source:galen, era:roman_empire, breakfast, dessert]
 ingredients: [whole wheat flour, water, salt, honey, olive oil]
-permalink: /recipes/pancakes/
+permalink: /recipes/pancakes
 ---
 
 {% capture recipe_content %}

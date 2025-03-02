@@ -3,7 +3,7 @@ layout: recipe
 title: Vardanian Chicken
 tags: [era:roman_empire, source:apicius, poultry, chicken, sauce]
 ingredients: [chicken, leek, coriander, savory, wine, fish sauce, olive oil, pepper, pine nuts, milk, egg whites]
-permalink: /recipe-index/vardanian-chicken.html
+permalink: /recipes/vardanian-chicken
 ---
 
 {% capture recipe_content %}
@@ -18,7 +18,7 @@ Vardanian chicken: Cook the chicken in this sauce: fish sauce, oil, wine, a bund
 
 ___
 
-**Claude's intro:** This elegant Roman chicken dish features a creamy white sauce made with pine nuts, milk, and egg whites. It's an excellent example of the sophisticated cooking techniques employed by wealthy Roman households. The name "Vardanian" might refer to a place or person, though its exact origin is unknown.
+****Claude's intro:**** This elegant Roman chicken dish features a creamy white sauce made with pine nuts, milk, and egg whites. It's an excellent example of the sophisticated cooking techniques employed by wealthy Roman households. The name "Vardanian" might refer to a place or person, though its exact origin is unknown.
 
 ### Ingredients
 - 6 chicken thighs

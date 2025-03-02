@@ -3,7 +3,7 @@ layout: recipe
 title: Lamb Stew
 tags: [era:roman_empire, source:apicius, meat, lamb]
 ingredients: [lamb, onion, coriander, black pepper, lovage, cumin, fish sauce, olive oil, white wine, cornstarch]
-permalink: /recipe-index/lamb-stew-apicius.html
+permalink: /recipes/lamb-stew-apicius
 ---
 
 {% capture recipe_content %}
@@ -14,11 +14,11 @@ permalink: /recipe-index/lamb-stew-apicius.html
 
 **Lamb stew**: Put pieces of meat in a pot. Finely chop onion and coriander; grind pepper, lovage, and cumin; add fish sauce, oil, and wine. Cook, then pour into a serving dish; thicken with starch.
 
-—*Apicius*, 8.6.2, c. 350
+—*Apicius*, 8.6.2, c. 4th century CE
 
 ___
 
-<!-- TODO: Add description paragraph about lamb stews in Roman cuisine -->
+**Claude's intro:** This simple lamb stew from Apicius represents a common approach to meat dishes in Roman cuisine. The combination of meat with aromatic herbs and spices (coriander, pepper, lovage, and cumin) creates a rich flavor profile characteristic of Roman cooking. The use of wine and fish sauce (garum) provides depth, while the final thickening with starch was a typical Roman technique to create proper consistency. This dish would have been served as part of a main meal, accompanied by bread or other side dishes. Roman stews like this one were practical ways to tenderize tougher cuts of meat while infusing them with flavor.
 
 ### Ingredients
 - 800 g diced {% include ingredient_link.html name="lamb" %}

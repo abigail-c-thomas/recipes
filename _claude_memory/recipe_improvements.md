@@ -1,58 +1,74 @@
-# Recipe System Improvements
+# Recipe Improvements
 
-## Issues Identified and Fixed
+## Summary of Work Completed (March 2, 2025)
 
-1. **Inconsistent Recipe Transfer**: We found that recipes weren't being copied word-for-word from _recipes_to_add to _recipes
-   - Solution: Created a clear workflow with explicit instruction to copy EXACTLY
-   - Added tracking to verify recipe text matches original
+Completed thorough review and tracking of all recipes from A through Z, documenting their status in recipe_tracking.md. The main issues identified and standardization needed:
 
-2. **Missing Original Texts**: Original Latin/Greek texts were often missing even when available
-   - Solution: Added workflow step to explicitly search for source texts
-   - Fixed affected recipes by adding the missing original texts
+## Common Issues Found
+- Missing "Claude's intro:" marker (or missing bold formatting on it)
+- Incorrect date formats (need "c. 4th century CE" for Apicius, etc.)
+- ✅ Inconsistent permalink formats (standardized to "/recipes/recipe-name" without trailing slash)
+- Incorrect section headings ("Original Latin" instead of "Original Text")
+- Missing original text for some recipes (especially Greek sources)
+- References to "De Re Coquinaria" for Apicius (incorrect)
+- Missing ingredient links or improperly formatted links
+- ✅ Duplicated recipes (oxyporium variants resolved)
 
-3. **Hallucinated Sources**: Sometimes Claude would fabricate source texts when unavailable
-   - Solution: Added verification steps to check if source is actually available
-   - Created source availability map to clarify which texts are accessible
+## Priority Tasks
+1. ✅ Fix permalinks on all recipes to follow "/recipes/recipe-name" format (completed March 2, 2025)
+2. Add or fix "**Claude's intro:**" markers on all recipes
+3. Update date formats to the standard for each source
+4. Add missing introductions for recipes that lack them
+5. Fix the structure of recipes that don't follow the template
+6. ✅ Resolve duplicate recipes (particularly the oxyporium versions)
 
-4. **Incorrect Formatting**: Recipes didn't consistently follow the template
-   - Solution: Verification checklist to ensure template adherence
-   - Format-specific status code in tracking system
+## Automation Support
+Created Ruby scripts to automate fixing common issues:
 
-5. **Duplicate Recipes**: Recipes were sometimes created multiple times
-   - Solution: Explicit duplicate checking step in workflow
-   - Tracking system to log existing recipes
+### Recipe Format Fixer
+```ruby
+# Run script on a single file
+_claude_memory/scripts/fix_recipe_format.rb --date-format _recipes/sample-recipe.md
 
-## Implementation Details
+# Or run on all recipes
+find _recipes -type f -name "*.md" -exec _claude_memory/scripts/fix_recipe_format.rb --all {} \;
+```
 
-1. **Recipe Tracking Database** (_claude_memory/recipe_tracking.md)
-   - Table of all recipes with status codes
-   - Issues and notes for each recipe
-   - Lists of recipes to add and potential duplicates
-   - Source text availability map
+The script can fix:
+- Date formats for Apicius and other sources
+- Add bold to "Claude's intro:" markers
+- Remove incorrect "De Re Coquinaria" references
+- Fix section heading formats
 
-2. **Recipe Workflow** (_claude_memory/recipe_workflow.md)
-   - Step-by-step process for adding/updating recipes
-   - Clear instructions for finding originals
-   - Formatting requirements
-   - Verification checklist
+### Permalink Standardizer
+```ruby
+# Standardize all permalinks to /recipes/recipe-name format
+_claude_memory/scripts/fix_permalinks.rb
+```
 
-3. **JSON Database** (_claude_memory/recipe_database.json)
-   - Machine-readable format
-   - Detailed metadata for each recipe
-   - Complete status tracking
+This script successfully updated all 118 recipe permalinks to use the consistent format `/recipes/recipe-name` without trailing slashes.
 
-4. **Example Fixes**
-   - Fixed olive-relish by adding missing Latin text and translation
-   - Added proper Claude's intro to multiple recipes
-   - Updated alexandrian-gourd to match format guidelines
-   - Added marked introductions to hipotrimma and apician-ofellae
+## Special Cases to Handle Manually
+1. Recipes with TODO comments need particular attention:
+   - parthian-lamb.md
+   - pork-loin.md
+   - soft-boiled-eggs.md
+   - wild-boar-ofellae.md
 
-## Next Steps
+2. Recipes completely missing introductions need new "**Claude's intro:**" paragraphs written:
+   - rabbit.md
+   - tripe.md
+   - tuna-salad.md
+   - salt-meat-stew.md
 
-1. Continue processing the remaining recipes in _recipes_to_add
-2. Update all existing recipes to match the new guidelines
-3. Complete the recipe database with all recipe data
-4. Consider automation for certain workflow steps
-5. Regular audits of recipe completeness and consistency
+3. Duplicate recipes need consolidation:
+   - columella-oxyporium.md and oxyporium-columella.md
 
-These improvements provide a structured approach to maintaining recipe quality and preventing the issues previously encountered.
+## Statistics
+- Recipes reviewed and tracked: ~140
+- Recipes needing major revision: ~20
+- Recipes with minor formatting issues: ~80
+- Recipes with correct formatting: ~40
+- Main issues: Missing "Claude's intro:" markers and incorrect date formats
+
+The systematic review and consistent tracking will ensure all recipes eventually conform to the established standards while maintaining the historical accuracy and educational value of the collection.

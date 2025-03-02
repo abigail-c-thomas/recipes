@@ -3,7 +3,7 @@ layout: recipe
 title: Savillum
 tags: [source:cato, era:roman_republic, cake, dessert, cheese]
 ingredients: [ricotta, white flour, honey, egg, poppy seeds]
-permalink: /recipes/savillum/
+permalink: /recipes/savillum
 ---
 
 {% capture recipe_content %}

@@ -3,7 +3,7 @@ layout: recipe
 title: Pottage with Wine-based Stock
 tags: [source:apicius, era:roman_empire, grain]
 ingredients: [stock, white wine, semolina]
-permalink: /recipes/pottage-with-wine-stock/
+permalink: /recipes/pottage-with-wine-stock
 ---
 
 {% capture recipe_content %}
@@ -14,7 +14,7 @@ permalink: /recipes/pottage-with-wine-stock/
 
 "Another [pottage]: with simple stock. Little pottages and varied meat-juice sauce: another: pottage with pasta and milk."
 
-—*Apicius*, *De Re Coquinaria* 5.1.2, 4th-5th century CE
+—*Apicius*, 5.1.2, c. 4th century CE
 
 ___
 

@@ -3,13 +3,13 @@ layout: recipe
 title: Oxyporium with Mint
 tags: [era:roman_empire, source:columella, sauce, digestive, mint]
 ingredients: [pepper, mint, lovage, raisin, honey, vinegar, fish sauce]
-permalink: /recipe-index/oxyporium-mint.html
+permalink: /recipes/oxyporium-mint
 ---
 
 {% capture recipe_content %}
 # Oxyporium with Mint
 
-### Original Latin
+### Original Text
 *No Latin text available for this recipe from Columella 12.59f*
 
 ### English Translation

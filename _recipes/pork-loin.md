@@ -3,7 +3,7 @@ layout: recipe
 title: Pork Loin
 tags: [era:roman_empire, source:heidelberg_papyrus, meat, pork]
 ingredients: [pork, coriander, asafoetida, salt, sweet wine, olive oil, vinegar, oregano]
-permalink: /recipe-index/pork-loin.html
+permalink: /recipes/pork-loin
 ---
 
 {% capture recipe_content %}

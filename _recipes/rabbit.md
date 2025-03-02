@@ -3,13 +3,13 @@ layout: recipe
 title: Rabbit
 tags: [era:roman_empire, source:apicius, meat, game]
 ingredients: [rabbit, olive oil, black pepper, lovage, savory, celery seed, rue, onion, asafoetida, white wine, fish sauce]
-permalink: /recipe-index/rabbit.html
+permalink: /recipes/rabbit
 ---
 
 {% capture recipe_content %}
 # Rabbit
 
-### Original Latin
+### Original Text
 *Leporem madidum: in aqua precoquitur modice, deinde conponitur in patina ac coquendus oleo in furno et cum prope sit coctus ex alio oleo. pertangito de conditura infra scripta: teres piper <ligusticum> satureiam cepam rutam apii semen liquamen laser uinum et modice olei. aliquotiens uersatur, in ipsa percoquitur conditura.*
 
 ### English Translation

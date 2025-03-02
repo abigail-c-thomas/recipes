@@ -3,13 +3,13 @@ layout: recipe
 title: Pork Unococto
 tags: [era:roman_empire, source:vinidarius, meat, pork]
 ingredients: [pork, fish sauce, olive oil, black pepper, bay berries, rue, passum, white wine, cornstarch]
-permalink: /recipe-index/pork-unococto.html
+permalink: /recipes/pork-unococto
 ---
 
 {% capture recipe_content %}
 # Pork *Unococto*
 
-### Original Latin
+### Original Text
 *XXI. porcello unocoto: porcellum accipies, ornauis, quoque in oleo et liquamen. cum quoquitur adicies in mortario piper ruta baca lauri liquamen, passu siue carenu, uino uetus; simul omnia teres. temperas et traicies in patinam heneam. mittis eum \[XXII\] porcellum eo iure, perquoque; cum autem leuas, amulo oblicabis et sic in uas transfers et inferes.*
 
 ### English Translation
@@ -19,7 +19,7 @@ XXI. One-cooked suckling pig: Take a suckling pig, prepare it, and cook it in oi
 
 ___
 
-Claude's intro: The *porcellum unocoto* (one-cooked suckling pig) is a dish from Vinidarius' late 5th-century recipe collection that demonstrates both continuity with earlier Roman cuisine and some simplification. The term "unococto" likely refers to the cooking method where the meat is first prepared in one way (cooking in oil and fish sauce) and then finished in a sauce. This two-stage cooking approach creates layers of flavor while incorporating classic Roman ingredients like rue, bay berries, and wine reduction (*passum*/*carenum*). The recipe showcases the continued importance of the mortar and pestle for creating complex sauces even as cooking methods became more straightforward in the post-Imperial period.
+**Claude's intro:** The *porcellum unocoto* (one-cooked suckling pig) is a dish from Vinidarius' late 5th-century recipe collection that demonstrates both continuity with earlier Roman cuisine and some simplification. The term "unococto" likely refers to the cooking method where the meat is first prepared in one way (cooking in oil and fish sauce) and then finished in a sauce. This two-stage cooking approach creates layers of flavor while incorporating classic Roman ingredients like rue, bay berries, and wine reduction (*passum*/*carenum*). The recipe showcases the continued importance of the mortar and pestle for creating complex sauces even as cooking methods became more straightforward in the post-Imperial period.
 
 ### Ingredients
 - 1.5 kg {% include ingredient_link.html name="pork" %} shoulder

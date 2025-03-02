@@ -3,7 +3,7 @@ layout: recipe
 title: Hipotrimma
 tags: [era:roman_empire, source:apicius, dips]
 ingredients: [raisins, pine nuts, cream cheese, pepper, lovage, mint, date syrup, honey, fish sauce, vinegar, olive oil, defrutum, wine]
-permalink: /recipe-index/hipotrimma.html
+permalink: /recipes/hipotrimma
 ---
 
 {% capture recipe_content %}
@@ -14,7 +14,7 @@ permalink: /recipe-index/hipotrimma.html
 
 ***Hipotrimma***: Pepper, lovage, dried mint, pine nuts, raisins, dates, sweet cheese, honey, vinegar, fish sauce, oil, wine, or *defrutum* or *caroenum*.
 
-—*Apicius*, 1.33, c. 350
+—*Apicius*, 1.33, c. 4th century CE
 
 ___
 

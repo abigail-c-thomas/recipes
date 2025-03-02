@@ -3,13 +3,13 @@ layout: recipe
 title: Poached Fish
 tags: [era:roman_empire, source:apicius, seafood, fish]
 ingredients: [fish, black pepper, coriander seed, dill, fish sauce, water, vinegar]
-permalink: /recipe-index/poached-fish.html
+permalink: /recipes/poached-fish
 ---
 
 {% capture recipe_content %}
 # Poached Fish
 
-### Original Latin
+### Original Text
 *Aliter ius in pisce elixo: cum curaueris piscem, adicies in sartaginem <piper liquamen coriandri> semen aquam anetum uiridem et ipsum piscem. cum coctus fuerit, asperges aceto et inferes.*
 
 ### English Translation

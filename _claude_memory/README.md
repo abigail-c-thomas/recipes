@@ -1,16 +1,57 @@
-# Claude Memory System
+# Recipe Collection Memory
 
-This directory contains structured memory files to help maintain consistency across recipe files.
+This directory contains tracking information, templates, and tools for managing the Roman and Greek recipe collection.
 
-## Updated Recipe Management System
+## Status Summary (March 2, 2025)
 
-We have created a more structured system for managing recipes:
+We've completed a thorough review of all recipes from A through Z, documenting their status in [recipe_tracking.md](recipe_tracking.md). All recipes have been evaluated against the standard format criteria defined in [recipe_workflow.md](recipe_workflow.md).
 
-- **recipe_tracking.md**: Database of all recipes with their status and issues
-- **recipe_workflow.md**: Step-by-step workflow for adding or updating recipes
-- **recipe_database.json**: JSON database for recipe information (machine-readable format)
+### Key Findings
 
-Always reference these files when working with recipes to prevent duplications, missing information, or incorrect formatting.
+- Most recipes need minor formatting adjustments
+- Common issues include:
+  - Missing or improperly formatted "**Claude's intro:**" markers
+  - Incorrect date formats (need "c. 4th century CE" for Apicius, etc.)
+  - Old permalink formats (need to update to "/recipe-index/recipe-name" without .html)
+  - Incorrect section headings ("Original Latin" instead of "Original Text")
+  - References to "De Re Coquinaria" for Apicius (incorrect)
+  - Missing ingredient links
+
+### Tools Created
+
+We've created a Ruby script to help automate common fixes:
+- [fix_recipe_format.rb](scripts/fix_recipe_format.rb): Script to fix date formats, add bold to intros, fix permalinks, etc.
+
+## Next Steps
+
+1. Run the `fix_recipe_format.rb` script on all recipe files to fix common issues automatically
+   ```bash
+   find _recipes -type f -name "*.md" -exec _claude_memory/scripts/fix_recipe_format.rb --all {} \;
+   ```
+
+2. Manually fix remaining issues:
+   - Add missing "**Claude's intro:**" sections to recipes that lack them
+   - Add missing original text where available
+   - Fix recipes with major structural issues
+   - Resolve duplicate recipes (particularly the oxyporium versions)
+
+3. Process new recipes from the `_recipes_to_add` folder
+   - Focus first on completing recipes with TODOs
+
+4. Once all recipes are fixed, update the ingredients and tags lists:
+   ```bash
+   find _recipes -type f -name "*.md" | xargs grep -h "^tags:" | sort | uniq > _claude_memory/tags/known_tags.txt
+   find _recipes -type f -name "*.md" | xargs grep -h "^ingredients:" | sort | uniq > _claude_memory/ingredients/known_ingredients.txt
+   ```
+
+## Recipe Status Statistics
+
+- Total recipes reviewed: 140+
+- Recipes with correct formatting: ~40 (29%)
+- Recipes with minor formatting issues: ~80 (57%)
+- Recipes needing major revision: ~20 (14%)
+- Potential duplicates identified: 1 pair
+- Most common issue: Missing "**Claude's intro:**" markers
 
 ## Important Guidelines
 

@@ -3,7 +3,7 @@ layout: recipe
 title: Taro
 tags: [source:apicius, era:roman_empire, vegetable]
 ingredients: [taro, black pepper, cumin, rue, fish sauce, honey, olive oil, water, cornstarch]
-permalink: /recipes/taro/
+permalink: /recipes/taro
 ---
 
 {% capture recipe_content %}
@@ -16,7 +16,7 @@ Relevant text from Apicius 7.15:
 
 "For taro: pepper, lovage, coriander, rue; moisten with vinegar; add date, honey, vinegar, fish sauce, reduced wine, and a little oil; you will mix together. When it begins to boil, thicken. Prepare the taro as above."
 
-—*Apicius*, *De Re Coquinaria* 7.15, 4th-5th century CE
+—*Apicius*, 7.15, c. 4th century CE
 
 ___
 

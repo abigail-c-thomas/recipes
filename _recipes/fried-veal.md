@@ -3,13 +3,13 @@ layout: recipe
 title: Fried Veal
 tags: [era:roman_empire, source:apicius, meat, veal]
 ingredients: [veal, onion, cumin, celery seed, oregano, lovage, black pepper, raisins, red wine, fish sauce, vinegar, honey, defrutum, olive oil]
-permalink: /recipe-index/fried-veal.html
+permalink: /recipes/fried-veal
 ---
 
 {% capture recipe_content %}
 # Fried Veal
 
-### Original Latin
+### Original Text
 *Vitellina fricta: piper ligusticum apii semen cuminum origanum cepam siccam uvam passam mel acetum vinum liquamen oleum defritum.*
 
 ### English Translation

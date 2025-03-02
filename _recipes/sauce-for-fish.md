@@ -3,13 +3,13 @@ layout: recipe
 title: Sauce for Fish
 tags: [era:roman_empire, source:apicius, seafood, sauce, fish]
 ingredients: [pepper, lovage, celery seed, dill, mustard, sumac, date syrup, honey, vinegar, fish sauce, olive oil, defrutum]
-permalink: /recipe-index/sauce-for-fish.html
+permalink: /recipes/sauce-for-fish
 ---
 
 {% capture recipe_content %}
 # Sauce for Fish
 
-### Original Latin
+### Original Text
 *Ius in anguilla: piper ligusticum apii semen anetum rus Syriacum careotam mel acetum liquamen oleum sinape et defritum.*
 
 ### English Translation

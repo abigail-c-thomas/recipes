@@ -3,7 +3,7 @@ layout: recipe
 title: Lamb with Hyposphagma
 tags: [era:greek, source:athenaeus, meat, lamb, sauce]
 ingredients: [lamb, blood, goat cheese, honey, cumin, asafoetida, salt]
-permalink: /recipe-index/lamb-with-hyposphagma.html
+permalink: /recipes/lamb-with-hyposphagma
 ---
 
 {% capture recipe_content %}
@@ -18,7 +18,7 @@ permalink: /recipe-index/lamb-with-hyposphagma.html
 
 ___
 
-<!-- TODO: Add description paragraph about this dish -->
+**Claude's intro:** Hyposphagma, meaning "under-blood" in Greek, was a type of sauce made with blood that was served with roasted meats in ancient Greece. This particular recipe comes from Athenaeus's Deipnosophistae, where he quotes Erasistratus, and demonstrates the Greeks' sophisticated approach to sauce-making. The combination of blood, honey, cheese, and spices creates a rich, savory sauce with complex flavors. Blood sauces were not uncommon in ancient Mediterranean cooking, utilizing every part of the slaughtered animal. The addition of silphium (here replaced with asafoetida) indicates this was a luxury dish, as silphium was an expensive and prized ingredient.
 
 ### Ingredients
 - 1.5 kg boneless leg of {% include ingredient_link.html name="lamb" %}

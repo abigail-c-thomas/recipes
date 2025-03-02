@@ -3,13 +3,13 @@ layout: recipe
 title: Gourd with Thickened Sauce
 tags: [source:apicius, era:roman_empire, vegetable]
 ingredients: [squash, pepper, cumin, rue, water, red wine vinegar, fish sauce, olive oil, cornstarch]
-permalink: /recipe-index/gourd-thickened.html
+permalink: /recipes/gourd-thickened
 ---
 
 {% capture recipe_content %}
 # Gourd with Thickened Sauce
 
-### Original Latin
+### Original Text
 *Aliter cucurbitas iure colocesiorum: cucurbitas quoques ex aqua in modum colocasiorum; teres piper cuminum rutam; suffundes acetum, liquamen temperabis in caccabum cui adicies <oleum modicum> et eas cucurbitas incisas expressas; in ius mittes ut ferueant; amulo obligas; piper asparges et inferes.*
 
 ### English Translation

@@ -3,13 +3,13 @@ layout: recipe
 title: Prawn Rissoles with Sauce for After Bathing
 tags: [era:roman_empire, source:apicius, seafood]
 ingredients: [prawns, fish sauce, white pepper, lovage, oregano, ginger, asafoetida, honey]
-permalink: /recipe-index/prawn-rissoles.html
+permalink: /recipes/prawn-rissoles
 ---
 
 {% capture recipe_content %}
 # Prawn Rissoles with Sauce for After Bathing
 
-### Original Latin
+### Original Text
 **esicia de iscillis uel de cammaris amplis**: cammari uel iscille de testa sua eximuntur et in mortario teruntur cum pipere et liquamine optimo. pulpe esicia plassantur.
 
 **esicia amulata a balineo sic facies**: teres piper ligusticum origanum modicum silfi gingber minimum mellis modicum; liquamine temperabis; misces adicies super esicia; facies ut ferueat. cum bene bulliuerit amulo obligas ispis so et soruendum inferes.
@@ -19,11 +19,11 @@ permalink: /recipe-index/prawn-rissoles.html
 
 **Starchy sauce for rissoles after bathing**: Grind pepper, lovage, oregano, a little asafoetida, a small amount of ginger, a little honey; mix with fish sauce; combine and add over the rissoles; bring to a boil. When it has boiled well, thicken with starch and serve for drinking.
 
-—*Apicius*, 2.1.3 and 2.2.7, c. 350
+—*Apicius*, 2.1.3 and 2.2.7, c. 4th century CE
 
 ___
 
-Claude's intro: The Roman bath (thermae) was not just a place for washing but a central social institution where Romans would spend hours exercising, relaxing, and socializing. After bathing, Romans often consumed special foods and drinks designed to revitalize the body. This recipe comes from that tradition - the warming sauce was meant to be consumed after visiting the baths, perhaps to replenish energy and warm the body. The sauce is described as "sorvendus" (for drinking/sipping), suggesting it might have been consumed as a restorative drink with the rissoles, or perhaps poured over them as a thick sauce. Apicius includes several recipes specifically marked as appropriate "a balineo" (after bathing).
+**Claude's intro:** The Roman bath (thermae) was not just a place for washing but a central social institution where Romans would spend hours exercising, relaxing, and socializing. After bathing, Romans often consumed special foods and drinks designed to revitalize the body. This recipe comes from that tradition - the warming sauce was meant to be consumed after visiting the baths, perhaps to replenish energy and warm the body. The sauce is described as "sorvendus" (for drinking/sipping), suggesting it might have been consumed as a restorative drink with the rissoles, or perhaps poured over them as a thick sauce. Apicius includes several recipes specifically marked as appropriate "a balineo" (after bathing).
 
 ### Ingredients
 *For meatballs*

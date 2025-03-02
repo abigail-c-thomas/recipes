@@ -3,13 +3,13 @@ layout: recipe
 title: Ham Shoulder in Pastry
 tags: [era:roman_empire, source:apicius, meat, pork, pastry]
 ingredients: [ham, figs, bay leaves, flour, olive oil, salt, water, honey]
-permalink: /recipe-index/ham-shoulder-in-pastry.html
+permalink: /recipes/ham-shoulder-in-pastry
 ---
 
 {% capture recipe_content %}
 # Ham Shoulder in Pastry
 
-### Original Latin
+### Original Text
 *Pernam, ubi eam cum caricis plurimis elixaueris et tribus lauri foliis, detracta cute tessellatim incidis et melle conplebis. deinde farinam oleo subactam contexes et ei coreum reddis ut, cum farina cocta fuerit, eximas furno et ut est inferes.*
 
 ### English Translation

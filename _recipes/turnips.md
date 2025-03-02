@@ -3,7 +3,7 @@ layout: recipe
 title: Turnips
 tags: [source:apicius, era:roman_empire, vegetable]
 ingredients: [turnips, rue, cumin, asafoetida, fish sauce, honey, vinegar, defrutum, olive oil]
-permalink: /recipes/turnips/
+permalink: /recipes/turnips
 ---
 
 {% capture recipe_content %}
@@ -14,7 +14,7 @@ permalink: /recipes/turnips/
 
 "Boiled turnips or navews: drain them. Then grind a good amount of cumin, less rue, Parthian laser, honey, vinegar, fish sauce, reduced wine, and a little oil; bring to a boil and serve."
 
-—*Apicius*, *De Re Coquinaria* 3.13.1, 4th-5th century CE
+—*Apicius*, 3.13.1, c. 4th century CE
 
 ___
 

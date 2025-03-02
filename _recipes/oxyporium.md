@@ -3,22 +3,23 @@ layout: recipe
 title: Oxyporium
 tags: [source:apicius, era:roman_empire, salad, dressing, condiment]
 ingredients: [cumin, ginger, pepper, rue, dates, honey, vinegar, fish sauce]
-permalink: /recipes/oxyporium/
+permalink: /recipes/oxyporium
 ---
 
 {% capture recipe_content %}
 # Oxyporium
 
 ### Original Text
-> Oxypori compositio: cumini unciae II, gingiber(is) unciam I, rutae viridis unciam I, dactilorum pinguium scripulos XII, piperis unciam I, mellis uncias VIIII cuminum aut Aethiopicum aut Siriacum aut Libicum. tundes cuminum et postea infundes in aceto. cum siccaverit postea melle omnia conprehendes; cum necesse fuerit dimidium coclearum <cum> aceto et liquamine modico misces aut post cenam dimidium coclearum accipies.
+*Oxypori compositio: cumini unciae II, gingiber(is) unciam I, rutae viridis unciam I, dactilorum pinguium scripulos XII, piperis unciam I, mellis uncias VIIII cuminum aut Aethiopicum aut Siriacum aut Libicum. tundes cuminum et postea infundes in aceto. cum siccaverit postea melle omnia conprehendes; cum necesse fuerit dimidium coclearum <cum> aceto et liquamine modico misces aut post cenam dimidium coclearum accipies.*
 
-"Composition of oxyporium: 2 ounces of cumin, 1 ounce of ginger, 1 ounce of fresh rue, 12 scruples of fat dates, 1 ounce of pepper, 9 ounces of honey, and Ethiopian, Syrian, or Libyan cumin. Grind the cumin and then soak it in vinegar. When it has dried, mix everything with honey. When needed, mix half a spoonful with vinegar and a little fish sauce, or take half a spoonful after dinner."
+### English Translation
+Composition of oxyporium: 2 ounces of cumin, 1 ounce of ginger, 1 ounce of fresh rue, 12 scruples of fat dates, 1 ounce of pepper, 9 ounces of honey, and Ethiopian, Syrian, or Libyan cumin. Grind the cumin and then soak it in vinegar. When it has dried, mix everything with honey. When needed, mix half a spoonful with vinegar and a little fish sauce, or take half a spoonful after dinner.
 
-—*Apicius*, *De Re Coquinaria* 1.32 and 3.18.2, 4th-5th century CE
+—*Apicius*, 1.32 and 3.18.2, c. 4th century CE
 
 ___
 
-The *oxyporium* was a highly-spiced medicinal mixture served with *oxygarum* (vinegar and fish sauce) or eaten by the spoonful. It was particularly recommended to accompany lettuce, which Romans believed could be potentially indigestible. The strong spices were thought to aid digestion and counter any harmful effects of raw vegetables.
+**Claude's intro:** The *oxyporium* was a highly-spiced medicinal mixture served with *oxygarum* (vinegar and fish sauce) or eaten by the spoonful. It was particularly recommended to accompany lettuce, which Romans believed could be potentially indigestible. The strong spices were thought to aid digestion and counter any harmful effects of raw vegetables. This preparation demonstrates the overlap between culinary arts and medicine in Roman culture, where many foods were valued not just for their taste but for their perceived health benefits. The inclusion of potent ingredients like pepper, ginger, and rue reflects the Roman understanding of digestive health, which held that powerful spices could help "correct" the innate qualities of other foods.
 
 ### Ingredients
 - 2 tsp ground {% include ingredient_link.html name="cumin" %}  

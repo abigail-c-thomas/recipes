@@ -3,13 +3,13 @@ layout: recipe
 title: Frontonian Piglet
 tags: [era:roman_empire, source:apicius, meat, pork]
 ingredients: [pork, white wine, fish sauce, leek, dill, defrutum, black pepper, olive oil]
-permalink: /recipe-index/frontonian-piglet.html
+permalink: /recipes/frontonian-piglet
 ---
 
 {% capture recipe_content %}
 # Frontonian Piglet
 
-### Original Latin
+### Original Text
 **porcellum oenococtum**: porcellum preduras, ornas. adicies in caccabum oleum liquamen uinum aquam; obligas fasciculum porri coriandri; media coctura colorabis defrito. adicies in mortarium piper ligusticum careum origanum apii semen laseris radicem, fricabis; suffundes liquamen, ius de suo sibi; uino et passo temperabis. exinanies in caccabum, facies ut ferueat; cum ferbuerit amulo obligas. porcellum compositum in patina perfundes, piper asparges et inferes.
 
 ### English Translation

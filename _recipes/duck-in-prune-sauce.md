@@ -3,13 +3,13 @@ layout: recipe
 title: Duck in Prune Sauce
 tags: [era:roman_empire, source:apicius, poultry, duck, sauce]
 ingredients: [duck, black pepper, lovage, cumin, celery seed, onion, prunes, wine, fish sauce, vinegar, defrutum, olive oil]
-permalink: /recipe-index/duck-in-prune-sauce.html
+permalink: /recipes/duck-in-prune-sauce
 ---
 
 {% capture recipe_content %}
 # Duck in Prune Sauce
 
-### Original Latin
+### Original Text
 *In grue in anate uel in pullo: piper cepam siccam ligusticum cuminum apii semen pruna uel damascena enucleata mustum acetum liquamen defritum oleum et coques. gruem cum coquis, caput eius aquam non contingat, sed sit foris ab aqua. cum cocta fuerit, de sauano calido inuolues gruem et caput eius trahe cum neruis: sequetur ut pulpe uel ossa remaneant; cum neruis enim manducare non potest.*
 
 ### English Translation

@@ -3,7 +3,7 @@ layout: recipe
 title: {{TITLE}}
 tags: [{{TAGS}}]
 ingredients: [{{INGREDIENTS}}]
-permalink: /recipe-index/{{PERMALINK}}.html
+permalink: /recipes/{{PERMALINK}}
 ---
 
 {% capture recipe_content %}

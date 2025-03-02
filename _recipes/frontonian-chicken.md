@@ -3,13 +3,13 @@ layout: recipe
 title: Frontonian Chicken
 tags: [era:roman_empire, source:apicius, poultry, chicken]
 ingredients: [chicken, olive oil, fish sauce, leek, dill, savory, coriander, defrutum, pepper]
-permalink: /recipe-index/frontonian-chicken.html
+permalink: /recipes/frontonian-chicken
 ---
 
 {% capture recipe_content %}
 # Frontonian Chicken
 
-### Original Latin
+### Original Text
 *Pullum Frontonianum: pullum praedura, condies liquamine oleo mixto, cui mittis fasciculum aneti porri satureiae et coriandri uiridis, et quoques. ut coctus fuerit leuabis eum, in lance defrito perungues, piper aspargis et inferes.*
 
 ### English Translation

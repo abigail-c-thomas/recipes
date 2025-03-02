@@ -3,13 +3,13 @@ layout: recipe
 title: Fish Broth
 tags: [era:greek, source:heidelberg_papyrus, seafood, soup]
 ingredients: [fish, onion, leek, dill, basil, aniseed, semolina, barley, white wine, water, fish sauce, olive oil, vinegar]
-permalink: /recipe-index/fish-broth.html
+permalink: /recipes/fish-broth
 ---
 
 {% capture recipe_content %}
 # Fish Broth
 
-### Original Greek
+### Original Text
 *Ζωμὸς ἰχθύος‧ εἰ<ς θυίας ἔμβαλε> χόνδρον. κόρι. πρ<άσον...........> κρόμμια, ἄνηθον <........ ... ὠ-> κιμον, ἄννησον λε<πτὸν ........ . > ἕψε ἐπ᾽ ἀνθράκων κα̣<ὶ καταβρέ-> χων ὕδατι. οἴνῳ, γάρῳ, <ὄξει συμμε-> μειγμένοις‧ ὅταν ἑψ<εθῇ καὶ μέλ-> λῃς αἰρειν, ἐπίπασσε πίπερ <λεῖ-> ον‧ μετ᾽ ὄξους δρειμέως κα<θιστ-> ᾶσιν ὀλίγον συμπεσεῖν, εἶ<τα με-> τ<αί>ρουσιν ἀπὸ τοῦ πυρός‧*
 
 ### English Translation

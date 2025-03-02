@@ -3,13 +3,13 @@ layout: recipe
 title: Numidian Chicken
 tags: [era:roman_empire, source:apicius, poultry, chicken]
 ingredients: [chicken, pepper, lovage, asafoetida, cumin, coriander, rue, dates, pine nuts, honey, vinegar, fish sauce, oil, cornstarch]
-permalink: /recipe-index/chicken-numidatum.html
+permalink: /recipes/chicken-numidatum
 ---
 
 {% capture recipe_content %}
 # Numidian Chicken
 
-### Original Latin
+### Original Text
 *Pullum Numidicum: pullum curas, elixas, levas, laser ac piper \<aspergis\> et assas. teres piper cuminum coriandri semen laseris radicem rutam careotam nucleos; suffundis acetum mel liquamen et oleum; temperabis. cum ferbuerit, amulo obligas, pullum perfundis, piper aspergis et inferes.*
 
 ### English Translation

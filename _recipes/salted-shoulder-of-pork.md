@@ -3,13 +3,13 @@ layout: recipe
 title: Salted Shoulder of Pork
 tags: [era:roman_empire, source:apicius, meat, pork]
 ingredients: [ham, barley, figs, honey, wine, passum, rue, black pepper, fish sauce, mustacei]
-permalink: /recipe-index/salted-shoulder-of-pork.html
+permalink: /recipes/salted-shoulder-of-pork
 ---
 
 {% capture recipe_content %}
 # Salted Shoulder of Pork
 
-### Original Latin
+### Original Text
 *Petasonem ex musteis: petasonem elixas cum bilibre ordei et caricis XXV. cum elixatus fuerit, decarnas et aruillam illius candenti uatillo uris et melle contingis. quod melius, missum in furnum, melle oblinas. cum colorauerit, mittis in caccabum passum piper fasciculum rute merum, temperas; cum fuerit temperatum, dimidium in petasonem perfundis et aliam partem piperati, buccellas musteorum fractas perfundis. cum sorbuerint, quod mustei recusauerint petasoni refundis.*
 
 ### English Translation
@@ -19,7 +19,7 @@ Salted pork shoulder with must cakes: boil a salted pork shoulder with two pound
 
 ___
 
-Claude's intro: This elaborate recipe showcases the Roman fondness for multi-stage cooking processes and sweet-savory combinations. The salted pork shoulder, a staple of Roman cuisine, is first boiled with barley and figs to infuse it with sweetness while drawing out some of its saltiness. The finishing of the fat with a hot shovel would have created a caramelized exterior, while the honey coating added before baking would further enhance this effect. The complex sauce combines wine, *passum* (raisin wine), and aromatic rue to balance the rich meat. Particularly interesting is the use of *mustacei* (must cakes made with grape must), which soak up part of the sauce before it's returned to the meat - a technique showing the Romans' sophisticated understanding of flavor absorption and concentration. This dish represents the height of Roman culinary refinement, combining multiple cooking methods and carefully balanced flavors.
+**Claude's intro:** This elaborate recipe showcases the Roman fondness for multi-stage cooking processes and sweet-savory combinations. The salted pork shoulder, a staple of Roman cuisine, is first boiled with barley and figs to infuse it with sweetness while drawing out some of its saltiness. The finishing of the fat with a hot shovel would have created a caramelized exterior, while the honey coating added before baking would further enhance this effect. The complex sauce combines wine, *passum* (raisin wine), and aromatic rue to balance the rich meat. Particularly interesting is the use of *mustacei* (must cakes made with grape must), which soak up part of the sauce before it's returned to the meat - a technique showing the Romans' sophisticated understanding of flavor absorption and concentration. This dish represents the height of Roman culinary refinement, combining multiple cooking methods and carefully balanced flavors.
 
 ### Ingredients
 - 700 g gammon or smoked ham

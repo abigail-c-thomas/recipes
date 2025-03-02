@@ -3,13 +3,13 @@ layout: recipe
 title: Fried Calamari
 tags: [era:roman_empire, source:apicius, seafood]
 ingredients: [calamari, olive oil, rue, honey, fish sauce, defrutum, black pepper]
-permalink: /recipe-index/fried-calamari.html
+permalink: /recipes/fried-calamari
 ---
 
 {% capture recipe_content %}
 # Fried Calamari
 
-### Original Latin
+### Original Text
 *In lolligine in patina: teres piper rutam mel modicum liquamen carenum, olei guttas.*
 
 ### English Translation

@@ -3,7 +3,7 @@ layout: recipe
 title: Kandaulos
 tags: [era:greek, source:athenaeus, meat, beef]
 ingredients: [beef, lamb, pork, beef stock, bread, feta cheese, dill, olive oil]
-permalink: /recipe-index/kandaulos.html
+permalink: /recipes/kandaulos
 ---
 
 {% capture recipe_content %}
@@ -18,7 +18,7 @@ permalink: /recipe-index/kandaulos.html
 
 ___
 
-Kandaulos (or candaulos) was a rich Lydian dish that became well-known throughout the ancient Greek world. This simple version uses bread and cheese to create a thick, savory stew that's filling and flavorful.
+**Claude's intro:** Kandaulos (or candaulos) was a rich Lydian dish that became well-known throughout the ancient Greek world. This simple version uses bread and cheese to create a thick, savory stew that's filling and flavorful. The recipe is mentioned by Athenaeus, who attributes it to Hegesippus of Tarentum, and describes it as a Lydian delicacy that combines meat with cheese and bread in a distinctive way.
 
 ### Ingredients
 - 800 g diced beef (or lamb or pork)

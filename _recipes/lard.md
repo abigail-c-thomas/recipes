@@ -3,13 +3,13 @@ layout: recipe
 title: Lard
 tags: [era:roman_empire, source:apicius, meat, pork]
 ingredients: [lard, dill, salt, olive oil]
-permalink: /recipe-index/lard.html
+permalink: /recipes/lard
 ---
 
 {% capture recipe_content %}
 # Lard
 
-### Original Latin
+### Original Text
 *Laridi coctura: tectum aqua cum multo aneto coques, oleum modicum distillabis et modicum salis.*
 
 ### English Translation
@@ -19,7 +19,7 @@ Cooking lard: Cover with water and cook with plenty of dill, drizzle with a litt
 
 ___
 
-Claude's intro: This remarkably simple preparation from Apicius demonstrates that not all Roman dishes were complex or required numerous ingredients. In a cuisine where pork fat was a prized ingredient and cooking medium, this basic method of preparing lard shows how Romans approached the enhancement of even the most basic ingredients. The use of dill to flavor the lard during cooking would have imparted a subtle herbal note, while the final drizzle of olive oil and sprinkling of salt would create a more complex flavor profile. While modern diners might not consider lard a dish in itself, for Romans, this simple preparation would have been appreciated as a valuable addition to their table, either as a spread for bread or as a component in other dishes.
+**Claude's intro:** This remarkably simple preparation from Apicius demonstrates that not all Roman dishes were complex or required numerous ingredients. In a cuisine where pork fat was a prized ingredient and cooking medium, this basic method of preparing lard shows how Romans approached the enhancement of even the most basic ingredients. The use of dill to flavor the lard during cooking would have imparted a subtle herbal note, while the final drizzle of olive oil and sprinkling of salt would create a more complex flavor profile. While modern diners might not consider lard a dish in itself, for Romans, this simple preparation would have been appreciated as a valuable addition to their table, either as a spread for bread or as a component in other dishes.
 
 ### Ingredients
 - 200 g lardo or salted pork fat

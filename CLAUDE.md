@@ -72,7 +72,8 @@
 - Always wrap ingredients in `{% include ingredient_link.html name="ingredient" %}` tags
 - Permalink and filename requirements:
   - Filenames should include the source for specificity (e.g., "apicius-lentils.md" not just "lentils.md")
-  - Permalink MUST match the filename (e.g., "/recipe-index/apicius-lentils.html")
+  - Permalink MUST use the standard format: `/recipes/recipe-name` (no trailing slash)
+  - Permalink should match the filename (e.g., for "apicius-lentils.md", use "/recipes/apicius-lentils")
   - Even if the title is simple (e.g., "Lentils"), keep the filename and permalink specific
   - This prevents clashes when multiple sources have recipes with the same basic name
 - Format structure:

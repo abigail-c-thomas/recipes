@@ -3,7 +3,7 @@ layout: recipe
 title: Radishes with Pepper Sauce
 tags: [source:apicius, era:roman_empire, salad, vegetable]
 ingredients: [radish, fish sauce, black pepper]
-permalink: /recipes/radishes/
+permalink: /recipes/radishes
 ---
 
 {% capture recipe_content %}
@@ -14,7 +14,7 @@ permalink: /recipes/radishes/
 
 "Radishes with pepper sauce, prepared by grinding pepper with fish sauce."
 
-—*Apicius*, *De Re Coquinaria* 3.14, 4th-5th century CE
+—*Apicius*, 3.14, c. 4th century CE
 
 ___
 

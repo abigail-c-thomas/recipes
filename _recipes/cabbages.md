@@ -3,13 +3,13 @@ layout: recipe
 title: Cabbages with Herbs
 tags: [era:roman_empire, source:apicius, vegetables, cabbage]
 ingredients: [cabbage, pepper, lovage, rue, mint, coriander, fish sauce, white wine, olive oil]
-permalink: /recipe-index/cabbages.html
+permalink: /recipes/cabbages
 ---
 
 {% capture recipe_content %}
 # Cabbages with Herbs
 
-### Original Latin
+### Original Text
 *Coliculos: elixatos, expressos, in patina conpones. adicies oleum, liquamen, uinum. concides porrum, coriandrum, satureiam, suffundes ius.*
 
 ### English Translation

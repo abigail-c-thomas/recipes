@@ -3,7 +3,7 @@ layout: recipe
 title: Artichoke
 tags: [source:apicius, era:roman_empire, vegetable]
 ingredients: [artichoke, olive oil, fish sauce, cumin, black pepper]
-permalink: /recipe-index/artichoke.html
+permalink: /recipes/artichoke
 ---
 
 {% capture recipe_content %}

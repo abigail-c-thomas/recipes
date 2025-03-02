@@ -3,13 +3,13 @@ layout: recipe
 title: Fried Chickpeas
 tags: [source:apicius, era:roman_empire, legume, chickpeas]
 ingredients: [chickpeas, olive oil, fish sauce, wine, pepper]
-permalink: /recipe-index/fried-chickpeas.html
+permalink: /recipes/fried-chickpeas
 ---
 
 {% capture recipe_content %}
 # Fried Chickpeas
 
-### Original Latin
+### Original Text
 *Aliter faseolus siue cicer: frictos ex oenogaro et pipere gustabis. et elixati sumpto semine cum ouis in patella, feniculo uiride piper et liquamine et careno modico pro salso inferuntur, uel simpliciter, ut solet.*
 
 ### English Translation

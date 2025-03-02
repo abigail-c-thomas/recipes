@@ -3,13 +3,13 @@ layout: recipe
 title: Cabbage with Olives
 tags: [era:roman_empire, source:apicius, vegetables, cabbage, olives]
 ingredients: [cabbage, olives, fish sauce, white wine, olive oil, cumin]
-permalink: /recipe-index/cabbage-with-olives.html
+permalink: /recipes/cabbage-with-olives
 ---
 
 {% capture recipe_content %}
 # Cabbage with Olives
 
-### Original Latin
+### Original Text
 *Aliter cauliculos condies ut supra admisces olibas uirides et simul ferueant.*
 
 ### English Translation

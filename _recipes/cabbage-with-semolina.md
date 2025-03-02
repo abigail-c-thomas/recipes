@@ -3,13 +3,13 @@ layout: recipe
 title: Cabbage with Semolina
 tags: [era:roman_empire, source:apicius, vegetables, cabbage, semolina, pine nuts]
 ingredients: [cabbage, semolina, pine nuts, fish sauce, white wine, olive oil, cumin, raisins, coriander]
-permalink: /recipe-index/cabbage-with-semolina.html
+permalink: /recipes/cabbage-with-semolina
 ---
 
 {% capture recipe_content %}
 # Cabbage with Semolina
 
-### Original Latin
+### Original Text
 *Aliter: culiculis conditis ut supra; superfundes alicam elixam cum nucleis et uua passa super asparges.*
 
 ### English Translation

@@ -3,13 +3,13 @@ layout: recipe
 title: Boiled Chicken with Gourd
 tags: [era:roman_empire, source:apicius, poultry, chicken, vegetables, sauce]
 ingredients: [chicken, butternut squash, cumin, thyme, fennel seed, mint, rue, asafoetida, dates, honey, vinegar, fish sauce, olive oil, mustard, pepper]
-permalink: /recipe-index/chicken-with-gourd.html
+permalink: /recipes/chicken-with-gourd
 ---
 
 {% capture recipe_content %}
 # Boiled Chicken with Gourd
 
-### Original Latin
+### Original Text
 *Pullum elixum ex iure suo: teres piper cuminum timi modicum feniculi semen mentam rutam laseris radicem; suffundis acetum, adicies careotam et teres. melle aceto liquamine et oleo temperabis. pullum refrigeratum et mittis siccatum, quem perfusum inferes.*
 
 *Pullum elixum cum cucurbitis elixis: iure supra scripto, addito sinape, perfundis et inferes.*

@@ -3,7 +3,7 @@ layout: recipe
 title: Salt Meat Stew
 tags: [era:roman_empire, source:heidelberg_papyrus, meat]
 ingredients: [corned beef, gammon, white wine, grape juice, white wine vinegar, coriander, aniseed, fennel seed, thyme, cumin, honey, black pepper, white bread]
-permalink: /recipe-index/salt-meat-stew.html
+permalink: /recipes/salt-meat-stew
 ---
 
 {% capture recipe_content %}

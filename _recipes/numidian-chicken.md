@@ -3,7 +3,7 @@ layout: recipe
 title: Numidian Chicken
 tags: [era:roman_empire, source:apicius, poultry, chicken, sauce]
 ingredients: [chicken, asafoetida, pine nuts, dates, pepper, cumin, coriander, rue, vinegar, honey, fish sauce, oil]
-permalink: /recipe-index/numidian-chicken.html
+permalink: /recipes/numidian-chicken
 ---
 
 {% capture recipe_content %}

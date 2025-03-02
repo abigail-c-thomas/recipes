@@ -3,7 +3,7 @@ layout: recipe
 title: Lamb with Cowpeas
 tags: [era:roman_empire, source:apicius, meat, lamb]
 ingredients: [lamb, cowpeas, fish sauce, asafoetida, black pepper]
-permalink: /recipe-index/lamb-with-cowpeas.html
+permalink: /recipes/lamb-with-cowpeas
 ---
 
 {% capture recipe_content %}
@@ -14,11 +14,11 @@ permalink: /recipe-index/lamb-with-cowpeas.html
 
 **Lamb cutlets**: Cook with pepper and fish sauce, with cowpeas using fish sauce, pepper and *laser*, with pieces of soaked bread and a little oil.
 
-—*Apicius*, 8.6.1, c. 350
+—*Apicius*, 8.6.1, c. 4th century CE
 
 ___
 
-<!-- TODO: Add description paragraph about this dish and cowpeas in Roman cuisine -->
+**Claude's intro:** This recipe reflects the Roman practice of combining meat with legumes, creating a nutritionally complete and satisfying dish. Cowpeas, while less common in modern European cooking, were an important legume in ancient Mediterranean cuisines. The combination of lamb with cowpeas would have created a hearty meal, with the fish sauce (garum) and asafoetida (a replacement for the extinct silphium/laser) providing the distinctive savory flavor profile characteristic of Roman cooking. The dish is relatively simple, demonstrating that not all Roman cuisine was elaborate or complex.
 
 ### Ingredients
 - 800 g diced {% include ingredient_link.html name="lamb" %}

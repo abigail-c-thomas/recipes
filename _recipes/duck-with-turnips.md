@@ -3,13 +3,13 @@ layout: recipe
 title: Duck with Turnips
 tags: [era:roman_empire, source:apicius, poultry, duck, vegetables]
 ingredients: [duck, turnips, salt, dill, olive oil, fish sauce, leek, coriander, defrutum, black pepper, cumin, coriander seed, asafoetida, red wine vinegar, cornstarch]
-permalink: /recipe-index/duck-with-turnips.html
+permalink: /recipes/duck-with-turnips
 ---
 
 {% capture recipe_content %}
 # Duck with Turnips
 
-### Original Latin
+### Original Text
 *Gruem uel anatem ex rapis: lauas, ornas et in olla elixabis cum aqua sale et aneto dimidia coctura. rapas quoque, ut exbromari possint, leuabis de olla et iterum lauabis, et in caccabum mittis anatem cum oleo et liquamine et fasciculo porri et coriandri. rapam lotam et minutatim concisam desuper mittis, facies ut quoquatur. modica coctura mittis defritum ut coloret. ius tale parabis: piper cuminum coriandrum laseris radicem; suffundes acetum et ius de suo sibi; reexinanies super anatem ut ferueat. cum ferbuerit, amulo obligabis et super rapas adicies. piper aspargis et adponis.*
 
 ### English Translation

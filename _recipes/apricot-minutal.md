@@ -3,7 +3,7 @@ layout: recipe
 title: Apricot Minutal
 tags: [era:roman_empire, source:apicius, meat]
 ingredients: [pork, onions, wine, fish sauce, olive oil, black pepper, cumin, mint, dill, passum, honey, vinegar, apricots, cornstarch]
-permalink: /recipe-index/apricot-minutal.html
+permalink: /recipes/apricot-minutal
 ---
 
 {% capture recipe_content %}

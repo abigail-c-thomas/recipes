@@ -3,7 +3,7 @@ layout: recipe
 title: Meatballs in Hydrogarum
 tags: [era:roman_empire, source:apicius, meat]
 ingredients: [pork, fish sauce, defrutum, black pepper, camomile, lovage]
-permalink: /recipe-index/meatballs-in-hydrogarum.html
+permalink: /recipes/meatballs-in-hydrogarum
 ---
 
 {% capture recipe_content %}
@@ -14,15 +14,16 @@ permalink: /recipe-index/meatballs-in-hydrogarum.html
 
 ***idrogarata esicia sic facies**: teres piper ligusticum piretrum minimum. suffundes liquamen, temperas aquam cisterninam. dum inducet exinanies in caccabo, et cum esicia ad uaporem ignis pones et caleat et sic sorbendum inferes.*
 
+### English Translation
 **Stuffed meatballs**: Take fresh pheasant fat, harden it and cut it into small cubes. With pepper, fish sauce, and *defrutum*, enclose it in a meatball; and cook in fish sauce and water broth and serve.
 
 **How to make meatballs in hydrogarum**: Grind pepper, lovage, and a small amount of pyrethrum. Pour in fish sauce, mix with cistern water. While it's simmering, pour it into a pot, and place the meatballs in it over the heat of the fire so they become warm, and serve it as a broth.
 
-—*Apicius*, 2.2.1/2, c. 350
+—*Apicius*, 2.2.1/2, c. 4th century CE
 
 ___
 
-<!-- TODO: Add description paragraph about isicia and hydrogarum in Roman cuisine -->
+**Claude's intro:** This recipe showcases two important elements of Roman cuisine: *isicia* (meatballs or forcemeat) and *hydrogarum* (a broth made with the ubiquitous fish sauce known as *garum* or *liquamen*). Roman cooks frequently used meatballs in their cooking, often stuffing them with various ingredients as seen in this recipe. The *hydrogarum* broth, a mixture of water and fish sauce enhanced with herbs and spices, served as both a cooking medium and a flavorful sauce. These dishes represent the sophisticated approach to meat preparation in Roman haute cuisine, where texture, flavor combinations, and aromatic seasonings were carefully considered. The original recipe calls for pheasant fat, indicating this was likely a dish for the wealthy, though the adaptation with pork makes it more accessible for modern cooks.
 
 ### Ingredients
 *For meatballs*

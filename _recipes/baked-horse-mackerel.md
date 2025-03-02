@@ -3,7 +3,7 @@ layout: recipe
 title: Baked Horse-Mackerel
 tags: [era:greek, source:athenaeus, seafood, fish, cheese]
 ingredients: [fish, cheese, asafoetida, oregano, salt]
-permalink: /recipe-index/baked-horse-mackerel.html
+permalink: /recipes/baked-horse-mackerel
 ---
 
 {% capture recipe_content %}

@@ -3,7 +3,7 @@ layout: recipe
 title: Wild-Boar Style Ofellae
 tags: [era:roman_empire, source:apicius, meat, ofellae]
 ingredients: [pork, cumin, coriander, mustard, fennel, black pepper, honey, fish sauce, cornstarch]
-permalink: /recipe-index/wild-boar-ofellae.html
+permalink: /recipes/wild-boar-ofellae
 ---
 
 {% capture recipe_content %}
@@ -14,7 +14,7 @@ permalink: /recipe-index/wild-boar-ofellae.html
 
 ***Ofellae* in wild boar style**: They are seasoned with oil and fish sauce, and spices are added to them when they have been cooked. And while they are on the fire, seasoning is added to them, and they boil again: ground pepper, spices, honey, fish sauce; starch when they are already boiling. And they are also boiled without fish sauce and oil; they are cooked and thus <served> with pepper, the sauce described above is poured over them and thus they boil.
 
-—*Apicius*, 7.4.3, c. 350
+—*Apicius*, 7.4.3, c. 4th century CE
 
 ___
 

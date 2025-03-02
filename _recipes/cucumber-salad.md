@@ -3,7 +3,7 @@ layout: recipe
 title: Cucumber Salad
 tags: [source:apicius, era:roman_empire, salad, vegetable]
 ingredients: [cucumber, passum, white wine vinegar, fish sauce, pennyroyal, asafoetida, black pepper]
-permalink: /recipe-index/cucumber-salad.html
+permalink: /recipes/cucumber-salad
 ---
 
 {% capture recipe_content %}

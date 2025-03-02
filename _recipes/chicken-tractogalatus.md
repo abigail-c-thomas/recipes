@@ -3,13 +3,13 @@ layout: recipe
 title: Chicken Tractogalatus
 tags: [era:roman_empire, source:apicius, poultry, chicken, sauce]
 ingredients: [chicken, white wine, fish sauce, onion, coriander, olive oil, milk, semolina, honey, pepper, lovage, oregano, defrutum, cornstarch]
-permalink: /recipe-index/chicken-tractogalatus.html
+permalink: /recipes/chicken-tractogalatus
 ---
 
 {% capture recipe_content %}
 # Chicken Tractogalatus
 
-### Original Latin
+### Original Text
 *Pullus Tractogalatus: pullum quoques liquamine oleo uino, cui mittis fasciculum coriandri, cepam. deinde cum coctus fuerit leuabis eum de iure suo et mittis in caccabum nouum lac et salem modicum, mel et aquae minimum, id est tertiam partem. ponis ad ignem lentum ut tepescat; tractum confringis et mittis paulatim; assidue agitas ne uratur. pullum illic mittis integrum uel carptum, uersabis in lance, quem perfundis ius tale: piper ligusticum origanum; suffundis mel et defritum modicum et ius de suo sibi. temperas. in caccabulo facies ut bulliat. cum bullierit, amulo obligas et inferes.*
 
 ### English Translation

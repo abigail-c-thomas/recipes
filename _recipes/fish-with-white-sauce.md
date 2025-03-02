@@ -3,13 +3,13 @@ layout: recipe
 title: Fish with White Sauce
 tags: [era:roman_empire, source:galen, seafood, fish]
 ingredients: [salmon, leek, dill, olive oil, salt]
-permalink: /recipe-index/fish-with-white-sauce.html
+permalink: /recipes/fish-with-white-sauce
 ---
 
 {% capture recipe_content %}
 # Fish with White Sauce
 
-### Original Greek
+### Original Text
 <!-- This recipe is referenced in Galen's "On the Power of Foods" but the original Greek text isn't provided in the source material. -->
 
 —*Galen*, On the Power of Foods R18, c. 2nd century CE

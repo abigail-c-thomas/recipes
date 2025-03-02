@@ -3,7 +3,7 @@ layout: recipe
 title: Ostian Ofellae
 tags: [era:roman_empire, source:apicius, meat, ofellae]
 ingredients: [pork, black pepper, lovage, dill, cumin, asafoetida, bay berries, fish sauce, passum, cornstarch]
-permalink: /recipe-index/ostian-ofellae.html
+permalink: /recipes/ostian-ofellae
 ---
 
 {% capture recipe_content %}
@@ -14,11 +14,11 @@ permalink: /recipe-index/ostian-ofellae.html
 
 **Ostian *ofellae***: Mark out the *ofellae* on the skin, so that the skin remains intact. Grind pepper, lovage, dill, cumin, *laser*, and one bay berry; pour over fish sauce, mix well; pour into a square dish together with the *ofellae*. After they have rested in the marinade for two or three days, place them, skewer them crosswise, and put them in the oven. When they are cooked, separate the *ofellae* that you marked out, and grind pepper and lovage, pour over fish sauce and a little *passum* to make it sweet. When it has boiled, thicken the sauce with starch, drizzle over the *ofellae* and serve.
 
-—*Apicius*, 7.4.1, c. 350
+—*Apicius*, 7.4.1, c. 4th century CE
 
 ___
 
-<!-- TODO: Add description paragraph about ofellae and their significance in Roman cuisine -->
+**Claude's intro:** *Ofellae* were a popular type of meat preparation in Roman cuisine, consisting of small pieces of meat that were typically marinated, skewered, and roasted. This particular variation is named after the port city of Ostia, suggesting it may have been a local specialty or particularly popular there. The recipe exemplifies several hallmarks of sophisticated Roman cooking: a complex spice marinade, careful preparation techniques, and a sweet-savory sauce for serving. The long marination period of two to three days would have not only enhanced the flavor but also helped preserve the meat in the days before refrigeration. This dish highlights the Romans' fondness for pork and their mastery of combining spices, herbs, and sauces to create complex flavor profiles.
 
 ### Ingredients
 *For marinade:*

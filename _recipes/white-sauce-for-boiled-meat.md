@@ -3,13 +3,13 @@ layout: recipe
 title: White Sauce for Boiled Meat
 tags: [era:roman_empire, source:apicius, sauce, meat]
 ingredients: [beef, fish sauce, white wine, bread, onion, pine nuts, rue, honey, olive oil, black pepper]
-permalink: /recipe-index/white-sauce-for-boiled-meat.html
+permalink: /recipes/white-sauce-for-boiled-meat
 ---
 
 {% capture recipe_content %}
 # White Sauce for Boiled Meat
 
-### Original Latin
+### Original Text
 *Ius candidum in elixam: piper liquamen uinum rutam cepam nucleos conditum, modicum de buccellis maceratis unde stringat, oleum. cum coxerit, ius perfundis.*
 
 ### English Translation

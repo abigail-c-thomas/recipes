@@ -3,7 +3,7 @@ layout: recipe
 title: Alexandrian Gourd
 tags: [source:apicius, era:roman_empire, vegetable]
 ingredients: [squash, dates, pine nuts, cumin, coriander, mint, asafoetida, honey, fish sauce, olive oil, vinegar, defrutum]
-permalink: /recipes/alexandrian-gourd/
+permalink: /recipes/alexandrian-gourd
 ---
 
 {% capture recipe_content %}
@@ -14,7 +14,7 @@ permalink: /recipes/alexandrian-gourd/
 
 "Gourds in the Alexandrian manner: Boil and drain the gourds; sprinkle with salt; arrange in a pan. Grind pepper, cumin, coriander seed, fresh mint, laser root; add vinegar; add date flesh, grind; mix with honey, vinegar, fish sauce, reduced wine, and oil, and pour over the gourds. When they have boiled, sprinkle with pepper and serve."
 
-—*Apicius*, *De Re Coquinaria* 3.4.3, 4th-5th century CE
+—*Apicius*, 3.4.3, c. 4th century CE
 
 ___
 

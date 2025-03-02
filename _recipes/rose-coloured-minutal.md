@@ -3,13 +3,13 @@ layout: recipe
 title: Rose-coloured Minutal
 tags: [era:roman_empire, source:apicius, meat]
 ingredients: [pork, beef, wine, stock, fish sauce, olive oil, leeks, coriander, black pepper, lovage, oregano, passum, cornstarch]
-permalink: /recipe-index/rose-coloured-minutal.html
+permalink: /recipes/rose-coloured-minutal
 ---
 
 {% capture recipe_content %}
 # Rose-coloured Minutal
 
-### Original Latin
+### Original Text
 **aliter minutal dulce**: adicies \<in\> caccabum liquamen uinum oleum cocturam, porrum et coriandrum concisum. esicia minuta, spatulam porcinam coctam tessellatim concisam et in eundem caccabum inmities. dum coquitur teres piper ligusticum origanum; ius de suo sibi uino et passo temperabis. facies ut ferueat; cum ferbuerit tractam confringes et ex ea obligas; piper aspargis et inferes.
 
 **minutal ex rosis**: eodem iure supra scripto sed passum plus adicies.
@@ -19,11 +19,11 @@ permalink: /recipe-index/rose-coloured-minutal.html
 
 **Minutal of roses**: [Prepare] with the same sauce as written above, but add more *passum*.
 
-—*Apicius*, 4.3.7b-8, c. 350
+—*Apicius*, 4.3.7b-8, c. 4th century CE
 
 ___
 
-Claude's intro: This recipe refers back to the previous recipe (4.3.7) for a sweet minutal, which calls for liquamen (fish sauce), wine, olive oil, cooking broth, pork shoulder, leeks, and coriander, with a sauce of pepper, lovage, oregano, and wine. The "rose" in the name refers not to actual roses but to the pink or rose-colored appearance of the dish, which comes from the addition of extra *passum* (a sweet wine made from dried grapes). *Passum* would have given the dish both a sweeter flavor and a deeper reddish hue. Roman dishes were often named for their color, and this rose-colored minutal would have been both visually appealing and flavorful.
+**Claude's intro:** This recipe refers back to the previous recipe (4.3.7) for a sweet minutal, which calls for liquamen (fish sauce), wine, olive oil, cooking broth, pork shoulder, leeks, and coriander, with a sauce of pepper, lovage, oregano, and wine. The "rose" in the name refers not to actual roses but to the pink or rose-colored appearance of the dish, which comes from the addition of extra *passum* (a sweet wine made from dried grapes). *Passum* would have given the dish both a sweeter flavor and a deeper reddish hue. Roman dishes were often named for their color, and this rose-colored minutal would have been both visually appealing and flavorful.
 
 ### Ingredients
 - 1 kg {% include ingredient_link.html name="pork" %} shoulder, diced  

@@ -3,7 +3,7 @@ layout: recipe
 title: Barley with Linseed
 tags: [source:pliny, era:roman_empire, grain]
 ingredients: [pearl barley, linseed, coriander, salt]
-permalink: /recipe-index/barley-with-linseed.html
+permalink: /recipes/barley-with-linseed
 ---
 
 {% capture recipe_content %}

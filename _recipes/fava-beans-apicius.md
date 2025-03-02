@@ -3,14 +3,14 @@ layout: recipe
 title: Fava Beans with Mustard and Honey
 tags: [source:apicius, era:roman_empire, legume, beans]
 ingredients: [fava beans, mustard, honey, pine nuts, rue, cumin, vinegar]
-permalink: /recipe-index/fava-beans-apicius.html
+permalink: /recipes/fava-beans-apicius
 ---
 
 {% capture recipe_content %}
 
 # Fava Beans with Mustard and Honey
 
-### Original Latin
+### Original Text
 *Aliter: fabaciae ex sinapi trito melle nucleis ruta cumino; ex aceto inferuntur.*
 
 ### English Translation

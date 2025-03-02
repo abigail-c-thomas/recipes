@@ -3,13 +3,13 @@ layout: recipe
 title: Honey Fritters
 tags: [source:apicius, era:roman_empire, dessert]
 ingredients: [plain flour, milk, olive oil, honey, pepper]
-permalink: /recipe-index/honey-fritters.html
+permalink: /recipes/honey-fritters
 ---
 
 {% capture recipe_content %}
 # Honey Fritters
 
-### Original Latin
+### Original Text
 *Aliter dulcia: accipies similam, coques in aquam calidam ita ut durissimam pultem facias, deinde in patellam expandis. cum refrixerit, concidis quasi dulcia et frigis in oleo optimo. leuas, perfundis mel, piper aspargis et inferes. melius feceris, si lac pro aquam miseris.*
 
 ### English Translation

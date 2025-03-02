@@ -3,13 +3,13 @@ layout: recipe
 title: Cabbage with Leek
 tags: [era:roman_empire, source:apicius, vegetables, cabbage, leek]
 ingredients: [cabbage, leek, white wine, olive oil, fish sauce, cumin, coriander, black pepper, water]
-permalink: /recipe-index/cabbage-with-leek.html
+permalink: /recipes/cabbage-with-leek
 ---
 
 {% capture recipe_content %}
 # Cabbage with Leek
 
-### Original Latin
+### Original Text
 *Aliter: cauliculi elixati in patina conpositi condiuntur liquamine oleo mero; cui mittis ciminum minutum et piper satis ut dulce sit. ferbeat in caccabo, positis caulicula, quo ius praecedat. cum bene ferbuerit, ius facies piper tritum ciminum minutim uel silfi modicum, suffundes merum et liquamen temperabis in eo. mittis in caccabum supra cauliculos quos agitabis ut ad ius perveniant. cum bene temperaveris, tollis.*
 
 ### English Translation

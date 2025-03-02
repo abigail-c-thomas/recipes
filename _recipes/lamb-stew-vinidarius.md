@@ -3,13 +3,13 @@ layout: recipe
 title: Lamb Stew (Vinidarius)
 tags: [era:roman_empire, source:vinidarius, meat, lamb]
 ingredients: [lamb, white wine, fish sauce, olive oil, coriander, leek]
-permalink: /recipe-index/lamb-stew-vinidarius.html
+permalink: /recipes/lamb-stew-vinidarius
 ---
 
 {% capture recipe_content %}
 # Lamb Stew
 
-### Original Latin
+### Original Text
 *XXVII. agnu simplice: de agno decoriato facies cupadiola, lababis diligenter, mittes in cacabo. adicies oleum liquamen uinum porrum coriandrum cultro concisum. cum bullire ceperit, sepius agitabis et inferes.*
 
 ### English Translation
@@ -19,7 +19,7 @@ XXVII. Simple lamb: From a skinned lamb, make small cuts of meat, wash them care
 
 ___
 
-Claude's intro: Vinidarius was a late 5th-century Goth who compiled a collection of recipes known as the "Excerpts of Apicius by Vinidarius, an Illustrious Man." This collection preserved simplified versions of earlier Roman recipes during a period when the Western Roman Empire was transitioning to Gothic rule. This simple lamb stew represents the practical cooking style of the period, with straightforward instructions and common ingredients. Unlike earlier complex Apician recipes, Vinidarius' collection often features streamlined methods while maintaining the essential Mediterranean flavor profile of olive oil, fish sauce, wine, and herbs.
+**Claude's intro:** Vinidarius was a late 5th-century Goth who compiled a collection of recipes known as the "Excerpts of Apicius by Vinidarius, an Illustrious Man." This collection preserved simplified versions of earlier Roman recipes during a period when the Western Roman Empire was transitioning to Gothic rule. This simple lamb stew represents the practical cooking style of the period, with straightforward instructions and common ingredients. Unlike earlier complex Apician recipes, Vinidarius' collection often features streamlined methods while maintaining the essential Mediterranean flavor profile of olive oil, fish sauce, wine, and herbs.
 
 ### Ingredients
 - 800 g thinly sliced {% include ingredient_link.html name="lamb" %}

@@ -3,13 +3,13 @@ layout: recipe
 title: Flaccian Piglet
 tags: [era:roman_empire, source:apicius, meat, pork]
 ingredients: [pork, black pepper, lovage, caraway, celery seed, asafoetida, rue, fish sauce, wine, passum, olive oil, cornstarch]
-permalink: /recipe-index/flaccian-piglet.html
+permalink: /recipes/flaccian-piglet
 ---
 
 {% capture recipe_content %}
 # Flaccian Piglet
 
-### Original Latin
+### Original Text
 **porcellum Flacianum**: porcellum ornas in modum apri, sale asperges et in furnum mittes. dum coquitur adicies in mortarium piper ligusticum careum apii semen laseris radicem rutam uiridem, fricabis; suffundes liquamen, uino et passo temperabis, in caccabum; cum olei modicum ferueat; amulo obligas. porcellum coctum ab ossibus tanges, apii semen teres ita ut fiat puluis, asperges et inferes.
 
 ### English Translation

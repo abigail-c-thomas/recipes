@@ -3,7 +3,7 @@ layout: recipe
 title: Cold Sauce for Boiled Pork
 tags: [era:roman_empire, source:apicius, sauce, pork]
 ingredients: [caraway, pine nuts, mustard, black pepper, dill, oregano, vinegar, date syrup, fish sauce, honey, olive oil]
-permalink: /recipe-index/cold-sauce-for-boiled-pork.html
+permalink: /recipes/cold-sauce-for-boiled-pork
 ---
 
 {% capture recipe_content %}

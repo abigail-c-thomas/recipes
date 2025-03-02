@@ -3,13 +3,13 @@ layout: recipe
 title: Liver
 tags: [era:roman_empire, source:heidelberg_papyrus, offal]
 ingredients: [liver, olive oil, vinegar, coriander, thyme, asafoetida, salt]
-permalink: /recipe-index/liver.html
+permalink: /recipes/liver
 ---
 
 {% capture recipe_content %}
 # Liver
 
-### Original Greek
+### Original Text
 *Hπαρ καλὸν‧ τεμὼν ἀναποίει μετ᾽ ἐλαίου ἁλὶ, κόρι, θύμῳ, ὀπῳ, ὄξει‧ εἰς ὀβελίσκον‧ ὄπτα θερμὸν καὶ χρῳ.*
 
 ### English Translation
@@ -18,6 +18,8 @@ Good liver: slice it and mix with oil, salt, coriander, thyme, *opos*, and vineg
 —*Heidelberg Papyrus*, verso, column η, lines 65-68, c. 3rd century CE
 
 ___
+
+**Claude's intro:** This simple liver recipe comes from the Heidelberg Papyrus, a remarkable Greek document from the 3rd century CE that contains various culinary recipes among other texts. The recipe showcases the straightforward cooking methods of the time, with a focus on enhancing the natural flavor of liver with aromatic herbs and the distinctive flavor of asafoetida (called *opos* in Greek, which literally means "juice" or "sap"). This preparation method—marinating and then grilling on skewers—remains popular throughout Mediterranean cuisine even today. The Heidelberg Papyrus provides a rare direct glimpse into everyday cooking practices of the late Roman period in the eastern Mediterranean.
 
 ### Ingredients
 - 500 g pork {% include ingredient_link.html name="liver" %}

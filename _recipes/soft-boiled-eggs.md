@@ -3,7 +3,7 @@ layout: recipe
 title: Soft-boiled Eggs
 tags: [era:roman_empire, source:apicius, eggs]
 ingredients: [pine nuts, wine, honey, vinegar, fish sauce, lovage, black pepper, eggs]
-permalink: /recipe-index/soft-boiled-eggs.html
+permalink: /recipes/soft-boiled-eggs
 ---
 
 {% capture recipe_content %}
@@ -14,7 +14,7 @@ permalink: /recipe-index/soft-boiled-eggs.html
 
 **For soft-boiled eggs**: Pepper, lovage, soaked pine nuts; pour over honey and vinegar, mix with fish sauce.
 
-—*Apicius*, 7.17.3, c. 350
+—*Apicius*, 7.17.3, c. 4th century CE
 
 ___
 

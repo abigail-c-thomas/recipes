@@ -3,7 +3,7 @@ layout: recipe
 title: Parthian Lamb
 tags: [era:roman_empire, source:apicius, meat, lamb, parthian]
 ingredients: [lamb, onion, olive oil, red wine, fish sauce, vinegar, prunes, black pepper, rue, savory, asafoetida]
-permalink: /recipe-index/parthian-lamb.html
+permalink: /recipes/parthian-lamb
 ---
 
 {% capture recipe_content %}
@@ -14,7 +14,7 @@ permalink: /recipe-index/parthian-lamb.html
 
 <!-- TODO: Add English translation -->
 
-—*Apicius*, 8.6.10, c. 350
+—*Apicius*, 8.6.10, c. 4th century CE
 
 ___
 

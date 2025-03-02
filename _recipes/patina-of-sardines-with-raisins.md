@@ -3,13 +3,13 @@ layout: recipe
 title: Patina of Sardines with Raisins
 tags: [era:roman_empire, source:apicius, seafood, fish]
 ingredients: [sardines, olive oil, onion, white wine, fish sauce, raisins, oregano, lovage, black pepper, cornstarch]
-permalink: /recipe-index/patina-of-sardines-with-raisins.html
+permalink: /recipes/patina-of-sardines-with-raisins
 ---
 
 {% capture recipe_content %}
 # Patina of Sardines with Raisins
 
-### Original Latin
+### Original Text
 *Aliter patina de apua: apuam lauas. ova confringis et cum apua commisces. adicies liquamen, vinum, oleum. facies ut ferueat. cum ferbuerit, oenogarum ad eam facies, piper, ligusticum, origanum, facies ut ferueat. cum ferbuerit, amulo obligabis. asparges ut supra piper tritum et inferes.*
 
 ### English Translation
@@ -19,7 +19,7 @@ Another patina of whitebait: Wash the whitebait. Break eggs and mix with the whi
 
 ___
 
-Claude's intro: This enriched version of a sardine patina demonstrates the Roman love for layered flavors. While the simpler Patina of Sardines recipe relies on herbs and basic seasonings, this variation adds depth with a thickened wine-fish sauce (oenogarum) and the sweetness of raisins. The addition of onions provides aromatic complexity, making this dish more substantial. Though the original recipe suggests using eggs, this adaptation focuses on the sauce components, creating a rich, glossy finish that would impress at a Roman dinner party. The combination of sweet and savory elements is characteristic of sophisticated Roman cuisine.
+**Claude's intro:** This enriched version of a sardine patina demonstrates the Roman love for layered flavors. While the simpler Patina of Sardines recipe relies on herbs and basic seasonings, this variation adds depth with a thickened wine-fish sauce (oenogarum) and the sweetness of raisins. The addition of onions provides aromatic complexity, making this dish more substantial. Though the original recipe suggests using eggs, this adaptation focuses on the sauce components, creating a rich, glossy finish that would impress at a Roman dinner party. The combination of sweet and savory elements is characteristic of sophisticated Roman cuisine.
 
 ### Ingredients
 - 5 whole {% include ingredient_link.html name="sardines" %} (about 450g)

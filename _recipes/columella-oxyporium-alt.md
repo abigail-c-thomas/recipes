@@ -3,7 +3,7 @@ layout: recipe
 title: Columella's Alternate Oxyporium
 tags: [source:columella, era:roman_empire, salad, dressing, condiment]
 ingredients: [white pepper, mint, lovage, raisins, honey, red wine vinegar, fish sauce]
-permalink: /recipe-index/columella-oxyporium-alt.html
+permalink: /recipes/columella-oxyporium-alt
 ---
 
 {% capture recipe_content %}

@@ -3,13 +3,13 @@ layout: recipe
 title: Chicken in Dill Sauce
 tags: [era:roman_empire, source:apicius, poultry, chicken, sauce]
 ingredients: [chicken, dill seed, mustard seed, asafoetida, mint, fish sauce, white wine vinegar, date syrup, honey, defrutum, olive oil, pepper]
-permalink: /recipe-index/chicken-in-dill-sauce.html
+permalink: /recipes/chicken-in-dill-sauce
 ---
 
 {% capture recipe_content %}
 # Chicken in Dill Sauce
 
-### Original Latin
+### Original Text
 *Pullum elixo ius crudum: adicies in mortarium aneti semen mentam siccam laseris radicem; suffundis acetum; adicies careotam, refundis liquamen senapis modicum et oleum, defrito temperas et sic mittis.*
 
 *Pullum anetatum: mellis modice, liquamine temperabis. levas pullum coctum et sabano mundo siccas; caraxas et ius scissuris infundis ut conuiuat. et cum coniuerit assabis et suo sibi iure pinnis tangis. piper aspersum inferes.*

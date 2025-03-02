@@ -3,7 +3,7 @@ layout: recipe
 title: Sauteed Greens
 tags: [source:apicius, era:roman_empire, vegetable]
 ingredients: [spinach, chard, mustard greens, fish sauce, olive oil, white wine vinegar, pepper, cumin, mastic]
-permalink: /recipes/sauteed-greens/
+permalink: /recipes/sauteed-greens
 ---
 
 {% capture recipe_content %}
@@ -16,7 +16,7 @@ From Apicius 3.16b:
 
 "Wild greens: with fish sauce, oil, vinegar, by hand or in a pan, with pepper, cumin, and mastic berries."
 
-—*Apicius*, *De Re Coquinaria* 3.16b, 4th-5th century CE
+—*Apicius*, 3.16b, c. 4th century CE
 
 ___
 

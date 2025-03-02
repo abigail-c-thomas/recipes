@@ -3,13 +3,13 @@ layout: recipe
 title: Cabbage Salad
 tags: [source:cato, source:oribasius, era:roman_empire, salad, vegetable]
 ingredients: [cabbage, rue, coriander, asafoetida, honey, red wine vinegar, salt]
-permalink: /recipe-index/cabbage-salad.html
+permalink: /recipes/cabbage-salad
 ---
 
 {% capture recipe_content %}
 # Cabbage Salad
 
-### Original Latin
+### Original Text
 *Brassicam macerato, postea aqua commutato; diu in aqua macerato; postea cum salis sextario, coriandri semine, cumini quantum voles, dragon, silfi, aceto macerato; post id oleum superstillato;*
 
 ### English Translation

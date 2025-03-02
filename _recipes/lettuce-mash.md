@@ -3,22 +3,23 @@ layout: recipe
 title: Lettuce Mash
 tags: [source:apicius, era:roman_empire, vegetable]
 ingredients: [lettuce, onion, baking soda, pepper, lovage, celery seed, mint, fish sauce, olive oil, white wine]
-permalink: /recipes/lettuce-mash/
+permalink: /recipes/lettuce-mash
 ---
 
 {% capture recipe_content %}
 # Lettuce Mash
 
 ### Original Text
-> Holus molle ex foliis lactucarum: cum cepis quoques ex aqua nitrata; expressum concides minutatim; in mortario teres piper ligusticum apii semen mentam siccam cepam liquamen oleum et vinum.
+*Holus molle ex foliis lactucarum: cum cepis quoques ex aqua nitrata; expressum concides minutatim; in mortario teres piper ligusticum apii semen mentam siccam cepam liquamen oleum et vinum.*
 
-"Soft vegetable from lettuce leaves: cook with onions in water with soda; drain and chop finely; grind in a mortar pepper, lovage, celery seed, dried mint, onion, fish sauce, oil, and wine."
+### English Translation
+Soft vegetable from lettuce leaves: cook with onions in water with soda; drain and chop finely; grind in a mortar pepper, lovage, celery seed, dried mint, onion, fish sauce, oil, and wine.
 
-—*Apicius*, *De Re Coquinaria* 3.15.3, 4th-5th century CE
+—*Apicius*, 3.15.3, c. 4th century CE
 
 ___
 
-This unusual preparation of lettuce transforms the typically crisp leaves into a soft, flavorful puree. The Romans often cooked vegetables that we typically eat raw today, and this recipe shows their creativity with common ingredients.
+**Claude's intro:** This unusual preparation of lettuce transforms the typically crisp leaves into a soft, flavorful puree. The Romans often cooked vegetables that we typically eat raw today, and this recipe shows their creativity with common ingredients. The use of baking soda (representing the ancient natron) helps preserve the bright green color, while the mixture of herbs, fish sauce, and wine creates a complex flavor profile typical of Roman cuisine.
 
 ### Ingredients
 - 1 head of {% include ingredient_link.html name="lettuce" %}  

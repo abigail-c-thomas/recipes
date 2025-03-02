@@ -3,13 +3,13 @@ layout: recipe
 title: Prawns in Cumin Sauce
 tags: [era:roman_empire, source:apicius, seafood, sauce]
 ingredients: [prawns, black pepper, lovage, parsley, cumin, honey, fish sauce, vinegar, tejpat]
-permalink: /recipe-index/prawns-in-cumin-sauce.html
+permalink: /recipes/prawns-in-cumin-sauce
 ---
 
 {% capture recipe_content %}
 # Prawns in Cumin Sauce
 
-### Original Latin
+### Original Text
 *In locusta elixa: cum cuminato bene inferes: piper ligusticum petrosilinum mentam siccam, cuminum plusculum, mel acetum liquamen. si uoles, folium et malabatrum addes.*
 
 ### English Translation

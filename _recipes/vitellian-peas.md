@@ -3,7 +3,7 @@ layout: recipe
 title: Vitellian Peas
 tags: [source:apicius, era:roman_empire, legume, peas]
 ingredients: [split peas, lovage, ginger, egg yolks, honey, fish sauce, wine, vinegar, olive oil]
-permalink: /recipes/vitellian-peas/
+permalink: /recipes/vitellian-peas
 ---
 
 {% capture recipe_content %}
@@ -14,7 +14,7 @@ permalink: /recipes/vitellian-peas/
 
 "Vitellian peas or beans: Cook the peas and puree them. Grind pepper, lovage, and ginger, and add hard-boiled egg yolks over these seasonings; grind 3 ounces of honey, fish sauce, wine, and vinegar. Put all of these in a pot along with the seasonings you have ground. Add oil and bring to a boil. Season the peas and puree them; if they are too rough, add honey and serve."
 
-—*Apicius*, *De Re Coquinaria* 5.3.5, 4th-5th century CE
+—*Apicius*, 5.3.5, c. 4th century CE
 
 ___
 

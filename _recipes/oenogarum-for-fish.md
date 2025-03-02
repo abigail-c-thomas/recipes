@@ -3,13 +3,13 @@ layout: recipe
 title: Oenogarum for Fish
 tags: [era:roman_empire, source:apicius, seafood, sauce]
 ingredients: [passum, defrutum, honey, fish sauce, rue, black pepper]
-permalink: /recipe-index/oenogarum-for-fish.html
+permalink: /recipes/oenogarum-for-fish
 ---
 
 {% capture recipe_content %}
 # Oenogarum for Fish
 
-### Original Latin
+### Original Text
 *Oenogarum in tubera: piper, ligusticum, coriandrum, rutam, liquamen, mel, vinum et oleum modice.*
 
 ### English Translation
@@ -19,7 +19,7 @@ Wine-fish sauce for sea bream: pepper, lovage, coriander, rue, fish sauce, honey
 
 ___
 
-Claude's intro: *Oenogarum* was a popular sauce in Roman cuisine that combined wine with *garum* (fish sauce), creating a rich, umami-flavored condiment. This particular variation for fish includes herbs and honey, resulting in a complex sweet-savory profile that would have complemented the delicate flavor of sea bream beautifully. The combination was so favored in Roman cuisine that variations of *oenogarum* appear throughout Apicius for different types of fish and even meat dishes. This versatile sauce demonstrates the Roman fondness for balancing sweet, sour, savory, and aromatic flavors in their cooking.
+**Claude's intro:** *Oenogarum* was a popular sauce in Roman cuisine that combined wine with *garum* (fish sauce), creating a rich, umami-flavored condiment. This particular variation for fish includes herbs and honey, resulting in a complex sweet-savory profile that would have complemented the delicate flavor of sea bream beautifully. The combination was so favored in Roman cuisine that variations of *oenogarum* appear throughout Apicius for different types of fish and even meat dishes. This versatile sauce demonstrates the Roman fondness for balancing sweet, sour, savory, and aromatic flavors in their cooking.
 
 ### Ingredients
 - 2 Tb {% include ingredient_link.html name="passum" %}

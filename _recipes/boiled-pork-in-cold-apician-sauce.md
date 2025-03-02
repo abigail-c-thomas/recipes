@@ -3,7 +3,7 @@ layout: recipe
 title: Boiled Pork in Cold Apician Sauce
 tags: [era:roman_empire, source:apicius, meat, pork]
 ingredients: [pork, black pepper, lovage, rue, mint, coriander, white wine, fish sauce, honey]
-permalink: /recipe-index/boiled-pork-in-cold-apician-sauce.html
+permalink: /recipes/boiled-pork-in-cold-apician-sauce
 ---
 
 {% capture recipe_content %}

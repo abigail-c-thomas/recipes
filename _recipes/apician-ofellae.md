@@ -3,7 +3,7 @@ layout: recipe
 title: Apician Ofellae
 tags: [era:roman_empire, source:apicius, meat, ofellae]
 ingredients: [pork, passum, fish sauce, olive oil, tiger nuts, cumin, lovage, black pepper]
-permalink: /recipe-index/apician-ofellae.html
+permalink: /recipes/apician-ofellae
 ---
 
 {% capture recipe_content %}
@@ -14,7 +14,7 @@ permalink: /recipe-index/apician-ofellae.html
 
 **Apician ofellae**: Bone the ofellae, roll them into a round shape, skewer them, and place them in the oven. When partly cooked, take them out; to remove their moisture, dry them on a grill over a slow fire so they don't burn. Grind pepper, lovage, tiger nuts, and cumin; mix with fish sauce and *passum*. Put the ofellae in a pot with this sauce. When they are cooked, remove them and drain off the sauce, sprinkle with pepper and serve. If they are fatty, when you skewer them, remove the skin. You can also make this kind of ofellae from belly meat.
 
-—*Apicius*, 7.4.2, c. 350
+—*Apicius*, 7.4.2, c. 4th century CE
 
 ___
 

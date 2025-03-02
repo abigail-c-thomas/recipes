@@ -3,13 +3,13 @@ layout: recipe
 title: Tuna Salad
 tags: [era:roman_empire, source:apicius, seafood, fish]
 ingredients: [tuna, black pepper, lovage, thyme, rue, date syrup, honey, egg, wine, vinegar, defrutum, olive oil]
-permalink: /recipe-index/tuna-salad.html
+permalink: /recipes/tuna-salad
 ---
 
 {% capture recipe_content %}
 # Tuna Salad
 
-### Original Latin
+### Original Text
 *Sarda ita fit: coquitur sarda et exossatur. teritur pipere ligustico timo origano ruta careota melle, et in uasculo ouis incisis. ornatur inpensa: uinum modice acetum defritum et oleum uiridem.*
 
 ### English Translation

@@ -3,22 +3,23 @@ layout: recipe
 title: Libum
 tags: [source:cato, era:roman_republic, cake, dessert]
 ingredients: [ricotta, whole wheat flour, egg, bay leaves, olive oil, honey]
-permalink: /recipes/libum/
+permalink: /recipes/libum
 ---
 
 {% capture recipe_content %}
 # Libum
 
 ### Original Text
-> Libum hoc modo facito. Casei P. II bene disterat in mortario. Ubi bene distriverit, farinae siligineae libram aut, si voles tenerius esse, selibram similaginis eodem indito permiscetoque cum caseo bene. Ovum unum addito et una permisceto bene. Inde panem facito, folia subdito, in foco caldo sub testu coquito leniter.
+*Libum hoc modo facito. Casei P. II bene disterat in mortario. Ubi bene distriverit, farinae siligineae libram aut, si voles tenerius esse, selibram similaginis eodem indito permiscetoque cum caseo bene. Ovum unum addito et una permisceto bene. Inde panem facito, folia subdito, in foco caldo sub testu coquito leniter.*
 
-"Make libum by this method: Break up two pounds of cheese well in a mortar. When this is done well, add a pound of wheat flour or, if you want it to be more delicate, a half-pound of fine flour, and mix it thoroughly with the cheese. Add one egg and mix together well. Make a loaf of this, place it on leaves, and cook slowly on a hot hearth under an earthen pot."
+### English Translation
+Make libum by this method: Break up two pounds of cheese well in a mortar. When this is done well, add a pound of wheat flour or, if you want it to be more delicate, a half-pound of fine flour, and mix it thoroughly with the cheese. Add one egg and mix together well. Make a loaf of this, place it on leaves, and cook slowly on a hot hearth under an earthen pot.
 
 —*Cato*, *De Agricultura* 75, 2nd century BCE
 
 ___
 
-Libum was a simple cake often used as an offering to household gods during Roman religious ceremonies. Its base of fresh cheese and flour creates a dense, moist cake similar to modern cheesecake. While Cato's original recipe doesn't specify serving with honey, most historical sources associate libum with honey, which adds a welcome sweetness to the mild cake.
+**Claude's intro:** Libum was a simple cake often used as an offering to household gods during Roman religious ceremonies. Its base of fresh cheese and flour creates a dense, moist cake similar to modern cheesecake. While Cato's original recipe doesn't specify serving with honey, most historical sources associate libum with honey, which adds a welcome sweetness to the mild cake. This recipe comes from Cato's De Agricultura (On Agriculture), a practical manual written in the 2nd century BCE that covers various aspects of Roman rural life, including cooking and food preservation.
 
 ### Ingredients
 - 250g {% include ingredient_link.html name="ricotta" %}  

@@ -3,13 +3,13 @@ layout: recipe
 title: Endives or Lettuce
 tags: [source:apicius, era:roman_empire, salad, vegetable]
 ingredients: [lettuce, endive, onion, olive oil, fish sauce]
-permalink: /recipe-index/endives-or-lettuce.html
+permalink: /recipes/endives-or-lettuce
 ---
 
 {% capture recipe_content %}
 # Endives or Lettuce
 
-### Original Latin
+### Original Text
 *Intuba ex liquamine et oleo modico medere cepa concisa. Pro lactucis vero hieme intibe ex embammate vel melle et aceto acri.*
 
 ### English Translation

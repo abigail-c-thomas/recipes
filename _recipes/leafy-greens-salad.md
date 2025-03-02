@@ -3,22 +3,23 @@ layout: recipe
 title: Leafy Greens Salad
 tags: [source:apicius, era:roman_empire, salad, vegetable]
 ingredients: [lettuce, rocket, endive, chicory, olive oil, fish sauce, red wine vinegar]
-permalink: /recipes/leafy-greens-salad/
+permalink: /recipes/leafy-greens-salad
 ---
 
 {% capture recipe_content %}
 # Leafy Greens Salad
 
 ### Original Text
-> Herbae rusticae: liquamine oleo aceto a manu vel in patina piper cumino bacis lentisci.
+*Herbae rusticae: liquamine oleo aceto a manu vel in patina piper cumino bacis lentisci.*
 
-"Wild greens: with fish sauce, oil, vinegar, by hand or in a dish, with pepper, cumin, and mastic berries."
+### English Translation
+Wild greens: with fish sauce, oil, vinegar, by hand or in a dish, with pepper, cumin, and mastic berries.
 
-—*Apicius*, *De Re Coquinaria* 3.16, 4th-5th century CE
+—*Apicius*, 3.16, c. 4th century CE
 
 ___
 
-This simple Roman salad dressing showcases the fundamental flavors of Mediterranean cuisine. The combination of fish sauce (liquamen), olive oil, and vinegar forms the basis of many ancient Roman dressings, much like modern vinaigrettes.
+**Claude's intro:** This simple Roman salad dressing showcases the fundamental flavors of Mediterranean cuisine. The combination of fish sauce (liquamen), olive oil, and vinegar forms the basis of many ancient Roman dressings, much like modern vinaigrettes. Romans enjoyed a variety of fresh greens dressed with this distinctive combination, appreciating both the flavor and the health benefits attributed to raw vegetables.
 
 ### Ingredients
 - Head {% include ingredient_link.html name="lettuce" %}, {% include ingredient_link.html name="rocket" %}, {% include ingredient_link.html name="endive" %}s, {% include ingredient_link.html name="chicory" %}, or other leafy greens  

@@ -3,7 +3,7 @@ layout: recipe
 title: Rock Melon
 tags: [source:apicius, era:roman_empire, fruit]
 ingredients: [melon, mint, pennyroyal, honey, vinegar, fish sauce, pepper]
-permalink: /recipes/rock-melon/
+permalink: /recipes/rock-melon
 ---
 
 {% capture recipe_content %}
@@ -14,7 +14,7 @@ permalink: /recipes/rock-melon/
 
 "Melons and rock melons: pepper, pennyroyal, honey or raisin wine, fish sauce, vinegar. Sometimes silphium is also added."
 
-—*Apicius*, *De Re Coquinaria* 3.7, 4th-5th century CE
+—*Apicius*, 3.7, c. 4th century CE
 
 ___
 

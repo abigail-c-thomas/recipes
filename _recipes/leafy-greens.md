@@ -3,13 +3,13 @@ layout: recipe
 title: Wild Herbs Salad
 tags: [era:roman_empire, source:apicius, salad, vegetables, herbs]
 ingredients: [olive oil, fish sauce, vinegar, black pepper, cumin, mastic]
-permalink: /recipe-index/leafy-greens.html
+permalink: /recipes/leafy-greens
 ---
 
 {% capture recipe_content %}
 # Wild Herbs Salad
 
-### Original Latin
+### Original Text
 *Herbae rusticae: liquamine oleo aceto a manu uel in patina piper cumino bacis lentisci.*
 
 ### English Translation
@@ -19,7 +19,7 @@ For country herbs: [served] with fish sauce, oil and vinegar by hand or in a dis
 
 ___
 
-Claude's intro: This rustic herb salad demonstrates the Romans' approach to serving foraged wild greens, which were an important part of their diet. The recipe showcases the typical Roman dressing of fish sauce, oil, and vinegar - a combination that formed the foundation of many Roman dishes. The addition of pepper, cumin, and mastic berries (resin from the lentisk tree) provides aromatic complexity. Wild herbs and greens were valued not only for their flavors but also for their medicinal properties, reflecting the Roman understanding of food as medicine. The mention of serving "by hand" likely refers to eating these herbs raw as we would a modern salad.
+**Claude's intro:** This rustic herb salad demonstrates the Romans' approach to serving foraged wild greens, which were an important part of their diet. The recipe showcases the typical Roman dressing of fish sauce, oil, and vinegar - a combination that formed the foundation of many Roman dishes. The addition of pepper, cumin, and mastic berries (resin from the lentisk tree) provides aromatic complexity. Wild herbs and greens were valued not only for their flavors but also for their medicinal properties, reflecting the Roman understanding of food as medicine. The mention of serving "by hand" likely refers to eating these herbs raw as we would a modern salad.
 
 ### Ingredients
 - A mixture of wild herbs and greens (sorrel, purslane, dandelion, etc.)

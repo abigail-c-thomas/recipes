@@ -3,7 +3,7 @@ layout: recipe
 title: Lentils
 tags: [source:apicius, era:roman_empire, legume, lentils]
 ingredients: [red lentils, leek, coriander, pennyroyal, asafoetida, mint, rue, vinegar, honey, fish sauce, wine, defrutum, olive oil, cornstarch]
-permalink: /recipe-index/apicius-lentils.html
+permalink: /recipes/apicius-lentils
 ---
 
 {% capture recipe_content %}

@@ -3,13 +3,13 @@ layout: recipe
 title: Patina of Sardines
 tags: [era:roman_empire, source:apicius, seafood, fish]
 ingredients: [sardines, wine, olive oil, fish sauce, oregano, rue, black pepper]
-permalink: /recipe-index/patina-of-sardines.html
+permalink: /recipes/patina-of-sardines
 ---
 
 {% capture recipe_content %}
 # Patina of Sardines
 
-### Original Latin
+### Original Text
 *Patina de apua: abuam lauas, ex oleo maceras; in cummana conpones, adicies oleum liquamen uinum; alligas fasciculos rute et origani et subinde fasciculos apababdiabis; cum cocta fuerit proicies fasciculos et piper asperges et inferes.*
 
 ### English Translation

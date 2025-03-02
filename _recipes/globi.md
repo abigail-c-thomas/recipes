@@ -3,13 +3,13 @@ layout: recipe
 title: Globi
 tags: [source:cato, era:roman_republic, dessert]
 ingredients: [ricotta cheese, semolina, bread flour, lard, honey, poppy seeds]
-permalink: /recipe-index/globi.html
+permalink: /recipes/globi
 ---
 
 {% capture recipe_content %}
 # Globi
 
-### Original Latin
+### Original Text
 *Globos sic facito. Caseum cum alica ad eundem modum misceto. Inde quantos uoles facere facito. In ahenum caldum unguen indito. Singulos aut binos coquito uersatoque crebro duabus rudibus, coctos eximito, eos melle unguito, papauer infriato, ita ponito.*
 
 ### English Translation

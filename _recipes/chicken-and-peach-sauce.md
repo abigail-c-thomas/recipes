@@ -3,13 +3,13 @@ layout: recipe
 title: Boiled Chicken and Gourd with Peach Sauce
 tags: [era:roman_empire, source:apicius, poultry, chicken, sauce, vegetables, fruit]
 ingredients: [chicken, butternut squash, peaches, pepper, asafoetida, caraway, cumin, mint, pennyroyal, coriander, celery, date syrup, honey, white wine, fish sauce, olive oil, vinegar]
-permalink: /recipe-index/chicken-and-peach-sauce.html
+permalink: /recipes/chicken-and-peach-sauce
 ---
 
 {% capture recipe_content %}
 # Boiled Chicken and Gourd with Peach Sauce
 
-### Original Latin
+### Original Text
 *In persicis: pullum lavas, exossas, eo, deinde cucurbitas elixas minutatim concidis et in mortario fricabis cum medulla et cerebello pullino, piper, careum modicum, suffundis liquamen ita, ut permisceantur sibi ita contusis. persica enucleata in frictorio concoques et teres. deinde cum supradicta impensa temperabis. pullum refundis, ut repleatur, omento teges, in caccabum mittis. omnibus liquaminibus asperges.*
 
 ### English Translation

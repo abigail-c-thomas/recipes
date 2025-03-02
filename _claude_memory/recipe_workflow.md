@@ -47,9 +47,10 @@ Before adding a new recipe:
      - Don't add or remove words like "Apicius" or "Apician" - copy exactly what's in the source
    - {{TAGS}} - Appropriate tags (e.g., "era:roman_empire, source:apicius, vegetable")
    - {{INGREDIENTS}} - List of main ingredients (e.g., "squash, dates, pine nuts, etc.")
-   - {{PERMALINK}} - URL slug that MUST match the filename (e.g., "/recipe-index/apicius-lentils.html" for "apicius-lentils.md")
-     - IMPORTANT: Even if the title is simple (e.g., "Lentils"), keep the filename and permalink specific (e.g., "apicius-lentils.md" and "/recipe-index/apicius-lentils.html")
+   - {{PERMALINK}} - URL slug that MUST match the filename WITHOUT .html extension (e.g., "/recipe-index/apicius-lentils" for "apicius-lentils.md")
+     - IMPORTANT: Even if the title is simple (e.g., "Lentils"), keep the filename and permalink specific (e.g., "apicius-lentils.md" and "/recipe-index/apicius-lentils")
      - This prevents clashes if multiple sources have recipes with the same name
+     - NEVER include .html extension in the permalink
    - {{DISPLAY_TITLE}} - Title for display (same as {{TITLE}})
    - {{LANGUAGE}} - Original language ("Latin" or "Greek")
    - {{SOURCE}} - Source name (e.g., "Apicius")
@@ -58,6 +59,11 @@ Before adding a new recipe:
      - Use just "Apicius" without additional titles
    - {{SOURCE_REFERENCE}} - Reference (e.g., "3.4.3")
    - {{SOURCE_DATE}} - Approximate date (e.g., "4th century CE")
+     - For Apicius, always use "c. 4th century CE" (not "350" or "4th-5th century")
+     - For Cato, use "2nd century BCE"
+     - For Vinidarius, use "c. 500" or "late 5th century CE"
+     - For Athenaeus, use "c. 200" or "early 3rd century CE"
+     - For Heidelberg Papyrus, use "c. 3rd century CE"
 
 ## Step 5: Copy Content EXACTLY
 
@@ -72,9 +78,15 @@ Before adding a new recipe:
 ## Step 6: Add Original Text and Translation
 
 1. If original text was found in Step 3, add it to the "### Original Text" section
-2. Format original text in italics
+   - Use this heading for all original language texts, whether Latin, Greek, or other
+   - Always follow with a separate "### English Translation" heading
+2. Format original text in italics by surrounding with asterisks (*text*)
 3. Add an English translation underneath (not in italics)
 4. Keep special terms like *defrutum* in italics even in the translation
+5. Check that the date format matches the standard for the source:
+   - For Apicius, always use "—*Apicius*, [reference], c. 4th century CE"
+   - For Cato, use "—*Cato*, *De Agricultura* [reference], 2nd century BCE"
+   - For other sources, follow the appropriate format with consistent dating
 
 ## Step 7: Write an Introduction
 
@@ -95,11 +107,20 @@ Before adding a new recipe:
 
 Before considering a recipe complete, verify:
 - [F] Format is correct (follows template exactly)
+  - Correct permalink format (/recipe-index/recipe-name without .html)
+  - "Original Text" and "English Translation" with proper headings
+  - Proper date format for the source
+  - Correct ingredient links with {% include ingredient_link.html name="ingredient" %}
 - [T] Text matches raw recipe exactly
 - [O] Original source text is included (when available)
+  - For Apicius, Cato, Vinidarius, check original text is present and italicized
+  - For Greek sources, check if original text is available or note its absence
 - [TR] Translation is included (when available)
-- [I] Introduction with "Claude's intro:" is added
+  - Check that translation is properly formatted under its own heading
+- [I] Introduction with "**Claude's intro:**" is added (bold formatting is important)
+  - Intro should cover historical context, significance, and interesting aspects of the dish
 - [D] Duplicate check was performed
+  - Especially important for recipes that might appear in multiple sources
 
 ## Recipe Status Codes (for tracking)
 
