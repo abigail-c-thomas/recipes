@@ -20,7 +20,7 @@ From Apicius 3.16b:
 
 ___
 
-This simple recipe showcases Roman cooking techniques for leafy greens. While the original recipe was likely intended for wild foraged greens common in ancient Italy, it works beautifully with a variety of modern greens like spinach, chard, or mustard greens.
+**Claude's intro:** This simple recipe showcases Roman cooking techniques for leafy greens. While the original recipe was likely intended for wild foraged greens common in ancient Italy (herbae rusticae), it works beautifully with a variety of modern greens like spinach, chard, or mustard greens. The combination of fish sauce, vinegar, and spices reflects typical Roman flavor profiles, while the inclusion of mastic—an aromatic resin from the Mediterranean—adds a distinctive piney note rarely used in modern Western cooking. This preparation reveals how Romans elevated simple vegetables with complex seasonings, creating dishes that were both nutritious and flavorful.
 
 ### Ingredients
 - 500 g fresh leafy vegetables (e.g., {% include ingredient_link.html name="spinach" %}, {% include ingredient_link.html name="chard" %}, {% include ingredient_link.html name="mustard greens" %})  

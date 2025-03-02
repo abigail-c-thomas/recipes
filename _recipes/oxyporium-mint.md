@@ -19,7 +19,7 @@ permalink: /recipes/oxyporium-mint
 
 ___
 
-This third variation of *oxyporium* features mint and lovage, giving it a fresher and more herbaceous profile than other versions. Like other *oxyporium* recipes, it was used both as a digestive aid and a condiment, particularly for foods the Romans considered difficult to digest. Columella's inclusion of both this and the previous *oxyporium* recipe in his agricultural treatise indicates the importance of such medicinal-culinary preparations in Roman households. The addition of raisins provides a subtle sweetness that balances the sharpness of the vinegar and aromatic herbs.
+**Claude's intro:** This third variation of *oxyporium* features mint and lovage, giving it a fresher and more herbaceous profile than other versions. Like other *oxyporium* recipes, it was used both as a digestive aid and a condiment, particularly for foods the Romans considered difficult to digest. Columella's inclusion of both this and the previous *oxyporium* recipe in his agricultural treatise indicates the importance of such medicinal-culinary preparations in Roman households. The addition of raisins provides a subtle sweetness that balances the sharpness of the vinegar and aromatic herbs.
 
 ### Ingredients
 - ½ tsp white {% include ingredient_link.html name="pepper" %}

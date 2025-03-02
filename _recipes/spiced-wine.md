@@ -19,7 +19,7 @@ draft: true
 
 ___
 
-Notes on spiced wine, including that you can try this spicing method on other beverages. 
+**Claude's intro:** This elaborate recipe for *conditum paradoxum* (extraordinary spiced wine) demonstrates the Roman appreciation for complex flavored wines. Opening the Apicius cookbook, this recipe showcases the Roman talent for combining unexpected ingredients—honey, pepper, saffron, and dates—to create a sophisticated beverage. The meticulous cooking process described in the original text highlights the importance Romans placed on proper preparation techniques. While modern mulled wines typically focus on warming spices like cinnamon and cloves, this ancient version's inclusion of black pepper and mastic creates a distinctly Roman flavor profile that balances sweet, spicy, and aromatic elements. This would have been served as both a pleasurable drink and a digestive aid.
 
 ### Ingredients
  - 1 bottle medium-dry {% include ingredient_link.html name="wine" %}

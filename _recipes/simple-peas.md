@@ -10,8 +10,17 @@ permalink: /recipes/simple-peas
 
 # Simple Roman Peas
 
-## Roman Dish from *Apicius*
-*Apicius 5.3.7*
+### Original Text
+*aliter pisam siue fabam: despumatam subtrito lasare Partico liquamen et careno condies. oleum modice superfundis et inferes.*
+
+### English Translation
+Another preparation for peas or beans: When skimmed, season with ground Parthian *laser* (asafoetida), fish sauce, and *caroenum* (reduced wine). Pour a moderate amount of oil over and serve.
+
+—*Apicius*, 5.3.7, c. 4th century CE
+
+___
+
+**Claude's intro:** This minimalist pea recipe from Apicius demonstrates the straightforward approach Romans sometimes took with everyday legumes. While many Roman recipes feature complex combinations of herbs and spices, this version relies on just a few powerful flavoring agents. The asafoetida (called laser Particum in Latin) was an expensive imported resin that added a distinctive pungent, savory note similar to garlic and onions. Combined with fish sauce (garum) and reduced grape must (defrutum), these few ingredients transformed simple peas into a dish with depth and complexity. This recipe shows the Roman talent for balancing simplicity with powerful flavors.
 
 ### Ingredients
 - 250g split {% include ingredient_link.html name="peas" %}  
@@ -28,12 +37,6 @@ permalink: /recipes/simple-peas
 
 ### Notes
 This simple Roman pea dish comes from Apicius. It features asafoetida (silphium/laser), which was a popular seasoning in Roman cooking that imparts a pungent, savory flavor similar to garlic and onions. The combination with fish sauce, reduced wine (defrutum), and olive oil creates a rich and flavorful dish despite its simplicity.
-
-### Original Text Text
-> Aliter pisam siue fabam: despumatam subtrito lasare Partico liquamen et careno condies. oleum modice superfundis et inferes.
-
-### Translation
-"Another recipe for peas or beans: Once skimmed, season with ground Parthian laser [asafoetida], fish sauce, and reduced wine. Pour a little oil on top and serve."
 
 {% endcapture %}
 {{ recipe_content | markdownify }}

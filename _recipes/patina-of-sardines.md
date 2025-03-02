@@ -19,6 +19,8 @@ Patina of whitebait: Wash the whitebait and marinate in oil. Arrange in an earth
 
 ___
 
+**Claude's intro:** This simple preparation of small fish is a classic example of Roman fish cookery from Apicius. The patina was a versatile cooking vessel in Roman kitchens, used for various dishes including egg-based casseroles and fish preparations like this one. The technique of infusing herbs in the cooking liquid was common in Roman cuisine, allowing the delicate flavor of fresh fish to be enhanced by aromatics without overwhelming it. This dish would have been enjoyed as part of a seafood course in a formal Roman meal.
+
 ### Ingredients
 - 5 whole {% include ingredient_link.html name="sardines" %} (about 450g)
 - 100 ml {% include ingredient_link.html name="white wine" %}

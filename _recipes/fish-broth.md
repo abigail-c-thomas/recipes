@@ -10,10 +10,24 @@ permalink: /recipes/fish-broth
 # Fish Broth
 
 ### Original Text
-*Ζωμὸς ἰχθύος‧ εἰ<ς θυίας ἔμβαλε> χόνδρον. κόρι. πρ<άσον...........> κρόμμια, ἄνηθον <........ ... ὠ-> κιμον, ἄννησον λε<πτὸν ........ . > ἕψε ἐπ᾽ ἀνθράκων κα̣<ὶ καταβρέ-> χων ὕδατι. οἴνῳ, γάρῳ, <ὄξει συμμε-> μειγμένοις‧ ὅταν ἑψ<εθῇ καὶ μέλ-> λῃς αἰρειν, ἐπίπασσε πίπερ <λεῖ-> ον‧ μετ᾽ ὄξους δρειμέως κα<θιστ-> ᾶσιν ὀλίγον συμπεσεῖν, εἶ<τα με-> τ<αί>ρουσιν ἀπὸ τοῦ πυρός‧*
+*Ζωμὸς ἰχθύος‧ εἰ<ς θυίας ἔμβαλε>
+χόνδρον. κόρι. πρ<άσον...........>
+κρόμμια, ἄνηθον <........ ... ὠ->
+κιμον, ἄννησον λε<πτὸν ........ . >
+ἕψε ἐπ᾽ ἀνθράκων κα̣<ὶ καταβρέ->
+χων ὕδατι. οἴνῳ, γάρῳ, <ὄξει συμμε->
+μειγμένοις‧ ὅταν ἑψ<εθῇ καὶ μέλ->
+λῃς αἰρειν, ἐπίπασσε πίπερ <λεῖ->
+ον‧ μετ᾽ ὄξους δρειμέως κα<θιστ->
+ᾶσιν ὀλίγον συμπεσεῖν, εἶ<τα με->
+τ<αί>ρουσιν ἀπὸ τοῦ πυρός‧ οἱ δ<ὲ ὄξ->
+ους ἐπιχέαντες πάντα ἕψ<ουσι
+προςυποστρώσαντες τὰ χ<λω->
+ρὰ καὶ τὰ ἄλλα ποι̣<ο>ῦσιν ὡς π<ρό-
+κειται>.*
 
 ### English Translation
-Fish broth: [put into a mortar] groats, coriander, leek [...] onions, dill [...] basil, and fine aniseed [...]. Cook over coals and moisten with water, wine, fish sauce, [and vinegar] mixed together. When it is cooked and you are about to remove it, sprinkle on fine pepper. With strong vinegar they allow it to simmer a little, then remove it from the fire.
+Fish broth: [put into a mortar] groats, coriander, leek [...] onions, dill [...] basil, and fine aniseed [...]. Cook over coals and moisten with water, wine, fish sauce, [and vinegar] mixed together. When it is cooked and you are about to remove it, sprinkle on fine pepper. With strong vinegar they allow it to simmer a little, then remove it from the fire. Others [pour] vinegar and cook everything [after] laying down the fresh herbs, and do the rest as [described above].
 
 —*Heidelberg Papyrus*, verso, column ς, lines 10-23, c. 3rd century CE
 

@@ -26,10 +26,10 @@ This glossary provides consistent translations for Latin terms found in Apicius 
 6. **Glosses**: When a Latin term appears in the main English translation text, it should be italicized and may be followed by a brief explanation in parentheses upon first use in each recipe.
 
 7. **Formatting for Recipe Pages**:
-   - Original Latin section should be titled "### Original Latin"
+   - Original text section should be titled "### Original Text" (regardless of whether it's Latin or Greek)
    - English translation section should be titled "### English Translation"
-   - Original Latin text should be italicized
-   - English translation should NOT be italicized, except for Latin terms (see point 1)
+   - Original text should be italicized
+   - English translation should NOT be italicized, except for Latin/Greek terms (see point 1)
    - Both sections should be followed by the source attribution with the book, section, and approximate date
    - Place a horizontal rule (___) after the attribution
    - Begin descriptive text with "Claude's intro:" to indicate AI-generated content
@@ -46,6 +46,13 @@ This glossary provides consistent translations for Latin terms found in Apicius 
 10. **Measurements and Quantities**: When the Latin text uses specific quantities, maintain these in the translation rather than converting to modern measurements. Include any necessary context in brackets.
 
 11. **Dating Conventions**: Consistently date Apicius to the 4th century CE (not 4th-5th century). The collection was likely compiled in its present form during this period.
+
+12. **Fragmentary Greek Texts**: The Heidelberg papyrus is a fragmentary document with many gaps and uncertainties in the text. When reproducing this text:
+    - Preserve line breaks as they appear in the papyrus
+    - Include angle brackets < > and dots ... to indicate missing or illegible text
+    - Format as *Original Text* (not "Original Greek")
+    - Include notation in the English translation about fragmentary nature where relevant
+    - Date consistently to "c. 300" or "c. 3rd century CE"
 
 ## Food Ingredients
 

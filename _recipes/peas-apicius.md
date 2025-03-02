@@ -10,8 +10,17 @@ permalink: /recipes/peas-apicius
 
 # Apicius Peas
 
-## Roman Dish from *Apicius*
-*Apicius 5.3.6*
+### Original Text
+*aliter pisa siue faba: ubi dispumauerit teres mel liquamen carenum cuminum rutam apii semen oleum et uinum. tutunclabis. cum pipere trito et cum esiciis inferes.*
+
+### English Translation
+Another preparation for peas or beans: When it has been skimmed, grind honey, fish sauce, *caroenum* (reduced wine), cumin, rue, celery seed, oil, and wine. Mix thoroughly. Serve with ground pepper and *esicia* (little meatballs).
+
+—*Apicius*, 5.3.6, c. 4th century CE
+
+___
+
+**Claude's intro:** This simple but flavorful pea dish from Apicius showcases the Roman approach to legumes, which were dietary staples across all social classes. The combination of aromatic herbs and spices with sweet and savory elements creates a complex flavor profile that elevates humble peas into something more sophisticated. The addition of fish sauce (garum) provides umami depth while honey and reduced wine (defrutum) add sweetness to balance the earthiness of the legumes. This dish demonstrates how Romans transformed basic ingredients with layers of flavor through their characteristic sweet-savory-aromatic combinations.
 
 ### Ingredients
 - 250g split {% include ingredient_link.html name="peas" %}  
@@ -33,12 +42,6 @@ permalink: /recipes/peas-apicius
 
 ### Notes
 This is a simple but flavorful pea dish from Apicius, a Roman cookbook compiled in the late 4th or early 5th century CE. The combination of herbs and spices (cumin, celery seed, and rue) with sweet (honey and reduced wine) and savory elements (fish sauce) creates a complex flavor profile typical of Roman cuisine.
-
-### Original Text Text
-> Aliter pisa siue faba: ubi dispumauerit teres mel liquamen carenum cuminum rutam apii semen oleum et uinum. tutunclabis. cum pipere trito et cum esiciis inferes.
-
-### Translation
-"Another recipe for peas or beans: When they have been skimmed, grind honey, fish sauce, reduced wine, cumin, rue, celery seed, oil, and wine. You will pound them. Serve with ground pepper and dumplings."
 
 {% endcapture %}
 {{ recipe_content | markdownify }}

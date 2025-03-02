@@ -18,7 +18,7 @@ Salt meat or ham pieces; raw meat in the same way. First boil the salted meat so
 
 ___
 
-This hearty stew transforms preserved meat with a complex mixture of spices, wine, and honey. The bread serves as both flavoring and thickening agent, creating a rich and satisfying dish.
+**Claude's intro:** This hearty stew transforms preserved meat with a complex mixture of spices, wine, and honey. The recipe is from the Heidelberg Papyrus, a collection of Greek recipes dated to the 3rd century CE. This demonstrates the Roman practice of using preserved meats and enhancing them with a complex array of aromatics. The bread serves as both flavoring and thickening agent, creating a rich and satisfying dish typical of elite Roman cuisine.
 
 ### Ingredients
 - 1 kg corned beef or gammon

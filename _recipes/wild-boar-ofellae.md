@@ -18,7 +18,7 @@ permalink: /recipes/wild-boar-ofellae
 
 ___
 
-<!-- TODO: Add description paragraph about wild boar in Roman cuisine -->
+**Claude's intro:** Wild boar was considered a prestigious game meat in Roman cuisine, associated with hunting and elite dining. This recipe recreates the flavors of wild boar dishes using domestic pork, a common substitution even in ancient times. The term *ofellae* refers to small cuts of meat, typically cooked with richly flavored sauces. This preparation features the characteristic Roman combination of honey for sweetness with fish sauce for umami depth, plus a complex blend of spices that would have been quite expensive. The result is a dish that transforms everyday pork into something reminiscent of the more prestigious wild game served at upper-class banquets.
 
 ### Ingredients
 - 750g {% include ingredient_link.html name="pork" %} belly

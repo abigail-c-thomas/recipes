@@ -19,6 +19,8 @@ For boiled lobster: serve well with cumin sauce: pepper, lovage, parsley, dried 
 
 ___
 
+**Claude's intro:** This recipe represents the Roman love of flavorful sauces for seafood. While the original recipe calls for lobster, the same sauce works beautifully with prawns, which were also enjoyed in ancient Rome. The combination of cumin, honey, and fish sauce creates a complex sweet-savory flavor profile that was characteristic of elite Roman cuisine. Romans valued imported spices like cumin, which appears frequently in Apicius, while the optional ingredient malabathrum (Indian bay leaf) demonstrates the far-reaching trade networks of the Empire, bringing exotic flavors from the East to Roman tables.
+
 ### Ingredients
 - 450 g uncooked {% include ingredient_link.html name="prawns" %}, peeled and deveined
 - ½ tsp ground {% include ingredient_link.html name="black pepper" %}

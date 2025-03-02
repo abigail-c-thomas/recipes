@@ -20,7 +20,7 @@ Relevant text from Apicius 7.15:
 
 ___
 
-Taro was a vegetable introduced to Rome from Egypt, where it was widely cultivated along the Nile. This recipe uses a thickened sauce with a complex sweet and savory flavor profile to complement the starchy texture of taro root.
+**Claude's intro:** Taro (*colocasium* in Latin) was a vegetable introduced to Rome from Egypt, where it was widely cultivated along the Nile. This recipe demonstrates how Romans incorporated exotic ingredients into their cuisine through trade networks that spanned the Mediterranean. The thickened sauce with its complex sweet-savory flavor profile—combining honey, fish sauce, and aromatic herbs—complements the starchy texture of taro root. Similar sauces appear in various Apicius recipes, showing the Roman preference for assertive flavorings that transform simple ingredients. The technique of thickening sauces was common in Roman high cuisine, creating luxurious textures that enhanced the dining experience.
 
 ### Ingredients
 - 400 g {% include ingredient_link.html name="taro" %}  

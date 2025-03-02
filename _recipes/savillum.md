@@ -20,7 +20,7 @@ From Cato, *De Agricultura* 84:
 
 ___
 
-Savillum is one of the earliest recorded cheesecake recipes, appearing in Cato the Elder's agricultural manual. This simple dessert combines fresh cheese with honey and poppy seeds for a sweet treat that's similar to modern cheesecake but with a distinctive Roman flavor profile.
+**Claude's intro:** Savillum is one of the earliest recorded cheesecake recipes, dating to the 2nd century BCE in Cato the Elder's agricultural manual *De Agricultura*. This ancient dessert represents the foundation of what would evolve into modern cheesecake, combining fresh cheese with honey and poppy seeds for a sweet treat with a distinctive Roman flavor profile. Unlike today's cream cheese-based versions, Savillum used fresh cheese similar to ricotta, resulting in a lighter texture. The recipe's inclusion in Cato's practical farming handbook suggests it was a relatively common dish in Roman households, not just elite cuisine, though the use of honey and imported poppy seeds would have made it somewhat special.
 
 ### Ingredients
 - 750 g {% include ingredient_link.html name="ricotta" %}  

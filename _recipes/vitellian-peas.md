@@ -18,7 +18,7 @@ permalink: /recipes/vitellian-peas
 
 ___
 
-This elegant Roman dish features a creamy pea purée combined with fragrant spices and egg yolks. The dish is named "Vitellian," which might refer to the emperor Vitellius (who briefly ruled in 69 CE) or perhaps to the word "vitellus" (egg yolk), which is a key ingredient in this recipe.
+**Claude's intro:** This elegant Roman dish features a creamy pea purée combined with fragrant spices and enriched with egg yolks. The dish is named "Vitellian," which might refer to the emperor Vitellius (who briefly ruled in 69 CE) or perhaps to the word "vitellus" (egg yolk), which is a key ingredient in this recipe. The combination of legumes with exotic spices like ginger demonstrates the Roman talent for transforming humble ingredients into sophisticated dishes. The attention to texture—suggesting the addition of honey if the mixture is too rough—shows the Roman concern for palatability and mouthfeel, a hallmark of elite cuisine throughout the Empire.
 
 ### Ingredients
 - 250g split {% include ingredient_link.html name="peas" %}  

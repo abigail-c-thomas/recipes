@@ -9,7 +9,16 @@ permalink: /recipes/varros-beets
 {% capture recipe_content %}
 # Varro's Beets
 
-**Claude's intro:** This simple preparation of beets follows a recipe mentioned by the Roman scholar Varro. The combination of wine, honey, and olive oil creates a sweet and tangy glaze for the earthy beets.
+### Original Text
+*Beta utique elixata ex sinapi, oleo adspersa aceto. modice cocta.*
+
+"Above all, beets boiled with mustard, sprinkled with oil, vinegar, moderately cooked."
+
+—*Apicius*, 3.2.3, c. 4th century CE
+
+___
+
+**Claude's intro:** This simple preparation of beets follows a recipe named after the Roman scholar Varro, though it appears in Apicius. The combination of wine, honey, and olive oil creates a sweet and tangy glaze that complements the earthy flavor of the beetroot. Beetroot was well-known in ancient Rome, where it was appreciated both for its culinary uses and perceived medicinal properties. This minimalist preparation allows the natural sweetness of the beets to shine while enhancing them with complementary flavors.
 
 ### Ingredients
 - 500g {% include ingredient_link.html name="beetroot" %}

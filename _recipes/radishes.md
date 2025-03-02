@@ -18,7 +18,7 @@ permalink: /recipes/radishes
 
 ___
 
-This exceptionally simple Roman recipe brings out the peppery flavor of fresh radishes with a pungent sauce of ground pepper and fish sauce. Despite its simplicity, it showcases the Roman fondness for bold, contrasting flavors.
+**Claude's intro:** This exceptionally simple Roman recipe brings out the peppery flavor of fresh radishes with a pungent sauce of ground pepper and fish sauce. Despite its simplicity, it showcases the Roman fondness for bold, contrasting flavors. Radishes were a common vegetable in ancient Rome, often eaten at the beginning of meals to stimulate the appetite. The combination of fish sauce (liquamen) and black pepper was a fundamental pairing in Roman cuisine, appearing in countless recipes across Apicius and other sources. This minimalist preparation demonstrates how Romans could create memorable dishes with very few ingredients.
 
 ### Ingredients
 - 5 medium {% include ingredient_link.html name="radish" %}es  

@@ -19,6 +19,8 @@ Tripe, innards, small cuts, and trotters: serve with pepper, fish sauce, and *la
 
 ___
 
+**Claude's intro:** This concise recipe from Apicius exemplifies the Roman appreciation for offal and economical cooking. While modern diners might consider tripe and other offal as "lesser" cuts, Romans of all social classes valued these ingredients for their unique textures and flavors. The minimal seasonings—just fish sauce, asafoetida (laser), and pepper—reflect a common Roman approach of using powerful aromatics and fermented condiments to enhance simple ingredients. This dish likely served as part of the gustatio (appetizer course) in a formal Roman meal, demonstrating that nose-to-tail eating has ancient roots in Mediterranean cuisine.
+
 ### Ingredients
 - 400 g {% include ingredient_link.html name="tripe" %}
 - 1 Tb {% include ingredient_link.html name="fish sauce" %}

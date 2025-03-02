@@ -18,7 +18,7 @@ permalink: /recipes/pottage-with-milk-tracta
 
 ___
 
-This Roman dish combines milk and tracta (a type of thin pastry) to create a sweet, pudding-like porridge. The addition of honey makes this more of a dessert than a savory dish, though the Romans didn't distinguish between sweet and savory courses as we do today.
+**Claude's intro:** This Roman dish combines milk and tracta (a type of thin pastry) to create a sweet, pudding-like porridge. Tracta was a thin sheet of dough similar to a modern pasta or pastry that was used to thicken and enrich various dishes. The addition of honey transforms what might otherwise be a simple porridge into a dessert-like dish, though the Romans didn't distinguish between sweet and savory courses as we do today. This recipe demonstrates how Romans could create creamy, pudding-like confections with just a few basic ingredients.
 
 ### Ingredients
 - 500 ml {% include ingredient_link.html name="milk" %}  

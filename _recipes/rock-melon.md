@@ -18,7 +18,7 @@ permalink: /recipes/rock-melon
 
 ___
 
-This unusual fruit preparation demonstrates the Roman tendency to combine sweet, sour, and savory flavors. While modern palates typically encounter melon in sweet preparations, the Romans enjoyed it with savory condiments as well.
+**Claude's intro:** This unusual fruit preparation demonstrates the Roman tendency to combine sweet, sour, and savory flavors in unexpected ways. While modern palates typically encounter melon in purely sweet preparations, the Romans enjoyed it with savory condiments including the distinctly umami fish sauce (garum). The addition of honey, vinegar, and aromatic herbs creates a complex flavor profile that highlights the versatility of melons in Roman cuisine. This recipe, like many in Apicius, shows how Romans approached fruit as ingredients that could cross between sweet and savory preparations, rather than limiting them to desserts as modern cuisine often does.
 
 ### Ingredients
 - Half a {% include ingredient_link.html name="melon" %}  

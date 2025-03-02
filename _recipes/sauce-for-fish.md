@@ -19,7 +19,9 @@ Sauce for eel: pepper, lovage, celery seed, dill, Syrian sumac, date, honey, vin
 
 ___
 
-**Ingredients**
+**Claude's intro:** This versatile sauce designed specifically for eel demonstrates the Roman mastery of complex flavor combinations. The impressive array of twelve ingredients creates layers of flavor: aromatic spices and herbs (pepper, lovage, celery seed, dill), the tangy acidity of sumac and vinegar, sweetness from honey, date syrup and reduced grape must (defrutum), and savory depth from fish sauce. While modern cooks might use a simple lemon-butter sauce for fish, Romans preferred these elaborate compositions that showcased wealth through imported ingredients and culinary sophistication. The fact that this recipe appears twice in Apicius indicates its importance in the repertoire of Roman fish cookery.
+
+### Ingredients
 
 * ½ tsp ground pepper  
 * ½ tsp lovage  

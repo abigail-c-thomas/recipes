@@ -19,6 +19,8 @@ Another sauce for boiled fish: when you have prepared the fish, add to a pan pep
 
 ___
 
+**Claude's intro:** This recipe showcases the Roman approach to cooking fish, which often focused on gentle cooking methods to preserve the delicate texture while incorporating aromatic herbs and spices. The combination of coriander, dill, and fish sauce creates a flavorful poaching liquid, while the final splash of vinegar adds brightness that balances the dish. This preparation method would have been accessible to most Roman households and represents an everyday approach to fish cookery rather than the elaborate seafood dishes that might have been served at elite banquets.
+
 ### Ingredients
 - 400 g white fish fillet
 - ½ tsp ground {% include ingredient_link.html name="black pepper" %}

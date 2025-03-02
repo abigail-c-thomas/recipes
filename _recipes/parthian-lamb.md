@@ -10,15 +10,16 @@ permalink: /recipes/parthian-lamb
 # Parthian Lamb
 
 ### Original Text
-<!-- TODO: Add original Latin text from Apicius 8.6.10 -->
+*hedum siue agnum Particum: mittes in furnum; teres piper rutam cepam satureiam damascena enucleata laseris modicum uinum liquamen et oleum. feruens colluitur in disco, ex aceto sumitur.*
 
-<!-- TODO: Add English translation -->
+### English Translation
+Parthian-style kid or lamb: Put it in the oven. Grind pepper, rue, onion, savory, pitted damascene plums, a little *laser* (asafoetida), wine, fish sauce, and oil. When hot, wash it over in a dish, and serve with vinegar.
 
 —*Apicius*, 8.6.10, c. 4th century CE
 
 ___
 
-<!-- TODO: Add description paragraph about Parthia and its culinary influences on Roman cuisine -->
+**Claude's intro:** This recipe takes its name from the ancient Parthian Empire, which was a major political and cultural power to the east of the Roman Empire. The combination of sweet prunes with savory herbs and the distinctive umami of fish sauce creates a complex flavor profile that would have been considered exotic and sophisticated in ancient Rome. This type of dish represents the Roman fondness for incorporating culinary techniques and flavor combinations from conquered territories.
 
 ### Ingredients
 - 1 kg {% include ingredient_link.html name="lamb" %} roast

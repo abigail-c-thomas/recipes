@@ -18,7 +18,7 @@ permalink: /recipes/poached-eggs
 
 ___
 
-<!-- TODO: Add description paragraph about Galen's medical writings and their culinary content -->
+**Claude's intro:** This simple egg preparation comes from Galen, the famous Greek physician whose medical writings had enormous influence well into the Renaissance. Unlike modern poached eggs cooked directly in water, this method steams the eggs in a flavorful mixture of wine, fish sauce, and olive oil, creating a dish that was considered both nutritious and easy to digest according to ancient medical theory. Galen often discussed food preparation in the context of health benefits, making this more than just a recipe but part of his broader approach to medicine and diet.
 
 ### Ingredients
 - 6 {% include ingredient_link.html name="eggs" %}

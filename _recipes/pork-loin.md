@@ -10,15 +10,24 @@ permalink: /recipes/pork-loin
 # Pork Loin
 
 ### Original Text
-<!-- TODO: Add original text from the Heidelberg papyrus -->
+*Ψόας καὶ τὰ σαρκώδη‧ λογιστὶ ἀνα-
+ποιήσας <ἐ>ν ἁλὶ, κόρι, ὀπῷ ὄπτα
+ἕως μόνον συμπίῃ‧ ἔστω δέ σοι
+ἐν κύθρᾳ ζωμὸς θερμός‧ ὄξος. ἔ-
+λαιον ἀνὰ μέρος α̅, οἴνου γλυκέ-
+ως ἀνὰ μέρη β̅, ἁλὸς βραχύ‧ ἂν ζέ-
+σῃ, βάλε ὀρειγάνου κορύμβους. κα-
+τασπάσας τ<......... . .  .>
+ἐμβαλὼν <.............. ...>*
 
-<!-- TODO: Add English translation -->
+### English Translation
+Loins and other fleshy parts: Season sparingly with salt, coriander, and *opos* (asafoetida/silphium juice), then roast until just cooked through. Have ready in a pot a hot broth: one part vinegar, one part oil, two parts sweet wine, a little salt. When it boils, add sprigs of oregano. [The remainder of the text is fragmentary]
 
 —Heidelberg papyrus, c. 300
 
 ___
 
-<!-- TODO: Add description paragraph about the Heidelberg papyrus and this recipe -->
+**Claude's intro:** This pork recipe comes from the remarkable Heidelberg papyrus, one of the few surviving culinary texts from the late 3rd/early 4th century CE. Unlike the more famous Apicius cookbook that primarily reflects elite Roman dining, the Heidelberg papyrus represents more everyday cooking traditions. The recipe balances aromatic coriander and pungent asafoetida with a sweet-sour sauce, creating a flavor profile typical of Greco-Roman cuisine. This method of first roasting meat and then finishing it in a flavorful sauce was a common technique that helped enhance and moisten the meat.
 
 ### Ingredients
 - 1 kg {% include ingredient_link.html name="pork" %} loin

@@ -19,7 +19,9 @@ Sauce for boiled fish: pepper, lovage, cumin, onion, oregano, pine nuts, date, h
 
 ___
 
-**Ingredients**
+**Claude's intro:** This complex sauce for boiled fish exemplifies the Roman approach to seafood, where carefully balanced sweet, sour, and savory elements created depth of flavor. Featuring a remarkable thirteen ingredients, the sauce combines aromatic spices (pepper, lovage, cumin, oregano), sweeteners (honey, date syrup), acidic elements (vinegar), and umami-rich fish sauce. The mixture would have complemented the delicate flavor of boiled fish while demonstrating the wealth and sophistication of the host. Similar sauce recipes appear throughout Apicius, suggesting that variations of this formula were fundamental in Roman fish cookery.
+
+### Ingredients
 
 * ½ tsp ground pepper  
 * ½ tsp lovage  

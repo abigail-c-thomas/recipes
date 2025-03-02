@@ -18,7 +18,7 @@ permalink: /recipes/pottage-with-wine-stock
 
 ___
 
-This simple grain porridge showcases the Roman approach to cooking semolina. By using a mixture of stock and wine as the cooking liquid, the grain absorbs far more flavor than it would if cooked in plain water.
+**Claude's intro:** This simple grain porridge showcases the Roman approach to cooking semolina, demonstrating how they elevated basic staple foods with flavorful liquids. By using a mixture of stock and wine as the cooking liquid instead of plain water, the grain absorbs complex flavors while cooking. Romans of all social classes consumed grain porridges (puls), but the addition of wine and meat stock would have made this version more luxurious than the basic versions eaten by common people. The technique of enriching grains with flavorful cooking liquids remains fundamental in Mediterranean cuisine today.
 
 ### Ingredients
 - 250 ml {% include ingredient_link.html name="stock" %}  

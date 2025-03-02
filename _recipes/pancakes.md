@@ -16,7 +16,7 @@ The exact Greek text for this recipe is not provided in recipes_raw_pt2.
 
 ___
 
-This simple pancake recipe comes from the writings of Galen, the influential Greek physician who served as personal doctor to several Roman emperors. The recipe demonstrates the basics of Roman cooking with its minimal ingredients, creating a versatile flatbread that could be served with savory or sweet accompaniments.
+**Claude's intro:** This simple pancake recipe comes from the writings of Galen, the influential Greek physician who served as personal doctor to several Roman emperors. The recipe demonstrates the basics of Roman cooking with its minimal ingredients, creating a versatile flatbread that could be served with savory or sweet accompaniments.
 
 ### Ingredients
 - 120 g whole wheat {% include ingredient_link.html name="flour" %}  

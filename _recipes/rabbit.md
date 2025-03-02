@@ -19,6 +19,8 @@ Tender hare: pre-cook it moderately in water, then place in a pan and cook in oi
 
 ___
 
+**Claude's intro:** This Apicius recipe for hare (substituted here with rabbit) demonstrates the elaborate cooking methods employed in Roman elite cuisine. Game meats were highly prized, and the multi-stage cooking process—first boiling, then roasting with a complex sauce—was designed to tenderize the meat while infusing it with layers of flavor. The aromatic sauce with its combination of herbs, wine, and fish sauce (garum) creates the sweet-savory-herbal flavor profile characteristic of Roman cooking. This dish would have been a highlight of a formal Roman dinner (cena), showcasing both expensive ingredients and sophisticated culinary techniques.
+
 ### Ingredients
 - 1 rabbit (about 1.3 kg)
 - {% include ingredient_link.html name="olive oil" %}

@@ -18,7 +18,7 @@ permalink: /recipes/soft-boiled-eggs
 
 ___
 
-<!-- TODO: Add description paragraph about eggs in Roman cuisine -->
+**Claude's intro:** Eggs were a popular and versatile ingredient in Roman cuisine, appearing in everything from appetizers to desserts. This recipe transforms simple soft-boiled eggs into a luxurious dish with a complex sauce featuring the classic Roman combination of sweet (honey), sour (vinegar), and umami (fish sauce) flavors. The addition of expensive pine nuts would have made this a somewhat upscale dish, likely served as part of the gustatio (appetizer course) at a formal meal. The pine nuts are soaked to soften them, creating a creamy texture when blended into the sauce.
 
 ### Ingredients
 - 150g {% include ingredient_link.html name="pine nuts" %}, soaked in 75 ml {% include ingredient_link.html name="wine" %}

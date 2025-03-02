@@ -19,6 +19,8 @@ Bonito is prepared thus: cook the bonito and remove the bones. Grind with pepper
 
 ___
 
+**Claude's intro:** This Apicius recipe offers a sophisticated approach to preparing tuna (originally bonito), showing how Romans transformed seafood with complex herb and sweet-savory flavor combinations. The absence of garum (fish sauce) is notable, as it suggests that the naturally salty flavor of preserved fish was sufficient. The combination of honey and date syrup with herbs like lovage and rue creates a distinctive sweet-herbal flavor profile common in Roman cuisine. The presentation with sliced eggs and a separate dressing of wine, vinegar, and reduced grape must (defrutum) shows attention to both flavor and aesthetics, typical of elite Roman dining.
+
 ### Ingredients
 - 200g canned {% include ingredient_link.html name="tuna" %}
 - Ground {% include ingredient_link.html name="black pepper" %}

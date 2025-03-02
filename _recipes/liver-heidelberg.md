@@ -1,19 +1,22 @@
 ---
 layout: recipe
-title: Liver
+title: Liver (Heidelberg)
 tags: [era:roman_empire, source:heidelberg_papyrus, offal]
 ingredients: [liver, olive oil, vinegar, coriander, thyme, asafoetida, salt]
-permalink: /recipes/liver
+permalink: /recipes/liver-heidelberg
 ---
 
 {% capture recipe_content %}
-# Liver
+# Liver (Heidelberg)
 
 ### Original Text
-*Hπαρ καλὸν‧ τεμὼν ἀναποίει μετ᾽ ἐλαίου ἁλὶ, κόρι, θύμῳ, ὀπῳ, ὄξει‧ εἰς ὀβελίσκον‧ ὄπτα θερμὸν καὶ χρῳ.*
+*Hπαρ καλὸν‧ τεμὼν ἀναποίει με-
+τ᾽ ἐλαίου ἁλὶ, κόρι, θύμῳ, ὀπῳ, ὄξει‧
+εἰς ὀβελίσκον‧ ὄπτα θερμὸν καὶ
+χρῳ.*
 
 ### English Translation
-Good liver: slice it and mix with oil, salt, coriander, thyme, *opos*, and vinegar. [Put it] on a skewer, grill it hot and use.
+Good liver: slice it and mix with oil, salt, coriander, thyme, *opos* (asafoetida), and vinegar. [Put it] on a skewer, grill it hot and use.
 
 —*Heidelberg Papyrus*, verso, column η, lines 65-68, c. 3rd century CE
 

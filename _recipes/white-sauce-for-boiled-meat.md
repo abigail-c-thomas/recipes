@@ -19,7 +19,9 @@ White sauce for boiled meat: pepper, fish sauce, wine, rue, onion, pine nuts, *c
 
 ___
 
-**Ingredients**
+**Claude's intro:** This versatile white sauce from Apicius represents a sophisticated approach to meat preparation in Roman cuisine. The sauce combines richness from pine nuts and bread, pungency from rue and fish sauce, sweetness from honey, and a foundation of wine—creating a complex flavor profile characteristic of elite Roman dining. Unlike modern gravies which often use the meat's own fat as a base, this sauce relies on bread as a thickening agent, a technique that remained popular in European cuisine for centuries. The pairing of carefully boiled meat with elaborate sauces was typical of Apicius, where the sauce often received more attention than the protein it accompanied.
+
+### Ingredients
 
 * 800 g cut of beef, lamb, or pork suitable for slow cooking  
 * 50 ml \+ 40 ml fish sauce  

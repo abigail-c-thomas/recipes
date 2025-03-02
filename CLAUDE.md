@@ -10,15 +10,25 @@
 - For large file processing: `sed -n '[START_LINE],$p' file > newfile` to extract remaining lines
 - For batch recipe processing: `mv newfile oldfile` to replace with processed version
 - Delete processed content with: `head -n [LINE_NUMBER] file | grep -v "pattern" > newfile`
+- Efficient searching:
+  - Find files missing specific text: `grep -L "search_text" _recipes/*.md`
+  - Count matching files: `grep -L "search_text" _recipes/*.md | wc -l`
+  - Always use grep/find over reading each file manually for better performance
 
 ## Recipe Management System
-- Location: `_claude_memory/` directory
-- Key files:
-  - [`_claude_memory/recipe_tracking.md`](/_claude_memory/recipe_tracking.md): Status tracking for all recipes
-  - [`_claude_memory/recipe_workflow.md`](/_claude_memory/recipe_workflow.md): Step-by-step processing instructions
-  - [`_claude_memory/recipe_database.json`](/_claude_memory/recipe_database.json): Structured data for recipes
-  - [`_claude_memory/translation_glossary.md`](/_claude_memory/translation_glossary.md): Standard translations for Latin terms
+- Location: `_claude_memory/` directory (central repository for all recipe tracking and guidelines)
+- Primary Files (Updated March 2, 2025):
+  - [`_claude_memory/recipe_tracking.md`](/_claude_memory/recipe_tracking.md): **MAIN FILE** - Comprehensive tracking for all recipes, including workflow, status codes, and standardization progress
+  - [`_claude_memory/translation_glossary.md`](/_claude_memory/translation_glossary.md): Standard translations for Latin/Greek terms
   - [`_claude_memory/templates/recipe_template.md`](/_claude_memory/templates/recipe_template.md): Standard recipe template
+  - [`_claude_memory/README.md`](/_claude_memory/README.md): Overview of the memory system and important guidelines
+
+- Directory Structure:
+  - `archive/`: Archived files from previous tracking systems (consolidated into recipe_tracking.md)
+  - `ingredients/`: Reference lists of known ingredients
+  - `scripts/`: Ruby scripts for recipe automation (including fix_permalinks.rb)
+  - `tags/`: Reference lists of established tags
+  - `templates/`: Templates for creating new files
 
 ### Recipe Processing Workflow
 1. **Check for Duplicates**: Always verify if recipe already exists
@@ -33,7 +43,7 @@
    ```bash
    grep -r "reference number" _sources_original/
    ```
-4. **Create and Format File**: Create from template and follow [status checklist](/_claude_memory/recipe_workflow.md#recipe-verification)
+4. **Create and Format File**: Create from template and follow status checklist in recipe_tracking.md
 5. **Update Tracking**: Add the recipe to [recipe_tracking.md](/_claude_memory/recipe_tracking.md) with appropriate status codes and notes about changes made
 
 ### Recipe Tracking and Updates
@@ -117,6 +127,31 @@
 - Comment placeholders with <!-- TODO: notes -->
 - Organize recipes in _recipes/ directory with kebab-case filenames
 - Place new recipes to process in _recipes_to_add/ directory
+
+## Managing Memory Files and Documentation
+- **EXTREMELY IMPORTANT**: Always check both CLAUDE.md and _claude_memory/recipe_tracking.md at the start of each session
+- Read through the memory files to refresh your understanding of the workflow and standards
+- After making significant changes to recipes or processes, update both:
+  1. CLAUDE.md - for high-level guidelines
+  2. _claude_memory/recipe_tracking.md - for detailed status tracking
+- When making systematic changes across multiple recipes, add a summary in _claude_memory/recipe_tracking.md
+- **CRITICAL RESPONSIBILITY**: Update the recipe_tracking.md status table after each recipe modification
+  - Update the status codes to reflect current state [F][T][O][TR][I][D]
+  - Update the Issues/Notes column with details of changes made
+  - Remove notes that are no longer relevant (e.g., after fixing an issue)
+  - Mark fixed issues with "Fixed:" prefix in the notes
+
+## Regular Maintenance Tasks
+- After adding new recipes or fixing existing ones:
+  ```bash
+  # Update known tags list
+  find _recipes -type f -name "*.md" | xargs grep -h "^tags:" | sort | uniq > _claude_memory/tags/known_tags.txt
+  
+  # Update known ingredients list
+  find _recipes -type f -name "*.md" | xargs grep -h "^ingredients:" | sort | uniq > _claude_memory/ingredients/known_ingredients.txt
+  ```
+- Periodically check _claude_memory/recipe_tracking.md for recipes that need attention
+- Keep the permalink format consistent across all recipes: `/recipes/recipe-name`
 
 ## Site Features
 - Recipe filtering: The recipes.html page filters by source, era, category, and ingredients

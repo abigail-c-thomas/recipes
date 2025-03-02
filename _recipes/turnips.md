@@ -18,7 +18,7 @@ permalink: /recipes/turnips
 
 ___
 
-This recipe transforms humble turnips with a complex, aromatic sauce. The combination of sweet, sour, and savory elements was typical of Roman cuisine, as was the use of cumin and rue with root vegetables.
+**Claude's intro:** This recipe transforms humble turnips with a complex, aromatic sauce—a perfect example of how Romans elevated simple vegetables through sophisticated seasonings. The combination of sweet (honey, defrutum), sour (vinegar), and savory elements (fish sauce) was typical of Roman cuisine, as was the use of cumin and rue with root vegetables. The inclusion of asafoetida (laser Parthicum), an expensive imported resin with a pungent flavor, suggests this dish was intended for a wealthy household rather than peasant fare. Roman agricultural writers like Pliny and Columella discussed turnip cultivation extensively, indicating its importance in the Roman diet across social classes.
 
 ### Ingredients
 - 600g {% include ingredient_link.html name="turnip" %}s  
