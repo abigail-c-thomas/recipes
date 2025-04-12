@@ -1,0 +1,17 @@
+<!-- Category Navigation Component -->
+<div class="collapsible-category">
+  <div class="collapsible-header">
+    <span class="browse-button">Browse</span>
+    <h2>{{ include.title }}</h2>
+    <span class="arrow-indicator">▼</span>
+  </div>
+  <div class="collapsible-content">
+    <ul class="category-list">
+      {% for item in include.items %}
+        <li>
+          <a href="/{{ include.category_type }}s/{{ item.value }}.html">{{ item.name }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

@@ -1,0 +1,82 @@
+<!-- Recipe Card Component -->
+<div class="recipe-card" itemscope itemtype="https://schema.org/Recipe">
+  <!-- Hidden Schema.org metadata -->
+  <meta itemprop="author" content="{{ include.author | default: site.author }}">
+  <meta itemprop="datePublished" content="{{ include.date | default: site.time | date_to_xmlschema }}">
+  
+  <!-- Recipe Header -->
+  <div class="recipe-header">
+    <h2 itemprop="name">{{ include.title }}</h2>
+    <div class="recipe-description" itemprop="description">{{ include.summary | markdownify }}</div>
+  </div>
+  
+  <!-- Recipe Image -->
+  {% if include.image %}
+  <div class="recipe-image">
+    <img itemprop="image" src="{{ include.image }}" alt="{{ include.title }}">
+  </div>
+  {% endif %}
+  
+  <!-- Recipe Controls -->
+  <div class="recipe-controls">
+    <div class="unit-toggle">
+      <button class="unit-button" data-unit="us">US</button>
+      <button class="unit-button active" data-unit="metric">Metric</button>
+    </div>
+    
+    <button class="print-button" aria-label="Print recipe">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <rect x="6" y="3" width="12" height="6"></rect>
+        <rect x="4" y="9" width="16" height="9"></rect>
+        <line x1="7" y1="13" x2="17" y2="13"></line>
+        <line x1="7" y1="16" x2="17" y2="16"></line>
+      </svg>
+      Print
+    </button>
+  </div>
+  
+  <!-- Recipe Meta -->
+  <div class="recipe-meta">
+    <div class="meta-item" itemprop="prepTime" content="PT{{ include.prep_time_mins }}M">
+      <span class="meta-icon">⏱️</span>
+      <span class="meta-heading">Prep Time</span>
+      <span class="meta-text">{{ include.prep_time }}</span>
+    </div>
+    
+    <div class="meta-item" itemprop="cookTime" content="PT{{ include.cook_time_mins }}M">
+      <span class="meta-icon">🍳</span>
+      <span class="meta-heading">Cook Time</span>
+      <span class="meta-text">{{ include.cook_time }}</span>
+    </div>
+    
+    <div class="meta-item">
+      <span class="meta-icon">👥</span>
+      <span class="meta-heading">Servings</span>
+      <span class="meta-text" itemprop="recipeYield">{{ include.servings | default: 4 }}</span>
+    </div>
+  </div>
+  
+  <!-- Recipe Ingredients -->
+  <div class="recipe-ingredients">
+    <h3>Ingredients</h3>
+    <div class="ingredients-content" itemprop="recipeIngredient" data-system="metric">
+      {{ include.ingredients | markdownify }}
+    </div>
+  </div>
+  
+  <!-- Recipe Instructions -->
+  <div class="recipe-instructions">
+    <h3>Instructions</h3>
+    <div class="instructions-content" itemprop="recipeInstructions" itemscope itemtype="https://schema.org/ItemList" data-system="metric">
+      {{ include.instructions | markdownify }}
+    </div>
+  </div>
+  
+  <!-- Recipe Notes -->
+  {% if include.notes %}
+  <div class="recipe-notes">
+    <h3>Notes</h3>
+    <div>{{ include.notes | markdownify }}</div>
+  </div>
+  {% endif %}
+</div>

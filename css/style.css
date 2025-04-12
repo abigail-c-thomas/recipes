@@ -1,0 +1,336 @@
+/* Base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header styles */
+header {
+    padding: 20px 0;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #f0932b;
+}
+
+/* Main content styles */
+main {
+    min-height: 500px;
+}
+
+.hero {
+    background-color: #f9f9f9;
+    padding: 50px 20px;
+    text-align: center;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+.hero h2 {
+    margin-bottom: 20px;
+    color: #2d3436;
+}
+
+.featured {
+    margin-bottom: 40px;
+}
+
+.featured h2 {
+    margin-bottom: 20px;
+    border-bottom: 2px solid #f0932b;
+    padding-bottom: 10px;
+}
+
+.recipes-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.recipe-preview {
+    border: 1px solid #e8e8e8;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.recipe-preview:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-preview h3 {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.recipe-preview p {
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.recipe-link {
+    display: inline-block;
+    color: #4a89dc;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.recipe-link:hover {
+    text-decoration: underline;
+}
+
+/* Footer styles */
+footer {
+    margin-top: 40px;
+    padding: 20px 0;
+    border-top: 1px solid #eee;
+    text-align: center;
+}
+
+/* Collapsible Category Component */
+.collapsible-category {
+    margin-bottom: 30px;
+    border: 1px solid #e8e8e8;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #fff;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.collapsible-header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    text-align: left;
+    cursor: pointer;
+    transition: all 0.2s;
+    margin-bottom: 5px;
+    user-select: none; /* Prevent text selection */
+}
+
+.collapsible-header:hover {
+    background-color: #e8e8e8;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.collapsible-header h2 {
+    margin: 0;
+    font-size: 1.4rem;
+}
+
+/* Category Navigation - Minima Theme Compatible */
+.collapsible-category {
+    margin-bottom: 1.5rem;
+    border-radius: 4px;
+    overflow: hidden;
+    border: 1px solid #e8e8e8;
+}
+
+.collapsible-header {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    background-color: #f8f8f8;
+    cursor: pointer;
+    user-select: none;
+    transition: all 0.2s ease;
+}
+
+.collapsible-header:hover {
+    background-color: #f2f2f2;
+}
+
+.collapsible-header h2 {
+    margin: 0;
+    font-size: 1.3rem;
+    color: #2a7ae2; /* Using Minima's link color */
+    font-weight: normal;
+}
+
+.browse-button {
+    background-color: #2a7ae2; /* Minima's link color */
+    color: white;
+    padding: 4px 10px;
+    border-radius: 3px;
+    font-size: 0.8rem;
+    margin-right: 1rem;
+    font-weight: normal;
+}
+
+.active .browse-button {
+    background-color: #1756a9; /* Darker shade */
+}
+
+.arrow-indicator {
+    margin-left: auto;
+    font-size: 0.8rem;
+    transition: transform 0.3s;
+    color: #828282; /* Minima's text-grey color */
+}
+
+.active .arrow-indicator {
+    transform: rotate(180deg);
+}
+
+.collapsible-content {
+    border-top: 1px solid #e8e8e8;
+    padding: 0;
+    background-color: white;
+}
+
+.category-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.category-list li {
+    margin: 0;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.category-list li:last-child {
+    border-bottom: none;
+}
+
+.category-list a {
+    display: block;
+    padding: 0.75rem 1rem;
+    color: #2a7ae2; /* Minima's link color */
+    text-decoration: none;
+    transition: background-color 0.2s;
+}
+
+.category-list a:hover {
+    background-color: #f8f8f8;
+    text-decoration: underline;
+}
+
+/* This was a duplicate rule */
+
+.toggle-icon {
+    font-size: 1rem;
+    transition: transform 0.3s;
+}
+
+.collapsible-content {
+    padding: 20px;
+    display: block;
+}
+
+.category-description {
+    margin: 15px 0;
+    font-style: italic;
+    color: #666;
+}
+
+.see-all-link {
+    text-align: right;
+    margin-top: 15px;
+}
+
+.see-all-link a {
+    font-weight: bold;
+    color: #4a89dc;
+    text-decoration: none;
+}
+
+.see-all-link a:hover {
+    text-decoration: underline;
+}
+
+.collapsible-category.active .toggle-icon {
+    transform: rotate(180deg);
+}
+
+.collapsible-category.active .collapsible-content {
+    max-height: 2000px;
+    transition: max-height 0.5s ease-in;
+}
+
+/* Category navigation */
+.category-nav {
+    margin-bottom: 30px;
+}
+
+.category-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.category-list li {
+    margin: 10px 0;
+    padding: 10px 15px;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+}
+
+.category-list li:hover {
+    background-color: #f0f0f0;
+}
+
+.category-list a {
+    display: block;
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+    }
+    
+    nav ul li {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+    
+    .recipes-grid {
+        grid-template-columns: 1fr;
+    }
+}

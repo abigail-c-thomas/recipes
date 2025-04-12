@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Testing Collapsible Component</title>
+  <style>
+    /* Base styles */
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    
+    .debug-box {
+      background: #f5f5f5;
+      border: 1px solid #ddd;
+      padding: 10px;
+      margin: 20px 0;
+      font-family: monospace;
+      white-space: pre;
+      max-height: 200px;
+      overflow: auto;
+    }
+    
+    /* Collapsible styles */
+    .collapsible-category {
+      margin-bottom: 20px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+    }
+    
+    .collapsible-header {
+      padding: 15px;
+      background-color: #f4f4f4;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      position: relative;
+    }
+    
+    .collapsible-header h2 {
+      margin: 0;
+      font-size: 1.4rem;
+    }
+    
+    .collapsible-header::before {
+      content: "Browse";
+      background-color: #f0932b;
+      color: white;
+      padding: 4px 10px;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      margin-right: 10px;
+      font-weight: bold;
+    }
+    
+    .active .collapsible-header::before {
+      content: "Close";
+      background-color: #666;
+    }
+    
+    .collapsible-content {
+      padding: 15px;
+      display: none;
+    }
+    
+    .category-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    
+    .category-list li {
+      margin: 10px 0;
+      padding: 8px 15px;
+      background-color: #f8f8f8;
+      border-radius: 4px;
+    }
+    
+    .category-list a {
+      display: block;
+      text-decoration: none;
+      color: #444;
+    }
+    
+    .category-list a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Testing Collapsible Navigation Component</h1>
+  
+  <div id="debug" class="debug-box">Debug information will appear here</div>
+  
+  <button onclick="testToggle()">Test Toggle First Category</button>
+  
+  <div class="collapsible-category">
+    <div class="collapsible-header">
+      <h2>Recipes by Historical Source</h2>
+    </div>
+    <div class="collapsible-content">
+      <ul class="category-list">
+        <li><a href="#">Apicius</a></li>
+        <li><a href="#">Vinidarius</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="collapsible-category">
+    <div class="collapsible-header">
+      <h2>Recipes by Modern Course</h2>
+    </div>
+    <div class="collapsible-content">
+      <ul class="category-list">
+        <li><a href="#">Main Dishes</a></li>
+        <li><a href="#">Desserts</a></li>
+        <li><a href="#">Appetizers</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <script>
+    // Debugging helper
+    function log(message) {
+      const debug = document.getElementById('debug');
+      debug.textContent += message + '\n';
+      console.log(message);
+    }
+    
+    // Test toggle function
+    function testToggle() {
+      log('Test toggle button clicked');
+      const header = document.querySelector('.collapsible-header');
+      if (header) {
+        log('Manually clicking first header');
+        header.click();
+      }
+    }
+    
+    // Initialize on page load
+    document.addEventListener('DOMContentLoaded', function() {
+      log('Document loaded');
+      
+      // Find all collapsible headers
+      const headers = document.querySelectorAll('.collapsible-header');
+      log(`Found ${headers.length} collapsible headers`);
+      
+      // Add click event to each header
+      headers.forEach((header, index) => {
+        log(`Setting up header #${index}: ${header.textContent.trim()}`);
+        
+        header.addEventListener('click', function() {
+          log(`Header #${index} clicked!`);
+          
+          // Get parent and content elements
+          const container = this.parentElement;
+          const content = this.nextElementSibling;
+          
+          log(`Content before: display=${window.getComputedStyle(content).display}`);
+          
+          // Toggle active class
+          container.classList.toggle('active');
+          
+          // Toggle visibility
+          if (container.classList.contains('active')) {
+            content.style.display = 'block';
+            log('Opening content');
+          } else {
+            content.style.display = 'none';
+            log('Closing content');
+          }
+          
+          log(`Content after: display=${window.getComputedStyle(content).display}`);
+        });
+      });
+      
+      // Initially close all sections
+      document.querySelectorAll('.collapsible-content').forEach(content => {
+        content.style.display = 'none';
+      });
+      
+      // Open the first section by default
+      if (headers.length > 0) {
+        const firstContainer = headers[0].parentElement;
+        const firstContent = headers[0].nextElementSibling;
+        
+        firstContainer.classList.add('active');
+        firstContent.style.display = 'block';
+        log('First section opened by default');
+      }
+    });
+  </script>
+</body>
+</html>

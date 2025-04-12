@@ -1,0 +1,20 @@
+<!-- Historical Recipe Quote Component -->
+<div class="historical-quote">
+  {% if include.original %}
+  <blockquote class="original-text">
+    <p>{{ include.original | markdownify }}</p>
+  </blockquote>
+  {% endif %}
+  
+  {% if include.translation %}
+  <blockquote class="translation-text">
+    <p>{{ include.translation | markdownify }}</p>
+  </blockquote>
+  {% endif %}
+  
+  {% if include.source %}
+  <div class="quote-source">
+    —<em>{{ include.source }}</em>
+  </div>
+  {% endif %}
+</div>

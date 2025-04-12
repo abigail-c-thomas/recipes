@@ -1,0 +1,42 @@
+/* Historical Quote Styling */
+.historical-quote {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background-color: #f9f7f0;
+  border-left: 4px solid #d9c7a5;
+  border-radius: 4px;
+}
+
+.historical-quote .original-text {
+  margin: 0 0 1rem 0;
+  padding: 0;
+  border-left: none;
+  font-style: italic;
+  color: #695e48;
+}
+
+.historical-quote .translation-text {
+  margin: 0 0 1rem 0;
+  padding: 0;
+  border-left: none;
+  font-style: normal;
+  color: #352f21;
+}
+
+/* For titles within the quotes */
+.historical-quote strong {
+  font-weight: bold;
+  font-style: inherit;
+}
+
+.historical-quote .quote-source {
+  font-size: 0.9rem;
+  text-align: right;
+  color: #8c8474;
+  margin-top: 0.5rem;
+}
+
+.historical-quote p {
+  margin: 0;
+  line-height: 1.6;
+}

@@ -1,0 +1,11 @@
+- name: Main Dishes
+  value: main
+  description: Hearty dishes that would be served as the centerpiece of a meal
+
+- name: Desserts
+  value: dessert
+  description: Sweet dishes typically served at the end of a meal
+
+- name: Appetizers
+  value: appetizer
+  description: Smaller dishes served at the beginning of a meal

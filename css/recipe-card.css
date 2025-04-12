@@ -1,0 +1,226 @@
+/* Recipe Card Styling */
+.recipe-card {
+  border: 1px solid #e8e8e8;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  padding: 2rem;
+  margin: 2rem 0;
+  background-color: #fff;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.recipe-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.recipe-header h2 {
+  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
+  color: #333;
+}
+
+.recipe-description {
+  font-size: 1.1rem;
+  color: #666;
+  line-height: 1.6;
+}
+
+.recipe-image {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.recipe-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+/* Recipe Controls */
+.recipe-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 6px;
+}
+
+.unit-toggle {
+  display: flex;
+  align-items: center;
+}
+
+.unit-button {
+  padding: 6px 12px;
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  cursor: pointer;
+}
+
+.unit-button:first-child {
+  border-radius: 4px 0 0 4px;
+}
+
+.unit-button:last-child {
+  border-radius: 0 4px 4px 0;
+  border-left: none;
+}
+
+.unit-button.active {
+  background-color: #4a89dc;
+  color: white;
+  border-color: #4a89dc;
+}
+
+.print-button {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 12px;
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.print-button:hover {
+  background-color: #e3e3e3;
+}
+
+/* Recipe Meta */
+.recipe-meta {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 1.5rem;
+}
+
+.meta-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.meta-icon {
+  font-size: 1.5rem;
+  margin-bottom: 8px;
+}
+
+.meta-heading {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #777;
+  margin-bottom: 4px;
+}
+
+.meta-text {
+  font-weight: bold;
+  color: #333;
+}
+
+/* Recipe Ingredients */
+.recipe-ingredients {
+  margin-bottom: 2rem;
+}
+
+.recipe-ingredients h3 {
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #f0f0f0;
+}
+
+.ingredients-content ul {
+  padding-left: 1.5rem !important;
+  list-style-type: disc !important;
+}
+
+.ingredients-content li {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+  display: list-item !important;
+}
+
+/* Recipe Instructions */
+.recipe-instructions {
+  margin-bottom: 2rem;
+}
+
+.recipe-instructions h3 {
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #f0f0f0;
+}
+
+/* CRITICAL FIX: Force display of list numbers */
+.recipe-instructions ol {
+  padding-left: 1.5rem !important;
+  list-style-type: decimal !important;
+  list-style-position: outside !important;
+  counter-reset: none !important;
+}
+
+.recipe-instructions li {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+  display: list-item !important;
+  list-style: decimal !important;
+  padding-left: 0.5rem !important;
+}
+
+/* Recipe Notes */
+.recipe-notes {
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #fffbec;
+  border-radius: 6px;
+  border-left: 4px solid #ffdc7d;
+}
+
+.recipe-notes h3 {
+  margin-bottom: 0.5rem;
+  color: #b38a0d;
+}
+
+/* Override any other CSS that might hide list numbers */
+.recipe-card ol {
+  list-style-type: decimal !important;
+}
+
+.recipe-card ul {
+  list-style-type: disc !important;
+}
+
+.recipe-card li {
+  display: list-item !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .recipe-card {
+    padding: 1rem;
+  }
+  
+  .recipe-controls {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .recipe-meta {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .meta-item {
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 0.5rem;
+  }
+}
